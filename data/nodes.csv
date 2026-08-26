@@ -1,0 +1,833 @@
+id,type,name,release_year
+franchise_alien,Franchise,Alien,
+franchise_animal_crossing,Franchise,Animal Crossing,
+franchise_assassin_s_creed,Franchise,Assassin's Creed,
+franchise_banjo_kazooie,Franchise,Banjo & Kazooie,
+franchise_batman,Franchise,Batman,
+franchise_battlefield,Franchise,Battlefield,
+franchise_bayonetta,Franchise,Bayonetta,
+franchise_bioshock,Franchise,Bioshock,
+franchise_borderlands,Franchise,Borderlands,
+franchise_call_of_duty,Franchise,Call of Duty,
+franchise_castlevania,Franchise,Castlevania,
+franchise_chrono,Franchise,Chrono,
+franchise_command_conquer,Franchise,Command & Conquer,
+franchise_crash_bandicoot,Franchise,Crash Bandicoot,
+franchise_crysis,Franchise,Crysis,
+franchise_cyberpunk,Franchise,Cyberpunk,
+franchise_danganronpa,Franchise,Danganronpa,
+franchise_dark_souls,Franchise,Dark Souls,
+franchise_darksiders,Franchise,Darksiders,
+franchise_dc_comics,Franchise,DC Comics,
+franchise_dead_space,Franchise,Dead Space,
+franchise_death_stranding,Franchise,Death Stranding,
+franchise_destiny,Franchise,Destiny,
+franchise_deus_ex,Franchise,Deus Ex,
+franchise_devil_may_cry,Franchise,Devil May Cry,
+franchise_diablo,Franchise,Diablo,
+franchise_donkey_kong,Franchise,Donkey Kong,
+franchise_doom,Franchise,Doom,
+franchise_dota,Franchise,Dota,
+franchise_dragon_age,Franchise,Dragon Age,
+franchise_drakengard,Franchise,Drakengard,
+franchise_duke_nukem,Franchise,Duke Nukem,
+franchise_dungeons_dragons,Franchise,Dungeons & Dragons,
+franchise_dying_light,Franchise,Dying Light,
+franchise_earthbound,Franchise,Earthbound,
+franchise_elden_ring,Franchise,Elden Ring,
+franchise_fables,Franchise,Fables,
+franchise_fallout,Franchise,Fallout,
+franchise_far_cry,Franchise,Far Cry,
+franchise_final_fantasy,Franchise,Final Fantasy,
+franchise_fire_emblem,Franchise,Fire Emblem,
+franchise_fortnite,Franchise,Fortnite,
+franchise_forza,Franchise,Forza,
+franchise_game_of_thrones,Franchise,Game of Thrones,
+franchise_gears_of_war,Franchise,Gears of War,
+franchise_genshin_impact,Franchise,Genshin Impact,
+franchise_god_of_war,Franchise,God of War,
+franchise_grand_theft_auto,Franchise,Grand Theft Auto,
+franchise_half_life,Franchise,Half-Life,
+franchise_halo,Franchise,Halo,
+franchise_harry_potter,Franchise,Harry Potter,
+franchise_hitman,Franchise,Hitman,
+franchise_horizon,Franchise,Horizon,
+franchise_ico,Franchise,Ico,
+franchise_indiana_jones,Franchise,Indiana Jones,
+franchise_infamous,Franchise,Infamous,
+franchise_jak_and_daxter,Franchise,Jak and Daxter,
+franchise_james_bond,Franchise,James Bond,
+franchise_kingdom_hearts,Franchise,Kingdom Hearts,
+franchise_league_of_legends,Franchise,League of Legends,
+franchise_lego,Franchise,LEGO,
+franchise_life_is_strange,Franchise,Life is Strange,
+franchise_mad_max,Franchise,Mad Max,
+franchise_mario,Franchise,Mario,
+franchise_mario_bros,Franchise,Mario Bros.,
+franchise_marvel,Franchise,Marvel,
+franchise_mass_effect,Franchise,Mass Effect,
+franchise_max_payne,Franchise,Max Payne,
+franchise_mega_man,Franchise,Mega Man,
+franchise_megami_tensei,Franchise,Megami Tensei,
+franchise_metal_gear,Franchise,Metal Gear,
+franchise_metal_gear_solid,Franchise,Metal Gear Solid,
+franchise_metro,Franchise,Metro,
+franchise_metroid,Franchise,Metroid,
+franchise_might_and_magic,Franchise,Might and Magic,
+franchise_minecraft,Franchise,Minecraft,
+franchise_monkey_island,Franchise,Monkey Island,
+franchise_monster_hunter,Franchise,Monster Hunter,
+franchise_mortal_kombat,Franchise,Mortal Kombat,
+franchise_need_for_speed,Franchise,Need for Speed,
+franchise_overwatch,Franchise,Overwatch,
+franchise_plants_vs_zombies,Franchise,Plants vs. Zombies,
+franchise_pok_mon,Franchise,Pokémon,
+franchise_portal,Franchise,Portal,
+franchise_prince_of_persia,Franchise,Prince of Persia,
+franchise_ratchet_clank,Franchise,Ratchet & Clank,
+franchise_rayman,Franchise,Rayman,
+franchise_resident_evil,Franchise,Resident Evil,
+franchise_s_t_a_l_k_e_r,Franchise,S.T.A.L.K.E.R.,
+franchise_shovel_knight,Franchise,Shovel Knight,
+franchise_sid_meier,Franchise,Sid Meier,
+franchise_silent_hill,Franchise,Silent Hill,
+franchise_sonic_the_hedgehog,Franchise,Sonic The Hedgehog,
+franchise_south_park,Franchise,South Park,
+franchise_spider_man,Franchise,Spider-Man,
+franchise_spyro_the_dragon,Franchise,Spyro the Dragon,
+franchise_star_wars,Franchise,Star Wars,
+franchise_starcraft,Franchise,starcraft,
+franchise_steins_gate,Franchise,Steins;Gate,
+franchise_street_fighter,Franchise,Street Fighter,
+franchise_team_fortress,Franchise,Team Fortress,
+franchise_tekken,Franchise,Tekken,
+franchise_tetris,Franchise,Tetris,
+franchise_the_elder_scrolls,Franchise,The Elder Scrolls,
+franchise_the_last_of_us,Franchise,The Last of Us,
+franchise_the_legend_of_zelda,Franchise,The Legend of Zelda,
+franchise_the_lord_of_the_rings,Franchise,The Lord of the Rings,
+franchise_the_simpsons,Franchise,The Simpsons,
+franchise_the_sims,Franchise,The Sims,
+franchise_the_walking_dead,Franchise,The Walking Dead,
+franchise_the_witcher,Franchise,The Witcher,
+franchise_titanfall,Franchise,Titanfall,
+franchise_tom_clancy_s,Franchise,Tom Clancy’s,
+franchise_tomb_raider,Franchise,Tomb Raider,
+franchise_tony_hawk_s,Franchise,Tony Hawk's,
+franchise_total_war,Franchise,Total War,
+franchise_uncharted,Franchise,Uncharted,
+franchise_warcraft,Franchise,Warcraft,
+franchise_watch_dogs,Franchise,Watch_Dogs,
+franchise_wolfenstein,Franchise,Wolfenstein,
+franchise_world_of_darkness,Franchise,World of Darkness,
+franchise_worms,Franchise,Worms,
+franchise_x_com,Franchise,X-COM,
+franchise_yakuza_like_a_dragon,Franchise,Yakuza: Like a Dragon,
+game_1009,Game,The Last of Us,2013
+game_1011,Game,Borderlands 2,2012
+game_10148,Game,Night in the Woods,2017
+game_1020,Game,Grand Theft Auto V,2013
+game_1022,Game,The Legend of Zelda,1986
+game_1026,Game,The Legend of Zelda: A Link to the Past,1991
+game_1029,Game,The Legend of Zelda: Ocarina of Time,1998
+game_1030,Game,The Legend of Zelda: Majora's Mask,2000
+game_103054,Game,Assassin's Creed Odyssey,2018
+game_103210,Game,Hitman 2,2018
+game_103298,Game,Doom Eternal,2020
+game_1033,Game,The Legend of Zelda: The Wind Waker,2002
+game_103329,Game,Control,2019
+game_1035,Game,The Legend of Zelda: The Minish Cap,2004
+game_1036,Game,The Legend of Zelda: Twilight Princess,2006
+game_1039,Game,The Legend of Zelda: Ocarina of Time 3D,2011
+game_1040,Game,Alice: Madness Returns,2011
+game_1048,Game,Hitman: Blood Money,2006
+game_1049,Game,Hitman: Contracts,2004
+game_105,Game,Need for Speed: Hot Pursuit,2010
+game_1051,Game,Mirror's Edge,2008
+game_1062,Game,Alan Wake,2010
+game_1067,Game,Super Mario Bros. 2,1988
+game_1068,Game,Super Mario Bros. 3,1988
+game_1070,Game,Super Mario World,1990
+game_1073,Game,Super Mario World 2: Yoshi's Island,1995
+game_1074,Game,Super Mario 64,1996
+game_1075,Game,Super Mario Sunshine,2002
+game_1076,Game,New Super Mario Bros.,2006
+game_1077,Game,Super Mario Galaxy,2007
+game_1078,Game,Super Mario Galaxy 2,2010
+game_1079,Game,Super Mario 3D Land,2011
+game_1081,Game,The Elder Scrolls Online,2014
+game_1082,Game,Resident Evil 6,2012
+game_109,Game,L.A. Noire,2011
+game_1090,Game,Donkey Kong Country,1994
+game_10919,Game,XCOM 2,2016
+game_1092,Game,Donkey Kong Country 2: Diddy's Kong Quest,1995
+game_109462,Game,Animal Crossing: New Horizons,2020
+game_10962,Game,Uncharted: The Nathan Drake Collection,2015
+game_11,Game,Vampire: The Masquerade - Bloodlines,2004
+game_110248,Game,Stray,2022
+game_1103,Game,Super Metroid,1994
+game_1105,Game,Metroid Prime,2002
+game_11065,Game,Ratchet & Clank,2016
+game_111,Game,Amnesia: The Dark Descent,2010
+game_11118,Game,Dishonored 2,2016
+game_11119,Game,Fallout Shelter,2015
+game_11133,Game,Dark Souls III,2016
+game_1114,Game,Castlevania,1986
+game_111469,Game,Among Us,2018
+game_11156,Game,Horizon Zero Dawn,2017
+game_11157,Game,Hitman,2016
+game_11161,Game,South Park: The Fractured But Whole,2017
+game_11169,Game,Final Fantasy VII Remake,2020
+game_11182,Game,Enter the Gungeon,2016
+game_11198,Game,Rocket League,2015
+game_112,Game,Devil May Cry 4,2008
+game_11208,Game,NieR: Automata,2017
+game_1121,Game,Watch Dogs,2014
+game_1122,Game,Call of Duty: Black Ops II,2012
+game_11233,Game,What Remains of Edith Finch,2017
+game_1128,Game,Castlevania: Symphony of the Night,1997
+game_112874,Game,Horizon Forbidden West,2022
+game_112875,Game,God of War Ragnarök,2022
+game_112916,Game,Mortal Kombat 11,2019
+game_113,Game,Assassin's Creed Brotherhood,2010
+game_113112,Game,Hades,2020
+game_113114,Game,The Outer Worlds,2019
+game_11397,Game,Yakuza 0,2015
+game_114283,Game,Persona 5 Royal,2019
+game_114795,Game,Apex Legends,2019
+game_11492,Game,Mafia III,2016
+game_115,Game,League of Legends,2009
+game_115115,Game,Resident Evil 3,2020
+game_115289,Game,Hollow Knight: Silksong,2025
+game_1156,Game,Tomb Raider II,1997
+game_116,Game,Star Wars: Knights of the Old Republic,2003
+game_1164,Game,Tomb Raider,2013
+game_117,Game,The Last Guardian,2016
+game_11737,Game,Outer Wilds,2019
+game_11790,Game,The Last of Us: Left Behind,2014
+game_118,Game,Star Wars: Knights of the Old Republic II - The Sith Lords,2004
+game_11800,Game,Divinity: Original Sin II,2017
+game_1183,Game,Guild Wars 2,2012
+game_1185,Game,Crash Bandicoot,1996
+game_1186,Game,Crash Bandicoot 2: Cortex Strikes Back,1997
+game_1187,Game,Crash Bandicoot: Warped,1998
+game_119,Game,Mortal Kombat,2011
+game_119133,Game,Elden Ring,2022
+game_119171,Game,Baldur's Gate III,2023
+game_119177,Game,Call of Duty: Modern Warfare,2019
+game_1192,Game,Crash Team Racing,1999
+game_119277,Game,Genshin Impact,2020
+game_119313,Game,Fall Guys,2020
+game_119388,Game,The Legend of Zelda: Tears of the Kingdom,2023
+game_120,Game,Diablo III,2012
+game_121,Game,Minecraft: Java Edition,2011
+game_1216,Game,Dead Space 3,2013
+game_121760,Game,Little Nightmares II,2021
+game_1219,Game,Kingdom Hearts,2002
+game_122,Game,Left 4 Dead,2008
+game_1221,Game,Kingdom Hearts II,2005
+game_123,Game,World of Warcraft,2004
+game_124,Game,Left 4 Dead 2,2009
+game_1244,Game,Tekken 3,1997
+game_125,Game,Diablo,1996
+game_12503,Game,The Witcher 3: Wild Hunt - Hearts of Stone,2015
+game_12515,Game,Pokémon Go,2016
+game_125165,Game,Diablo IV,2023
+game_12517,Game,Undertale,2015
+game_1254,Game,DmC: Devil May Cry,2013
+game_126,Game,Diablo II,2000
+game_1262,Game,South Park: The Stick of Truth,2014
+game_126459,Game,Valorant,2020
+game_1266,Game,Assassin's Creed III,2012
+game_1267,Game,Sleeping Dogs,2012
+game_1268,Game,Crysis 3,2013
+game_127,Game,Assassin's Creed II,2009
+game_1270,Game,Darksiders,2010
+game_127044,Game,Marvel's Spider-Man 2,2023
+game_1277,Game,Plants vs. Zombies,2009
+game_1279,Game,Hearthstone,2014
+game_128,Game,Assassin's Creed,2007
+game_13,Game,Fallout: A Post Nuclear Role Playing Game,1997
+game_130,Game,Warcraft II: Tides of Darkness,1995
+game_1305,Game,Tom Clancy's Splinter Cell: Blacklist,2013
+game_13166,Game,The Witcher 3: Wild Hunt - Blood and Wine,2016
+game_1318,Game,XCOM: Enemy Unknown,2012
+game_13182,Game,Far Cry: Primal,2016
+game_132,Game,Warcraft III: Reign of Chaos,2002
+game_133,Game,Warcraft III: The Frozen Throne,2003
+game_133004,Game,Assassin's Creed Valhalla,2020
+game_1331,Game,Limbo,2010
+game_1334,Game,Brothers: A Tale of Two Sons,2013
+game_1337,Game,Torchlight II,2012
+game_1339,Game,Psychonauts,2005
+game_134,Game,Devil May Cry,2001
+game_134070,Game,Mafia: Definitive Edition,2020
+game_1341,Game,Beyond Good & Evil,2003
+game_1342,Game,Beyond: Two Souls,2013
+game_134581,Game,Marvel's Spider-Man: Miles Morales,2020
+game_134582,Game,Ratchet & Clank: Rift Apart,2021
+game_134597,Game,Astro's Playroom,2020
+game_1352,Game,Journey,2012
+game_135243,Game,It Takes Two,2021
+game_135400,Game,Minecraft,2016
+game_136,Game,Devil May Cry 3: Dante's Awakening,2005
+game_136625,Game,Hogwarts Legacy,2023
+game_1372,Game,Counter-Strike: Global Offensive,2012
+game_1377,Game,Spec Ops: The Line,2012
+game_1384,Game,Hotline Miami,2012
+game_139090,Game,Inscryption,2021
+game_14,Game,Fallout 2,1998
+game_140839,Game,Mass Effect Legendary Edition,2021
+game_141,Game,Star Wars: Battlefront,2004
+game_141503,Game,Forza Horizon 5,2021
+game_142,Game,Star Wars: Battlefront II,2005
+game_14362,Game,Detroit: Become Human,2018
+game_14587,Game,Oxenfree,2016
+game_14593,Game,Hollow Knight,2017
+game_14746,Game,Batman: The Telltale Series,2016
+game_148241,Game,Lies of P,2023
+game_15,Game,Fallout 3,2008
+game_1511,Game,Pokémon Blue Version,1996
+game_1512,Game,Pokémon Yellow Version: Special Pikachu Edition,1998
+game_1513,Game,Pokémon Silver Version,1999
+game_1514,Game,Pokémon Crystal Version,2000
+game_1517,Game,Pokémon Emerald Version,2004
+game_1519,Game,Pokémon Platinum Version,2008
+game_152,Game,Star Wars: Jedi Knight II - Jedi Outcast,2002
+game_1520,Game,Pokémon SoulSilver Version,2009
+game_1521,Game,Pokémon Black Version,2010
+game_152249,Game,Marvel's Guardians of the Galaxy,2021
+game_1528,Game,Jak and Daxter: The Precursor Legacy,2001
+game_153,Game,Star Wars: Jedi Knight - Jedi Academy,2003
+game_1556,Game,Pokémon HeartGold Version,2009
+game_1557,Game,Pokémon Ruby Version,2002
+game_1558,Game,Pokémon Gold Version,1999
+game_1559,Game,Pokémon FireRed Version,2004
+game_1560,Game,Pokémon Diamond Version,2006
+game_1561,Game,Pokémon Red Version,1996
+game_1576,Game,Spyro the Dragon,1998
+game_1593,Game,Pillars of Eternity,2015
+game_16,Game,Fallout: New Vegas,2010
+game_1619,Game,Mortal Kombat II,1994
+game_1626,Game,Super Smash Bros.,1999
+game_1627,Game,Super Smash Bros. Melee,2001
+game_1628,Game,Super Smash Bros. Brawl,2008
+game_1638,Game,GoldenEye 007,1997
+game_17000,Game,Stardew Valley,2016
+game_1715,Game,Mega Man 2,1989
+game_17269,Game,Roblox,2006
+game_17447,Game,Titanfall 2,2016
+game_18,Game,Max Payne,2001
+game_1802,Game,Chrono Trigger,1995
+game_181,Game,Grim Fandango,1998
+game_18320,Game,Battlefield 1,2016
+game_184,Game,Indiana Jones and the Fate of Atlantis,1992
+game_18433,Game,Overcooked!,2016
+game_185246,Game,Alan Wake II,2023
+game_186725,Game,Vampire Survivors,2022
+game_1871,Game,The Walking Dead,2012
+game_1876,Game,Spore,2008
+game_1877,Game,Cyberpunk 2077,2020
+game_1879,Game,Terraria,2011
+game_18866,Game,Dead by Daylight,2016
+game_1887,Game,Dragon Age: Inquisition,2014
+game_18968,Game,Call of Duty: Infinite Warfare,2016
+game_19,Game,Max Payne 2: The Fall of Max Payne,2003
+game_19000,Game,The Walking Dead: A New Frontier,2016
+game_1905,Game,Fortnite,2020
+game_1906,Game,Gone Home,2013
+game_1910,Game,Outlast,2013
+game_1911,Game,Path of Exile,2013
+game_19130,Game,Sid Meier's Civilization VI,2016
+game_19164,Game,Borderlands 3,2019
+game_1918,Game,Injustice: Gods Among Us,2013
+game_1928,Game,Indigo Prophecy,2005
+game_193,Game,Day of the Tentacle,1993
+game_1939,Game,Destiny,2014
+game_1941,Game,Infamous: Second Son,2014
+game_1942,Game,The Witcher 3: Wild Hunt,2015
+game_19441,Game,Watch Dogs 2,2016
+game_19456,Game,Ori and the Blind Forest: Definitive Edition,2016
+game_19457,Game,The Elder Scrolls V: Skyrim - Special Edition,2016
+game_19531,Game,Prey,2017
+game_19560,Game,God of War,2018
+game_19561,Game,Days Gone,2019
+game_19562,Game,Resident Evil 7: Biohazard,2017
+game_19564,Game,Death Stranding,2019
+game_19565,Game,Marvel's Spider-Man,2018
+game_1968,Game,Rayman Legends,2013
+game_19686,Game,Resident Evil 2,2019
+game_1970,Game,Assassin's Creed IV Black Flag,2013
+game_1976,Game,Call of Juarez: Gunslinger,2013
+game_1979,Game,Battlefield 4,2013
+game_1981,Game,Saints Row IV,2013
+game_1983,Game,Bastion,2011
+game_1985,Game,Metal Gear Solid V: The Phantom Pain,2015
+game_1991,Game,Fez,2012
+game_20,Game,BioShock,2007
+game_2001,Game,Far Cry 3: Blood Dragon,2013
+game_2003,Game,Batman: Arkham Origins,2013
+game_201156,Game,Star Wars Jedi: Survivor,2023
+game_20150,Game,Katana Zero,2019
+game_2025,Game,Mount & Blade: Warband,2010
+game_2031,Game,Wolfenstein: The New Order,2014
+game_2033,Game,Call of Duty: Ghosts,2013
+game_204350,Game,The Last of Us Part I,2022
+game_2058,Game,Payday 2,2013
+game_21,Game,BioShock 2,2010
+game_21062,Game,Sonic Mania,2017
+game_2112,Game,Mirror's Edge Catalyst,2016
+game_2113,Game,Star Wars Battlefront,2015
+game_2114,Game,Tom Clancy's The Division,2016
+game_2126,Game,Hotline Miami 2: Wrong Number,2015
+game_2129,Game,Mark of the Ninja,2012
+game_2132,Game,The Binding of Isaac,2011
+game_2136,Game,Bayonetta,2009
+game_2148,Game,Banjo-Kazooie,1998
+game_2155,Game,Dark Souls,2011
+game_2178,Game,New Super Mario Bros. Wii,2009
+game_2180,Game,Super Mario 3D World,2013
+game_2181,Game,Wii Sports,2006
+game_2183,Game,Mario Kart Wii,2008
+game_22,Game,System Shock 2,1999
+game_2207,Game,Shadow of the Colossus,2005
+game_223,Game,The Sims,2000
+game_224,Game,The Sims 2,2004
+game_22439,Game,The Witcher 3: Wild Hunt - Game of the Year Edition,2016
+game_2261,Game,Gothic,2001
+game_2262,Game,Gothic II,2002
+game_2276,Game,The Legend of Zelda: The Wind Waker HD,2013
+game_2287,Game,Pokémon Y,2013
+game_22917,Game,Gris,2018
+game_230,Game,StarCraft,1998
+game_231,Game,Half-Life,1998
+game_232,Game,Half-Life: Opposing Force,1999
+game_23248,Game,Frostpunk,2018
+game_233,Game,Half-Life 2,2004
+game_2332,Game,Super Mario Kart,1992
+game_2342,Game,Mario Kart 64,1996
+game_2344,Game,Mario Kart: Double Dash!!,2003
+game_2345,Game,Mario Kart DS,2005
+game_2350,Game,Mario Kart 8,2014
+game_2368,Game,Dark Souls II,2014
+game_239,Game,StarCraft II: Wings of Liberty,2010
+game_241,Game,Counter-Strike,2000
+game_242408,Game,Counter-Strike 2,2023
+game_2437,Game,Prince of Persia: The Two Thrones,2005
+game_2438,Game,Prince of Persia,2008
+game_245,Game,Command & Conquer: Red Alert 2,2000
+game_246,Game,Diablo II: Lord of Destruction,2001
+game_247,Game,Half-Life 2: Episode Two,2007
+game_25076,Game,Red Dead Redemption 2,2018
+game_251833,Game,Balatro,2024
+game_2549,Game,Half-Life: Blue Shift,2001
+game_2552,Game,Mad Max,2015
+game_25657,Game,Destiny 2,2017
+game_2599,Game,Game Dev Tycoon,2012
+game_260,Game,The Sims 3,2009
+game_26192,Game,The Last of Us Part II,2020
+game_26193,Game,Uncharted: The Lost Legacy,2017
+game_26196,Game,Crash Bandicoot N. Sane Trilogy,2017
+game_26226,Game,Celeste,2018
+game_26401,Game,Star Wars Battlefront II,2017
+game_26472,Game,Disco Elysium,2019
+game_2671,Game,Guitar Hero III: Legends of Rock,2007
+game_26758,Game,Super Mario Odyssey,2017
+game_26764,Game,Mario Kart 8 Deluxe,2017
+game_2682,Game,LEGO Star Wars: The Complete Saga,2007
+game_26820,Game,Blasphemous,2019
+game_26845,Game,Fire Emblem: Three Houses,2019
+game_26855,Game,Dead Cells,2018
+game_2720,Game,Bully,2006
+game_27316,Game,A Plague Tale: Innocence,2019
+game_27421,Game,Middle-earth: Shadow of War,2017
+game_277,Game,Battlefield 2,2005
+game_27789,Game,PUBG: Battlegrounds,2017
+game_280,Game,Doom 3,2004
+game_281,Game,Return to Castle Wolfenstein,2001
+game_28204,Game,Call of Duty: WWII,2017
+game_2844,Game,The Simpsons: Hit & Run,2003
+game_2853,Game,Braid,2008
+game_28540,Game,Assassin's Creed Origins,2017
+game_28552,Game,Far Cry 5,2018
+game_286,Game,Quake II,1997
+game_289,Game,Age of Empires,1997
+game_2899,Game,EarthBound,1994
+game_29004,Game,Life is Strange: Before the Storm,2017
+game_2903,Game,Warframe,2013
+game_2909,Game,The Legend of Zelda: A Link Between Worlds,2013
+game_2935,Game,"Papers, Please",2013
+game_2939,Game,The Vanishing of Ethan Carter,2014
+game_294041,Game,Marvel Rivals,2024
+game_295,Game,Command & Conquer: Red Alert,1996
+game_296,Game,Crysis,2007
+game_2963,Game,Dota 2,2013
+game_2985,Game,Persona 4 Golden,2012
+game_299,Game,Age of Empires III,2005
+game_2990,Game,Machinarium,2009
+game_2993,Game,The Wolf Among Us,2013
+game_3022,Game,Transistor,2014
+game_3025,Game,Middle-earth: Shadow of Mordor,2014
+game_3035,Game,The Stanley Parable,2013
+game_3042,Game,Dying Light,2015
+game_305152,Game,Clair Obscur: Expedition 33,2025
+game_306,Game,Far Cry,2004
+game_307,Game,Counter-Strike: Source,2004
+game_3070,Game,Euro Truck Simulator 2,2012
+game_3075,Game,FTL: Faster Than Light,2012
+game_3097,Game,The Walking Dead: Season Two,2013
+game_312,Game,Doom II: Hell on Earth,1994
+game_3152,Game,Don't Starve,2013
+game_3153,Game,Castle Crashers,2008
+game_3182,Game,Diablo III: Reaper of Souls,2014
+game_3186,Game,Street Fighter II,1991
+game_3192,Game,Sonic the Hedgehog,1991
+game_320,Game,S.T.A.L.K.E.R.: Shadow of Chernobyl,2007
+game_3212,Game,The Sims 4,2014
+game_3221,Game,Rogue Legacy,2013
+game_3225,Game,No Man's Sky,2016
+game_324,Game,Age of Mythology,2002
+game_326,Game,Medal of Honor: Allied Assault,2002
+game_327,Game,Age of Empires II: The Age of Kings,1999
+game_3278,Game,Garry's Mod,2004
+game_333,Game,Quake,1996
+game_3349,Game,Paper Mario: The Thousand-Year Door,2004
+game_338,Game,Half-Life 2: Episode One,2006
+game_342,Game,Duke Nukem 3D,1996
+game_343,Game,Battlefield 3,2011
+game_347668,Game,Resident Evil Requiem,2026
+game_352,Game,Battlefield: Bad Company 2,2010
+game_355,Game,Quake III Arena,1999
+game_358,Game,Super Mario Bros.,1985
+game_359,Game,Final Fantasy XV,2016
+game_361,Game,Far Cry 2,2008
+game_364,Game,Heroes of Might and Magic III: The Restoration of Erathia,1999
+game_36897,Game,A Way Out,2018
+game_36926,Game,Monster Hunter: World,2018
+game_36952,Game,Wolfenstein II: The New Colossus,2017
+game_37,Game,Dead Space,2008
+game_37001,Game,Ori and the Will of the Wisps,2020
+game_37016,Game,Metro Exodus,2019
+game_37382,Game,Pokémon Sword,2019
+game_375,Game,Metal Gear Solid,1998
+game_3750,Game,Quantum Break,2016
+game_376,Game,Metal Gear Solid 2: Sons of Liberty,2001
+game_37777,Game,Shadow of the Tomb Raider,2018
+game_378,Game,Metal Gear Rising: Revengeance,2013
+game_379,Game,Metal Gear Solid 3: Snake Eater,2004
+game_38,Game,Dead Space 2,2011
+game_380,Game,Metal Gear Solid 4: Guns of the Patriots,2008
+game_3812,Game,Ryse: Son of Rome,2013
+game_389,Game,Final Fantasy XIII,2009
+game_39,Game,Mafia,2002
+game_398,Game,Final Fantasy XII,2006
+game_4,Game,Thief,2014
+game_40,Game,Mafia II,2010
+game_40477,Game,Slay the Spire,2019
+game_41,Game,Deus Ex,2000
+game_418,Game,Final Fantasy X,2001
+game_421,Game,Final Fantasy IX,2000
+game_425,Game,Final Fantasy VIII,1999
+game_426,Game,Final Fantasy III,1994
+game_427,Game,Final Fantasy VII,1997
+game_43,Game,Deus Ex: Human Revolution,2011
+game_431,Game,Uncharted: Drake's Fortune,2007
+game_434,Game,Red Dead Redemption,2010
+game_438,Game,Rome: Total War,2004
+game_4438,Game,Sonic the Hedgehog 2,1992
+game_45181,Game,Mass Effect Trilogy,2012
+game_471,Game,Crysis 2,2011
+game_472,Game,The Elder Scrolls V: Skyrim,2011
+game_475,Game,Star Wars: The Force Unleashed,2008
+game_4754,Game,Alien: Isolation,2014
+game_4756,Game,Child of Light,2014
+game_478,Game,The Witcher 2: Assassins of Kings,2011
+game_4786,Game,The Evil Within,2014
+game_479,Game,Metal Gear Solid 3: Subsistence,2005
+game_480,Game,Silent Hill,1999
+game_481,Game,Silent Hill 2,2001
+game_482,Game,Silent Hill 3,2003
+game_4843,Game,Kingdom Come: Deliverance,2018
+game_492,Game,Gears of War 3,2011
+game_493,Game,Heavy Rain,2010
+game_494,Game,Bulletstorm,2011
+game_495,Game,Metro 2033,2010
+game_498,Game,Borderlands,2009
+game_499,Game,God of War III,2010
+game_5,Game,Baldur's Gate,1998
+game_500,Game,Batman: Arkham Asylum,2009
+game_501,Game,Batman: Arkham City,2011
+game_5025,Game,To the Moon,2011
+game_509,Game,Rage,2011
+game_512,Game,Uncharted 3: Drake's Deception,2011
+game_517,Game,F.E.A.R.,2005
+game_520,Game,F.E.A.R. 2: Project Origin,2009
+game_521,Game,Fable,2004
+game_523,Game,Infamous,2009
+game_529,Game,Far Cry 3,2012
+game_530,Game,Hitman: Absolution,2012
+game_5328,Game,Metal Gear Solid V: Ground Zeroes,2014
+game_533,Game,Dishonored,2012
+game_5335,Game,Goat Simulator,2014
+game_534,Game,The Legend of Zelda: Skyward Sword,2011
+game_536,Game,Dead Island,2011
+game_537,Game,Assassin's Creed Revelations,2011
+game_538,Game,BioShock Infinite,2013
+game_539,Game,Metro: Last Light,2013
+game_545,Game,Call of Duty: Black Ops,2010
+game_547,Game,Gears of War,2006
+game_548,Game,Gears of War 2,2008
+game_5503,Game,Batman: Arkham Knight,2015
+game_551,Game,God of War II,2007
+game_55163,Game,Resident Evil Village,2021
+game_552,Game,God of War: Chains of Olympus,2008
+game_558,Game,Just Cause 2,2010
+game_559,Game,Call of Duty: Modern Warfare 2,2009
+game_55935,Game,Doki Doki Literature Club!,2017
+game_56,Game,The Elder Scrolls III: Morrowind,2002
+game_5601,Game,The Witness,2016
+game_5606,Game,Assassin's Creed Unity,2014
+game_5619,Game,Demon's Souls,2009
+game_562,Game,Tom Clancy's Splinter Cell: Conviction,2010
+game_565,Game,Uncharted 2: Among Thieves,2009
+game_570,Game,Prototype,2009
+game_59,Game,The Elder Scrolls IV: Oblivion,2006
+game_5973,Game,Broforce,2015
+game_6,Game,Baldur's Gate II: Shadows of Amn,2000
+game_60,Game,The Secret of Monkey Island,1990
+game_6032,Game,Borderlands: The Pre-Sequel,2014
+game_6036,Game,The Last of Us Remastered,2014
+game_61,Game,Monkey Island 2: LeChuck's Revenge,1991
+game_62,Game,The Curse of Monkey Island,1997
+game_620,Game,Burnout Paradise,2008
+game_621,Game,Call of Duty,2003
+game_62151,Game,Life Is Strange 2,2018
+game_622,Game,Call of Duty 2,2005
+game_623,Game,Call of Duty 4: Modern Warfare,2007
+game_625,Game,Call of Duty: World at War,2008
+game_647,Game,Command & Conquer,1995
+game_6632,Game,Call of Duty: Advanced Warfare,2014
+game_6707,Game,Tales from the Borderlands,2014
+game_6739,Game,Black Mesa,2020
+game_6801,Game,Far Cry 4,2014
+game_7081,Game,Battlefield Hardline,2015
+game_71,Game,Portal,2007
+game_7194,Game,Steins;Gate,2009
+game_72,Game,Portal 2,2011
+game_7205,Game,SuperHot,2016
+game_7292,Game,Mortal Kombat X,2015
+game_73,Game,Mass Effect,2007
+game_730,Game,Grand Theft Auto III,2001
+game_731,Game,Grand Theft Auto IV,2008
+game_7313,Game,Heroes of the Storm,2015
+game_732,Game,Grand Theft Auto: San Andreas,2004
+game_7323,Game,Rise of the Tomb Raider,2015
+game_7327,Game,Valiant Hearts: The Great War,2014
+game_733,Game,Grand Theft Auto: Vice City,2002
+game_7331,Game,Uncharted 4: A Thief's End,2016
+game_7334,Game,Bloodborne,2015
+game_7342,Game,Inside,2016
+game_7344,Game,Ori and the Blind Forest,2015
+game_7346,Game,The Legend of Zelda: Breath of the Wild,2017
+game_7349,Game,Mass Effect: Andromeda,2017
+game_7351,Game,Doom,2016
+game_7352,Game,Abzu,2016
+game_7360,Game,Rainbow Six Siege,2015
+game_7386,Game,The Talos Principle,2014
+game_74,Game,Mass Effect 2,2010
+game_740,Game,Halo: Combat Evolved,2001
+game_7444,Game,Shovel Knight,2014
+game_74701,Game,Star Wars Jedi: Fallen Order,2019
+game_748,Game,Hitman 2: Silent Assassin,2002
+game_75,Game,Mass Effect 3,2012
+game_7504,Game,The Forest,2018
+game_75235,Game,Ghost of Tsushima,2020
+game_7570,Game,Assassin's Creed Rogue,2014
+game_7599,Game,Life Is Strange,2015
+game_76,Game,Dragon Age: Origins,2009
+game_7603,Game,Hellblade: Senua's Sacrifice,2017
+game_7609,Game,Until Dawn,2015
+game_7610,Game,Game of Thrones: A Telltale Games Series,2014
+game_76253,Game,Devil May Cry 5,2019
+game_76882,Game,Sekiro: Shadows Die Twice,2019
+game_7706,Game,This War of Mine,2014
+game_7789,Game,The Binding of Isaac: Rebirth,2014
+game_78,Game,Dragon Age II,2011
+game_7842,Game,Danganronpa: Trigger Happy Havoc,2010
+game_80,Game,The Witcher,2007
+game_80853,Game,Metro 2033 Redux,2014
+game_81085,Game,Dark Souls: Remastered,2018
+game_8173,Game,Overwatch,2016
+game_8187,Game,Just Cause 3,2015
+game_819,Game,Grand Theft Auto 2,1999
+game_8197,Game,Tetris,1989
+game_82090,Game,Forza Horizon 4,2018
+game_8222,Game,Dark Souls II: Scholar of the First Sin,2015
+game_8254,Game,Resident Evil,2014
+game_826,Game,Saints Row 2,2008
+game_8263,Game,Assassin's Creed Syndicate,2015
+game_832,Game,Planescape: Torment,1999
+game_836,Game,Prince of Persia: The Sands of Time,2003
+game_837,Game,Prince of Persia: Warrior Within,2004
+game_83728,Game,Battlefield V,2018
+game_847,Game,Resident Evil 5,2009
+game_866,Game,Sid Meier's Civilization V,2010
+game_873,Game,Saints Row: The Third,2011
+game_885,Game,Super Meat Boy,2010
+game_890,Game,Syberia,2002
+game_891,Game,Team Fortress 2,2007
+game_8965,Game,Darkest Dungeon,2016
+game_90101,Game,Super Smash Bros. Ultimate,2018
+game_9061,Game,Cuphead,2017
+game_9066,Game,Cities: Skylines,2015
+game_910,Game,Tom Clancy's Splinter Cell,2002
+game_911,Game,Tom Clancy's Splinter Cell: Chaos Theory,2005
+game_913,Game,Tony Hawk's Pro Skater 2,2000
+game_9174,Game,Little Nightmares,2017
+game_9192,Game,Wolfenstein: The Old Blood,2015
+game_9254,Game,Subnautica,2018
+game_942,Game,World of Goo,2008
+game_948,Game,Worms Armageddon,1999
+game_949,Game,Call of Duty 3,2006
+game_9498,Game,Deus Ex: Mankind Divided,2016
+game_9509,Game,Call of Duty: Black Ops III,2015
+game_96,Game,Need for Speed: Underground,2003
+game_960,Game,Max Payne 3,2012
+game_9602,Game,Super Smash Bros. for Wii U,2014
+game_9630,Game,Fallout 4,2015
+game_9643,Game,Return of the Obra Dinn,2018
+game_96437,Game,Starfield,2023
+game_966,Game,Resident Evil 3: Nemesis,1999
+game_97,Game,Need for Speed: Underground 2,2004
+game_9727,Game,Soma,2015
+game_9730,Game,Firewatch,2016
+game_974,Game,Resident Evil 4,2005
+game_979,Game,Call of Duty: Modern Warfare 3,2011
+game_98,Game,Need for Speed: Most Wanted,2005
+game_980,Game,Grand Theft Auto,1997
+game_981,Game,Rayman Origins,2011
+game_986,Game,Halo 2,2004
+game_987,Game,Halo 3,2007
+game_989,Game,Halo 3: ODST,2009
+game_99,Game,Need for Speed: Carbon,2006
+game_990,Game,Halo: Reach,2010
+game_991,Game,Halo 4,2012
+game_9927,Game,Persona 5,2016
+genre_adventure,Genre,Adventure,
+genre_arcade,Genre,Arcade,
+genre_card_board_game,Genre,Card & Board Game,
+genre_fighting,Genre,Fighting,
+genre_hack_and_slash_beat_em_up,Genre,Hack and slash/Beat 'em up,
+genre_indie,Genre,Indie,
+genre_moba,Genre,MOBA,
+genre_music,Genre,Music,
+genre_platformer,Genre,Platformer,
+genre_point_and_click,Genre,Point-and-click,
+genre_puzzle,Genre,Puzzle,
+genre_quiz_trivia,Genre,Quiz/Trivia,
+genre_racing,Genre,Racing,
+genre_real_time_strategy,Genre,Real Time Strategy,
+genre_rpg,Genre,RPG,
+genre_shooter,Genre,Shooter,
+genre_simulator,Genre,Simulator,
+genre_sport,Genre,Sport,
+genre_strategy,Genre,Strategy,
+genre_tactical,Genre,Tactical,
+genre_turn_based_strategy,Genre,Turn-Based Strategy,
+genre_visual_novel,Genre,Visual Novel,
+platform_64dd,Platform,64DD,
+platform_amazon_fire_tv,Platform,Amazon Fire TV,
+platform_amiga,Platform,Amiga,
+platform_android,Platform,Android,
+platform_arcade,Platform,Arcade,
+platform_atari_st_ste,Platform,Atari ST/STE,
+platform_cloud_gaming,Platform,Cloud Gaming,
+platform_dos,Platform,DOS,
+platform_dreamcast,Platform,Dreamcast,
+platform_family_computer,Platform,Family Computer,
+platform_family_computer_disk_system,Platform,Family Computer Disk System,
+platform_fm_towns,Platform,FM Towns,
+platform_game_boy,Platform,Game Boy,
+platform_game_boy_advance,Platform,Game Boy Advance,
+platform_game_boy_color,Platform,Game Boy Color,
+platform_gear_vr,Platform,Gear VR,
+platform_ios,Platform,iOS,
+platform_legacy_mobile_device,Platform,Legacy Mobile Device,
+platform_linux,Platform,Linux,
+platform_mac,Platform,Mac,
+platform_n_gage,Platform,N-Gage,
+platform_new_nintendo_3ds,Platform,New Nintendo 3DS,
+platform_nintendo,Platform,Nintendo,
+platform_nintendo_3ds,Platform,Nintendo 3DS,
+platform_nintendo_64,Platform,Nintendo 64,
+platform_nintendo_ds,Platform,Nintendo DS,
+platform_nintendo_dsi,Platform,Nintendo DSi,
+platform_nintendo_gamecube,Platform,Nintendo GameCube,
+platform_nintendo_switch,Platform,Nintendo Switch,
+platform_nintendo_switch_2,Platform,Nintendo Switch 2,
+platform_ouya,Platform,Ouya,
+platform_pc,Platform,PC,
+platform_pc_9800_series,Platform,PC-9800 Series,
+platform_playstation,Platform,PlayStation,
+platform_playstation_2,Platform,PlayStation 2,
+platform_playstation_3,Platform,PlayStation 3,
+platform_playstation_4,Platform,PlayStation 4,
+platform_playstation_5,Platform,PlayStation 5,
+platform_playstation_portable,Platform,PlayStation Portable,
+platform_playstation_vita,Platform,PlayStation Vita,
+platform_satellaview,Platform,Satellaview,
+platform_sega_32x,Platform,Sega 32X,
+platform_sega_cd,Platform,Sega CD,
+platform_sega_mega_drive_genesis,Platform,Sega Mega Drive/Genesis,
+platform_sega_saturn,Platform,Sega Saturn,
+platform_super_famicom,Platform,Super Famicom,
+platform_tapwave_zodiac,Platform,Tapwave Zodiac,
+platform_vr,Platform,VR,
+platform_wii,Platform,Wii,
+platform_wii_u,Platform,Wii U,
+platform_windows_phone,Platform,Windows Phone,
+platform_xbox,Platform,Xbox,
+platform_xbox_360,Platform,Xbox 360,
+platform_xbox_one,Platform,Xbox One,
+platform_xbox_series_x_s,Platform,Xbox Series X|S,
+platform_zeebo,Platform,Zeebo,
+user_1,User,Asal,
+user_10,User,Theo,
+user_11,User,Iris,
+user_12,User,Omar,
+user_13,User,Talia,
+user_14,User,Ravi,
+user_15,User,Sofia,
+user_16,User,Noah,
+user_17,User,Yara,
+user_18,User,Felix,
+user_19,User,Amara,
+user_2,User,Mina,
+user_20,User,Kenji,
+user_21,User,Luca,
+user_22,User,Maya,
+user_23,User,Niko,
+user_24,User,Ava,
+user_25,User,Zain,
+user_26,User,Hana,
+user_27,User,Eli,
+user_28,User,Daria,
+user_29,User,Milo,
+user_3,User,Jonas,
+user_30,User,Sara,
+user_31,User,Cora,
+user_32,User,Anika,
+user_33,User,Vera,
+user_34,User,Idris,
+user_35,User,Jules,
+user_36,User,Nadia,
+user_37,User,Ren,
+user_38,User,Chiara,
+user_39,User,Luis,
+user_4,User,Leila,
+user_40,User,Ari,
+user_5,User,Sam,
+user_6,User,Priya,
+user_7,User,Nora,
+user_8,User,Mateo,
+user_9,User,Elena,
