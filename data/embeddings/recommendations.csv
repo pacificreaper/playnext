@@ -1,0 +1,801 @@
+user,game,game_name,score
+User:user_1,Game:game_111469,Among Us,-7.32689905166626
+User:user_1,Game:game_5025,To the Moon,-7.5815277099609375
+User:user_1,Game:game_14746,Batman: The Telltale Series,-7.699695110321045
+User:user_1,Game:game_1331,Limbo,-7.779444217681885
+User:user_1,Game:game_28540,Assassin's Creed Origins,-7.853279113769531
+User:user_1,Game:game_885,Super Meat Boy,-7.8833160400390625
+User:user_1,Game:game_378,Metal Gear Rising: Revengeance,-7.955379486083984
+User:user_1,Game:game_186725,Vampire Survivors,-7.997192859649658
+User:user_1,Game:game_11156,Horizon Zero Dawn,-8.056192398071289
+User:user_1,Game:game_1103,Super Metroid,-8.166687965393066
+User:user_1,Game:game_233,Half-Life 2,-8.217977523803711
+User:user_1,Game:game_110248,Stray,-8.227497100830078
+User:user_1,Game:game_2129,Mark of the Ninja,-8.233793258666992
+User:user_1,Game:game_26820,Blasphemous,-8.244956016540527
+User:user_1,Game:game_1558,Pokémon Gold Version,-8.321758270263672
+User:user_1,Game:game_135400,Minecraft,-8.322279930114746
+User:user_1,Game:game_2437,Prince of Persia: The Two Thrones,-8.346711158752441
+User:user_1,Game:game_2178,New Super Mario Bros. Wii,-8.364562034606934
+User:user_1,Game:game_2682,LEGO Star Wars: The Complete Saga,-8.373804092407227
+User:user_1,Game:game_2935,"Papers, Please",-8.37449836730957
+User:user_10,Game:game_37777,Shadow of the Tomb Raider,-7.699347496032715
+User:user_10,Game:game_26845,Fire Emblem: Three Houses,-7.706617832183838
+User:user_10,Game:game_14593,Hollow Knight,-7.76035737991333
+User:user_10,Game:game_26192,The Last of Us Part II,-7.88530158996582
+User:user_10,Game:game_1593,Pillars of Eternity,-7.930727481842041
+User:user_10,Game:game_121,Minecraft: Java Edition,-7.993712425231934
+User:user_10,Game:game_7789,The Binding of Isaac: Rebirth,-8.010743141174316
+User:user_10,Game:game_26193,Uncharted: The Lost Legacy,-8.029088020324707
+User:user_10,Game:game_7205,SuperHot,-8.06417465209961
+User:user_10,Game:game_40477,Slay the Spire,-8.254256248474121
+User:user_10,Game:game_6036,The Last of Us Remastered,-8.280506134033203
+User:user_10,Game:game_110248,Stray,-8.31234359741211
+User:user_10,Game:game_364,Heroes of Might and Magic III: The Restoration of Erathia,-8.313858032226562
+User:user_10,Game:game_135243,It Takes Two,-8.316566467285156
+User:user_10,Game:game_139090,Inscryption,-8.323748588562012
+User:user_10,Game:game_127,Assassin's Creed II,-8.32608413696289
+User:user_10,Game:game_26226,Celeste,-8.32945728302002
+User:user_10,Game:game_1991,Fez,-8.335249900817871
+User:user_10,Game:game_26855,Dead Cells,-8.337149620056152
+User:user_10,Game:game_1879,Terraria,-8.346693992614746
+User:user_11,Game:game_8965,Darkest Dungeon,-7.436809539794922
+User:user_11,Game:game_246,Diablo II: Lord of Destruction,-7.5683159828186035
+User:user_11,Game:game_2262,Gothic II,-7.64904260635376
+User:user_11,Game:game_3750,Quantum Break,-7.690591812133789
+User:user_11,Game:game_1560,Pokémon Diamond Version,-7.957794666290283
+User:user_11,Game:game_139090,Inscryption,-8.016777992248535
+User:user_11,Game:game_99,Need for Speed: Carbon,-8.101781845092773
+User:user_11,Game:game_6739,Black Mesa,-8.171883583068848
+User:user_11,Game:game_1906,Gone Home,-8.189726829528809
+User:user_11,Game:game_135400,Minecraft,-8.20941162109375
+User:user_11,Game:game_7789,The Binding of Isaac: Rebirth,-8.227703094482422
+User:user_11,Game:game_25657,Destiny 2,-8.281692504882812
+User:user_11,Game:game_2025,Mount & Blade: Warband,-8.303077697753906
+User:user_11,Game:game_11156,Horizon Zero Dawn,-8.359443664550781
+User:user_11,Game:game_37001,Ori and the Will of the Wisps,-8.368352890014648
+User:user_11,Game:game_1991,Fez,-8.3757963180542
+User:user_11,Game:game_1339,Psychonauts,-8.378493309020996
+User:user_11,Game:game_3225,No Man's Sky,-8.379857063293457
+User:user_11,Game:game_242408,Counter-Strike 2,-8.400080680847168
+User:user_11,Game:game_421,Final Fantasy IX,-8.406109809875488
+User:user_12,Game:game_1941,Infamous: Second Son,-8.103365898132324
+User:user_12,Game:game_7205,SuperHot,-8.17841625213623
+User:user_12,Game:game_3225,No Man's Sky,-8.261798858642578
+User:user_12,Game:game_2437,Prince of Persia: The Two Thrones,-8.385804176330566
+User:user_12,Game:game_559,Call of Duty: Modern Warfare 2,-8.442583084106445
+User:user_12,Game:game_19562,Resident Evil 7: Biohazard,-8.467348098754883
+User:user_12,Game:game_55935,Doki Doki Literature Club!,-8.504814147949219
+User:user_12,Game:game_1517,Pokémon Emerald Version,-8.529214859008789
+User:user_12,Game:game_2129,Mark of the Ninja,-8.551695823669434
+User:user_12,Game:game_7349,Mass Effect: Andromeda,-8.552301406860352
+User:user_12,Game:game_3221,Rogue Legacy,-8.570701599121094
+User:user_12,Game:game_472,The Elder Scrolls V: Skyrim,-8.57553482055664
+User:user_12,Game:game_986,Halo 2,-8.610735893249512
+User:user_12,Game:game_117,The Last Guardian,-8.641517639160156
+User:user_12,Game:game_1879,Terraria,-8.679329872131348
+User:user_12,Game:game_499,God of War III,-8.686752319335938
+User:user_12,Game:game_3025,Middle-earth: Shadow of Mordor,-8.700745582580566
+User:user_12,Game:game_2148,Banjo-Kazooie,-8.710783004760742
+User:user_12,Game:game_438,Rome: Total War,-8.716273307800293
+User:user_12,Game:game_7352,Abzu,-8.717206954956055
+User:user_13,Game:game_2148,Banjo-Kazooie,-7.376736640930176
+User:user_13,Game:game_26855,Dead Cells,-7.411696910858154
+User:user_13,Game:game_14587,Oxenfree,-7.927270889282227
+User:user_13,Game:game_7504,The Forest,-7.959553241729736
+User:user_13,Game:game_1906,Gone Home,-7.961602687835693
+User:user_13,Game:game_885,Super Meat Boy,-8.026759147644043
+User:user_13,Game:game_14593,Hollow Knight,-8.07067584991455
+User:user_13,Game:game_111469,Among Us,-8.179430961608887
+User:user_13,Game:game_19562,Resident Evil 7: Biohazard,-8.203563690185547
+User:user_13,Game:game_126459,Valorant,-8.232015609741211
+User:user_13,Game:game_136625,Hogwarts Legacy,-8.237848281860352
+User:user_13,Game:game_17269,Roblox,-8.238301277160645
+User:user_13,Game:game_55935,Doki Doki Literature Club!,-8.242238998413086
+User:user_13,Game:game_1715,Mega Man 2,-8.276931762695312
+User:user_13,Game:game_113112,Hades,-8.29538631439209
+User:user_13,Game:game_246,Diablo II: Lord of Destruction,-8.308095932006836
+User:user_13,Game:game_5025,To the Moon,-8.32601547241211
+User:user_13,Game:game_19164,Borderlands 3,-8.337695121765137
+User:user_13,Game:game_5606,Assassin's Creed Unity,-8.351580619812012
+User:user_13,Game:game_2899,EarthBound,-8.414756774902344
+User:user_14,Game:game_20150,Katana Zero,-7.284988880157471
+User:user_14,Game:game_7194,Steins;Gate,-7.390369415283203
+User:user_14,Game:game_7444,Shovel Knight,-7.482850551605225
+User:user_14,Game:game_9061,Cuphead,-7.503898620605469
+User:user_14,Game:game_2025,Mount & Blade: Warband,-7.50502347946167
+User:user_14,Game:game_14746,Batman: The Telltale Series,-7.587000846862793
+User:user_14,Game:game_7349,Mass Effect: Andromeda,-7.656367301940918
+User:user_14,Game:game_8965,Darkest Dungeon,-7.7003936767578125
+User:user_14,Game:game_8173,Overwatch,-7.739444255828857
+User:user_14,Game:game_3097,The Walking Dead: Season Two,-7.7984089851379395
+User:user_14,Game:game_152249,Marvel's Guardians of the Galaxy,-7.852695941925049
+User:user_14,Game:game_19531,Prey,-7.860408306121826
+User:user_14,Game:game_3221,Rogue Legacy,-7.863116264343262
+User:user_14,Game:game_112,Devil May Cry 4,-7.903868675231934
+User:user_14,Game:game_111,Amnesia: The Dark Descent,-7.905018329620361
+User:user_14,Game:game_623,Call of Duty 4: Modern Warfare,-7.91386079788208
+User:user_14,Game:game_9643,Return of the Obra Dinn,-7.916543960571289
+User:user_14,Game:game_1011,Borderlands 2,-7.929548740386963
+User:user_14,Game:game_8254,Resident Evil,-7.932051658630371
+User:user_14,Game:game_1067,Super Mario Bros. 2,-7.934849739074707
+User:user_15,Game:game_1879,Terraria,-7.592741966247559
+User:user_15,Game:game_3221,Rogue Legacy,-7.7113237380981445
+User:user_15,Game:game_1715,Mega Man 2,-7.854365348815918
+User:user_15,Game:game_1517,Pokémon Emerald Version,-7.8820271492004395
+User:user_15,Game:game_11198,Rocket League,-7.900152206420898
+User:user_15,Game:game_2990,Machinarium,-7.93878698348999
+User:user_15,Game:game_1556,Pokémon HeartGold Version,-8.077624320983887
+User:user_15,Game:game_20150,Katana Zero,-8.085662841796875
+User:user_15,Game:game_3097,The Walking Dead: Season Two,-8.10112476348877
+User:user_15,Game:game_2262,Gothic II,-8.133475303649902
+User:user_15,Game:game_2025,Mount & Blade: Warband,-8.16457748413086
+User:user_15,Game:game_558,Just Cause 2,-8.191177368164062
+User:user_15,Game:game_327,Age of Empires II: The Age of Kings,-8.238890647888184
+User:user_15,Game:game_948,Worms Armageddon,-8.243484497070312
+User:user_15,Game:game_438,Rome: Total War,-8.260289192199707
+User:user_15,Game:game_7327,Valiant Hearts: The Great War,-8.260682106018066
+User:user_15,Game:game_1983,Bastion,-8.262520790100098
+User:user_15,Game:game_289,Age of Empires,-8.276324272155762
+User:user_15,Game:game_40477,Slay the Spire,-8.276525497436523
+User:user_15,Game:game_7603,Hellblade: Senua's Sacrifice,-8.306727409362793
+User:user_16,Game:game_647,Command & Conquer,-7.396561622619629
+User:user_16,Game:game_11119,Fallout Shelter,-7.799684047698975
+User:user_16,Game:game_299,Age of Empires III,-7.872363090515137
+User:user_16,Game:game_251833,Balatro,-7.950503349304199
+User:user_16,Game:game_8965,Darkest Dungeon,-8.063119888305664
+User:user_16,Game:game_5025,To the Moon,-8.085785865783691
+User:user_16,Game:game_2899,EarthBound,-8.12584400177002
+User:user_16,Game:game_111469,Among Us,-8.189390182495117
+User:user_16,Game:game_40477,Slay the Spire,-8.22932243347168
+User:user_16,Game:game_558,Just Cause 2,-8.31949234008789
+User:user_16,Game:game_2148,Banjo-Kazooie,-8.320425033569336
+User:user_16,Game:game_11182,Enter the Gungeon,-8.355091094970703
+User:user_16,Game:game_14587,Oxenfree,-8.365401268005371
+User:user_16,Game:game_11198,Rocket League,-8.36587142944336
+User:user_16,Game:game_139090,Inscryption,-8.36770248413086
+User:user_16,Game:game_2549,Half-Life: Blue Shift,-8.392416954040527
+User:user_16,Game:game_26820,Blasphemous,-8.407047271728516
+User:user_16,Game:game_6739,Black Mesa,-8.485549926757812
+User:user_16,Game:game_7342,Inside,-8.491920471191406
+User:user_16,Game:game_295,Command & Conquer: Red Alert,-8.505990982055664
+User:user_17,Game:game_1942,The Witcher 3: Wild Hunt,-7.140205383300781
+User:user_17,Game:game_2437,Prince of Persia: The Two Thrones,-7.957343578338623
+User:user_17,Game:game_1277,Plants vs. Zombies,-8.000414848327637
+User:user_17,Game:game_2853,Braid,-8.01144790649414
+User:user_17,Game:game_11233,What Remains of Edith Finch,-8.068964958190918
+User:user_17,Game:game_13166,The Witcher 3: Wild Hunt - Blood and Wine,-8.100723266601562
+User:user_17,Game:game_538,BioShock Infinite,-8.15817928314209
+User:user_17,Game:game_111469,Among Us,-8.158754348754883
+User:user_17,Game:game_14746,Batman: The Telltale Series,-8.197530746459961
+User:user_17,Game:game_2148,Banjo-Kazooie,-8.236259460449219
+User:user_17,Game:game_112916,Mortal Kombat 11,-8.243412017822266
+User:user_17,Game:game_5025,To the Moon,-8.273680686950684
+User:user_17,Game:game_136625,Hogwarts Legacy,-8.274177551269531
+User:user_17,Game:game_82090,Forza Horizon 4,-8.281343460083008
+User:user_17,Game:game_327,Age of Empires II: The Age of Kings,-8.381608009338379
+User:user_17,Game:game_36952,Wolfenstein II: The New Colossus,-8.41848087310791
+User:user_17,Game:game_948,Worms Armageddon,-8.452314376831055
+User:user_17,Game:game_1078,Super Mario Galaxy 2,-8.456721305847168
+User:user_17,Game:game_1339,Psychonauts,-8.46909236907959
+User:user_17,Game:game_6801,Far Cry 4,-8.470193862915039
+User:user_18,Game:game_7444,Shovel Knight,-7.0768961906433105
+User:user_18,Game:game_18866,Dead by Daylight,-7.158599853515625
+User:user_18,Game:game_9254,Subnautica,-7.222008228302002
+User:user_18,Game:game_55935,Doki Doki Literature Club!,-7.41200590133667
+User:user_18,Game:game_2599,Game Dev Tycoon,-7.4776835441589355
+User:user_18,Game:game_2058,Payday 2,-7.617124557495117
+User:user_18,Game:game_647,Command & Conquer,-7.649560928344727
+User:user_18,Game:game_8965,Darkest Dungeon,-7.718928813934326
+User:user_18,Game:game_7789,The Binding of Isaac: Rebirth,-7.776830673217773
+User:user_18,Game:game_3278,Garry's Mod,-7.809586524963379
+User:user_18,Game:game_1244,Tekken 3,-7.842956066131592
+User:user_18,Game:game_251833,Balatro,-7.883551120758057
+User:user_18,Game:game_1067,Super Mario Bros. 2,-7.895301818847656
+User:user_18,Game:game_36952,Wolfenstein II: The New Colossus,-7.963904857635498
+User:user_18,Game:game_8197,Tetris,-7.990055561065674
+User:user_18,Game:game_3221,Rogue Legacy,-7.992239475250244
+User:user_18,Game:game_2990,Machinarium,-8.016547203063965
+User:user_18,Game:game_1991,Fez,-8.020824432373047
+User:user_18,Game:game_558,Just Cause 2,-8.033656120300293
+User:user_18,Game:game_133,Warcraft III: The Frozen Throne,-8.03640079498291
+User:user_19,Game:game_1991,Fez,-7.195259094238281
+User:user_19,Game:game_570,Prototype,-7.427022457122803
+User:user_19,Game:game_14587,Oxenfree,-7.576913833618164
+User:user_19,Game:game_3212,The Sims 4,-7.599222660064697
+User:user_19,Game:game_1593,Pillars of Eternity,-7.602077484130859
+User:user_19,Game:game_26820,Blasphemous,-7.631788730621338
+User:user_19,Game:game_7789,The Binding of Isaac: Rebirth,-7.649258613586426
+User:user_19,Game:game_1512,Pokémon Yellow Version: Special Pikachu Edition,-7.657904148101807
+User:user_19,Game:game_26226,Celeste,-7.691554546356201
+User:user_19,Game:game_7352,Abzu,-7.736955165863037
+User:user_19,Game:game_40477,Slay the Spire,-7.739149570465088
+User:user_19,Game:game_3075,FTL: Faster Than Light,-7.758585453033447
+User:user_19,Game:game_1318,XCOM: Enemy Unknown,-7.762844562530518
+User:user_19,Game:game_3035,The Stanley Parable,-7.809989929199219
+User:user_19,Game:game_7444,Shovel Knight,-7.818035125732422
+User:user_19,Game:game_730,Grand Theft Auto III,-7.835690021514893
+User:user_19,Game:game_885,Super Meat Boy,-7.859944820404053
+User:user_19,Game:game_10962,Uncharted: The Nathan Drake Collection,-7.909913063049316
+User:user_19,Game:game_22917,Gris,-7.9310503005981445
+User:user_19,Game:game_71,Portal,-7.96640157699585
+User:user_2,Game:game_136625,Hogwarts Legacy,-6.639549255371094
+User:user_2,Game:game_28540,Assassin's Creed Origins,-7.1368608474731445
+User:user_2,Game:game_119177,Call of Duty: Modern Warfare,-7.224210739135742
+User:user_2,Game:game_135243,It Takes Two,-7.534980773925781
+User:user_2,Game:game_2114,Tom Clancy's The Division,-7.568819522857666
+User:user_2,Game:game_1268,Crysis 3,-7.625959873199463
+User:user_2,Game:game_1339,Psychonauts,-7.674948215484619
+User:user_2,Game:game_1879,Terraria,-7.679259300231934
+User:user_2,Game:game_139090,Inscryption,-7.690992832183838
+User:user_2,Game:game_826,Saints Row 2,-7.754511833190918
+User:user_2,Game:game_10962,Uncharted: The Nathan Drake Collection,-7.758059978485107
+User:user_2,Game:game_990,Halo: Reach,-7.822568893432617
+User:user_2,Game:game_134582,Ratchet & Clank: Rift Apart,-7.914822578430176
+User:user_2,Game:game_1941,Infamous: Second Son,-7.91679048538208
+User:user_2,Game:game_76882,Sekiro: Shadows Die Twice,-7.925856113433838
+User:user_2,Game:game_12503,The Witcher 3: Wild Hunt - Hearts of Stone,-7.929652214050293
+User:user_2,Game:game_36952,Wolfenstein II: The New Colossus,-7.932513236999512
+User:user_2,Game:game_111469,Among Us,-7.936967849731445
+User:user_2,Game:game_3042,Dying Light,-7.968600749969482
+User:user_2,Game:game_2287,Pokémon Y,-7.9888153076171875
+User:user_20,Game:game_17000,Stardew Valley,-6.737741947174072
+User:user_20,Game:game_1011,Borderlands 2,-7.151562690734863
+User:user_20,Game:game_3225,No Man's Sky,-7.393568992614746
+User:user_20,Game:game_7789,The Binding of Isaac: Rebirth,-7.587052345275879
+User:user_20,Game:game_2332,Super Mario Kart,-7.8432440757751465
+User:user_20,Game:game_186725,Vampire Survivors,-7.86712646484375
+User:user_20,Game:game_7444,Shovel Knight,-7.8899383544921875
+User:user_20,Game:game_2853,Braid,-7.932204723358154
+User:user_20,Game:game_2345,Mario Kart DS,-7.954075813293457
+User:user_20,Game:game_910,Tom Clancy's Splinter Cell,-8.103983879089355
+User:user_20,Game:game_1983,Bastion,-8.184398651123047
+User:user_20,Game:game_82090,Forza Horizon 4,-8.197746276855469
+User:user_20,Game:game_1906,Gone Home,-8.204413414001465
+User:user_20,Game:game_1384,Hotline Miami,-8.221833229064941
+User:user_20,Game:game_1905,Fortnite,-8.23751449584961
+User:user_20,Game:game_7603,Hellblade: Senua's Sacrifice,-8.247651100158691
+User:user_20,Game:game_2350,Mario Kart 8,-8.255657196044922
+User:user_20,Game:game_2671,Guitar Hero III: Legends of Rock,-8.324966430664062
+User:user_20,Game:game_1879,Terraria,-8.329717636108398
+User:user_20,Game:game_11233,What Remains of Edith Finch,-8.330707550048828
+User:user_21,Game:game_37001,Ori and the Will of the Wisps,-7.571537494659424
+User:user_21,Game:game_3221,Rogue Legacy,-7.857377052307129
+User:user_21,Game:game_13182,Far Cry: Primal,-7.920770168304443
+User:user_21,Game:game_5025,To the Moon,-7.943543434143066
+User:user_21,Game:game_1879,Terraria,-8.25584888458252
+User:user_21,Game:game_885,Super Meat Boy,-8.265277862548828
+User:user_21,Game:game_2935,"Papers, Please",-8.275693893432617
+User:user_21,Game:game_17000,Stardew Valley,-8.336483001708984
+User:user_21,Game:game_60,The Secret of Monkey Island,-8.392436027526855
+User:user_21,Game:game_135400,Minecraft,-8.398253440856934
+User:user_21,Game:game_7789,The Binding of Isaac: Rebirth,-8.403630256652832
+User:user_21,Game:game_986,Halo 2,-8.472990036010742
+User:user_21,Game:game_134070,Mafia: Definitive Edition,-8.478151321411133
+User:user_21,Game:game_2990,Machinarium,-8.48386001586914
+User:user_21,Game:game_2682,LEGO Star Wars: The Complete Saga,-8.48437786102295
+User:user_21,Game:game_1558,Pokémon Gold Version,-8.490484237670898
+User:user_21,Game:game_530,Hitman: Absolution,-8.51024055480957
+User:user_21,Game:game_132,Warcraft III: Reign of Chaos,-8.51443099975586
+User:user_21,Game:game_1876,Spore,-8.519737243652344
+User:user_21,Game:game_110248,Stray,-8.540542602539062
+User:user_22,Game:game_17269,Roblox,-7.482039928436279
+User:user_22,Game:game_135243,It Takes Two,-7.64095401763916
+User:user_22,Game:game_11397,Yakuza 0,-7.716988563537598
+User:user_22,Game:game_2935,"Papers, Please",-7.877598762512207
+User:user_22,Game:game_8187,Just Cause 3,-7.928098678588867
+User:user_22,Game:game_23248,Frostpunk,-7.987000942230225
+User:user_22,Game:game_14746,Batman: The Telltale Series,-8.074485778808594
+User:user_22,Game:game_3075,FTL: Faster Than Light,-8.129594802856445
+User:user_22,Game:game_885,Super Meat Boy,-8.1411771774292
+User:user_22,Game:game_1876,Spore,-8.178678512573242
+User:user_22,Game:game_1279,Hearthstone,-8.179487228393555
+User:user_22,Game:game_1991,Fez,-8.181549072265625
+User:user_22,Game:game_2332,Super Mario Kart,-8.18244457244873
+User:user_22,Game:game_5973,Broforce,-8.184676170349121
+User:user_22,Game:game_8965,Darkest Dungeon,-8.192988395690918
+User:user_22,Game:game_948,Worms Armageddon,-8.223273277282715
+User:user_22,Game:game_512,Uncharted 3: Drake's Deception,-8.231307983398438
+User:user_22,Game:game_647,Command & Conquer,-8.231941223144531
+User:user_22,Game:game_1020,Grand Theft Auto V,-8.290336608886719
+User:user_22,Game:game_7194,Steins;Gate,-8.298724174499512
+User:user_23,Game:game_110248,Stray,-7.440020561218262
+User:user_23,Game:game_11182,Enter the Gungeon,-7.580020427703857
+User:user_23,Game:game_910,Tom Clancy's Splinter Cell,-7.68184232711792
+User:user_23,Game:game_142,Star Wars: Battlefront II,-7.7958149909973145
+User:user_23,Game:game_434,Red Dead Redemption,-7.901645660400391
+User:user_23,Game:game_3225,No Man's Sky,-7.950217247009277
+User:user_23,Game:game_2262,Gothic II,-8.036924362182617
+User:user_23,Game:game_378,Metal Gear Rising: Revengeance,-8.056034088134766
+User:user_23,Game:game_1384,Hotline Miami,-8.088424682617188
+User:user_23,Game:game_5328,Metal Gear Solid V: Ground Zeroes,-8.150619506835938
+User:user_23,Game:game_1267,Sleeping Dogs,-8.170873641967773
+User:user_23,Game:game_139090,Inscryption,-8.18011474609375
+User:user_23,Game:game_7603,Hellblade: Senua's Sacrifice,-8.189876556396484
+User:user_23,Game:game_7504,The Forest,-8.195962905883789
+User:user_23,Game:game_1081,The Elder Scrolls Online,-8.203587532043457
+User:user_23,Game:game_60,The Secret of Monkey Island,-8.216386795043945
+User:user_23,Game:game_623,Call of Duty 4: Modern Warfare,-8.226912498474121
+User:user_23,Game:game_911,Tom Clancy's Splinter Cell: Chaos Theory,-8.24209213256836
+User:user_23,Game:game_732,Grand Theft Auto: San Andreas,-8.247615814208984
+User:user_23,Game:game_19456,Ori and the Blind Forest: Definitive Edition,-8.252593040466309
+User:user_24,Game:game_3221,Rogue Legacy,-7.326951026916504
+User:user_24,Game:game_2935,"Papers, Please",-7.382795333862305
+User:user_24,Game:game_1991,Fez,-7.58116340637207
+User:user_24,Game:game_2025,Mount & Blade: Warband,-7.682509422302246
+User:user_24,Game:game_8965,Darkest Dungeon,-7.730307579040527
+User:user_24,Game:game_438,Rome: Total War,-7.730985164642334
+User:user_24,Game:game_1879,Terraria,-7.733120441436768
+User:user_24,Game:game_2112,Mirror's Edge Catalyst,-7.885481834411621
+User:user_24,Game:game_20150,Katana Zero,-8.038981437683105
+User:user_24,Game:game_3025,Middle-earth: Shadow of Mordor,-8.090389251708984
+User:user_24,Game:game_2993,The Wolf Among Us,-8.115039825439453
+User:user_24,Game:game_117,The Last Guardian,-8.119051933288574
+User:user_24,Game:game_987,Halo 3,-8.168625831604004
+User:user_24,Game:game_7444,Shovel Knight,-8.181553840637207
+User:user_24,Game:game_7504,The Forest,-8.185166358947754
+User:user_24,Game:game_7706,This War of Mine,-8.186890602111816
+User:user_24,Game:game_72,Portal 2,-8.206119537353516
+User:user_24,Game:game_1067,Super Mario Bros. 2,-8.20808219909668
+User:user_24,Game:game_7205,SuperHot,-8.216100692749023
+User:user_24,Game:game_121,Minecraft: Java Edition,-8.225728988647461
+User:user_25,Game:game_1876,Spore,-7.448248863220215
+User:user_25,Game:game_26855,Dead Cells,-7.607186317443848
+User:user_25,Game:game_7706,This War of Mine,-7.6402268409729
+User:user_25,Game:game_8965,Darkest Dungeon,-7.75574254989624
+User:user_25,Game:game_885,Super Meat Boy,-7.78550386428833
+User:user_25,Game:game_7444,Shovel Knight,-7.910127639770508
+User:user_25,Game:game_17269,Roblox,-7.970627307891846
+User:user_25,Game:game_2599,Game Dev Tycoon,-8.036959648132324
+User:user_25,Game:game_7789,The Binding of Isaac: Rebirth,-8.048684120178223
+User:user_25,Game:game_121760,Little Nightmares II,-8.139762878417969
+User:user_25,Game:game_1517,Pokémon Emerald Version,-8.159029006958008
+User:user_25,Game:game_60,The Secret of Monkey Island,-8.204608917236328
+User:user_25,Game:game_26226,Celeste,-8.213395118713379
+User:user_25,Game:game_12517,Undertale,-8.23149585723877
+User:user_25,Game:game_3022,Transistor,-8.258170127868652
+User:user_25,Game:game_9254,Subnautica,-8.27843952178955
+User:user_25,Game:game_186725,Vampire Survivors,-8.285646438598633
+User:user_25,Game:game_1983,Bastion,-8.294591903686523
+User:user_25,Game:game_2990,Machinarium,-8.299581527709961
+User:user_25,Game:game_910,Tom Clancy's Splinter Cell,-8.315497398376465
+User:user_26,Game:game_40477,Slay the Spire,-6.665401935577393
+User:user_26,Game:game_826,Saints Row 2,-7.1369524002075195
+User:user_26,Game:game_1334,Brothers: A Tale of Two Sons,-7.295647144317627
+User:user_26,Game:game_7444,Shovel Knight,-7.403467178344727
+User:user_26,Game:game_140839,Mass Effect Legendary Edition,-7.45112943649292
+User:user_26,Game:game_3221,Rogue Legacy,-7.513145446777344
+User:user_26,Game:game_184,Indiana Jones and the Fate of Atlantis,-7.537673473358154
+User:user_26,Game:game_26820,Blasphemous,-7.568440914154053
+User:user_26,Game:game_8965,Darkest Dungeon,-7.5694193840026855
+User:user_26,Game:game_2853,Braid,-7.653218746185303
+User:user_26,Game:game_2437,Prince of Persia: The Two Thrones,-7.743055820465088
+User:user_26,Game:game_558,Just Cause 2,-7.761868953704834
+User:user_26,Game:game_2129,Mark of the Ninja,-7.779203414916992
+User:user_26,Game:game_20150,Katana Zero,-7.8625664710998535
+User:user_26,Game:game_1910,Outlast,-7.86353874206543
+User:user_26,Game:game_530,Hitman: Absolution,-7.867137908935547
+User:user_26,Game:game_1968,Rayman Legends,-7.921718120574951
+User:user_26,Game:game_5025,To the Moon,-7.966878414154053
+User:user_26,Game:game_18866,Dead by Daylight,-7.982058048248291
+User:user_26,Game:game_2935,"Papers, Please",-7.984776020050049
+User:user_27,Game:game_1991,Fez,-7.615879058837891
+User:user_27,Game:game_558,Just Cause 2,-7.654862403869629
+User:user_27,Game:game_885,Super Meat Boy,-7.71328067779541
+User:user_27,Game:game_980,Grand Theft Auto,-7.861109256744385
+User:user_27,Game:game_1076,New Super Mario Bros.,-7.872772693634033
+User:user_27,Game:game_7205,SuperHot,-7.898653030395508
+User:user_27,Game:game_5328,Metal Gear Solid V: Ground Zeroes,-7.904698371887207
+User:user_27,Game:game_14746,Batman: The Telltale Series,-7.976059913635254
+User:user_27,Game:game_5335,Goat Simulator,-8.016023635864258
+User:user_27,Game:game_118,Star Wars: Knights of the Old Republic II - The Sith Lords,-8.016410827636719
+User:user_27,Game:game_99,Need for Speed: Carbon,-8.029481887817383
+User:user_27,Game:game_7352,Abzu,-8.031502723693848
+User:user_27,Game:game_11182,Enter the Gungeon,-8.042824745178223
+User:user_27,Game:game_1638,GoldenEye 007,-8.045595169067383
+User:user_27,Game:game_75235,Ghost of Tsushima,-8.075923919677734
+User:user_27,Game:game_251833,Balatro,-8.100720405578613
+User:user_27,Game:game_61,Monkey Island 2: LeChuck's Revenge,-8.12883472442627
+User:user_27,Game:game_295,Command & Conquer: Red Alert,-8.147911071777344
+User:user_27,Game:game_11198,Rocket League,-8.172015190124512
+User:user_27,Game:game_26226,Celeste,-8.196809768676758
+User:user_28,Game:game_136625,Hogwarts Legacy,-6.711407661437988
+User:user_28,Game:game_118,Star Wars: Knights of the Old Republic II - The Sith Lords,-7.605240821838379
+User:user_28,Game:game_5025,To the Moon,-7.774387836456299
+User:user_28,Game:game_3042,Dying Light,-7.800302505493164
+User:user_28,Game:game_8187,Just Cause 3,-7.869356155395508
+User:user_28,Game:game_8965,Darkest Dungeon,-7.882559776306152
+User:user_28,Game:game_19562,Resident Evil 7: Biohazard,-7.897923946380615
+User:user_28,Game:game_37001,Ori and the Will of the Wisps,-7.968461036682129
+User:user_28,Game:game_140839,Mass Effect Legendary Edition,-8.068992614746094
+User:user_28,Game:game_22917,Gris,-8.11286449432373
+User:user_28,Game:game_2181,Wii Sports,-8.115755081176758
+User:user_28,Game:game_2025,Mount & Blade: Warband,-8.138952255249023
+User:user_28,Game:game_133004,Assassin's Creed Valhalla,-8.151761054992676
+User:user_28,Game:game_347668,Resident Evil Requiem,-8.162026405334473
+User:user_28,Game:game_3152,Don't Starve,-8.169242858886719
+User:user_28,Game:game_2262,Gothic II,-8.1758394241333
+User:user_28,Game:game_1879,Terraria,-8.186180114746094
+User:user_28,Game:game_5335,Goat Simulator,-8.206067085266113
+User:user_28,Game:game_115289,Hollow Knight: Silksong,-8.212708473205566
+User:user_28,Game:game_10919,XCOM 2,-8.228713035583496
+User:user_29,Game:game_1513,Pokémon Silver Version,-7.370509624481201
+User:user_29,Game:game_1026,The Legend of Zelda: A Link to the Past,-7.412644863128662
+User:user_29,Game:game_364,Heroes of Might and Magic III: The Restoration of Erathia,-7.536154270172119
+User:user_29,Game:game_1979,Battlefield 4,-7.540002346038818
+User:user_29,Game:game_1517,Pokémon Emerald Version,-7.55736780166626
+User:user_29,Game:game_5601,The Witness,-7.799182415008545
+User:user_29,Game:game_99,Need for Speed: Carbon,-7.807729244232178
+User:user_29,Game:game_1905,Fortnite,-7.859309196472168
+User:user_29,Game:game_1528,Jak and Daxter: The Precursor Legacy,-7.8848066329956055
+User:user_29,Game:game_3152,Don't Starve,-7.8880391120910645
+User:user_29,Game:game_29004,Life is Strange: Before the Storm,-7.898895263671875
+User:user_29,Game:game_7349,Mass Effect: Andromeda,-7.971568584442139
+User:user_29,Game:game_1279,Hearthstone,-7.977517127990723
+User:user_29,Game:game_9927,Persona 5,-7.981025695800781
+User:user_29,Game:game_23248,Frostpunk,-7.982396602630615
+User:user_29,Game:game_40477,Slay the Spire,-7.993380069732666
+User:user_29,Game:game_7706,This War of Mine,-8.021029472351074
+User:user_29,Game:game_942,World of Goo,-8.043410301208496
+User:user_29,Game:game_19130,Sid Meier's Civilization VI,-8.052371978759766
+User:user_29,Game:game_7334,Bloodborne,-8.066566467285156
+User:user_3,Game:game_438,Rome: Total War,-6.833904266357422
+User:user_3,Game:game_866,Sid Meier's Civilization V,-7.349091053009033
+User:user_3,Game:game_17000,Stardew Valley,-7.443914413452148
+User:user_3,Game:game_251833,Balatro,-7.4775848388671875
+User:user_3,Game:game_1558,Pokémon Gold Version,-7.701674938201904
+User:user_3,Game:game_111469,Among Us,-7.828037738800049
+User:user_3,Game:game_1876,Spore,-7.8769211769104
+User:user_3,Game:game_1983,Bastion,-7.882452011108398
+User:user_3,Game:game_730,Grand Theft Auto III,-7.942056655883789
+User:user_3,Game:game_1626,Super Smash Bros.,-7.952803134918213
+User:user_3,Game:game_2350,Mario Kart 8,-7.960997581481934
+User:user_3,Game:game_425,Final Fantasy VIII,-7.965109825134277
+User:user_3,Game:game_136625,Hogwarts Legacy,-7.9836578369140625
+User:user_3,Game:game_134581,Marvel's Spider-Man: Miles Morales,-7.987802505493164
+User:user_3,Game:game_1092,Donkey Kong Country 2: Diddy's Kong Quest,-8.013708114624023
+User:user_3,Game:game_1556,Pokémon HeartGold Version,-8.014613151550293
+User:user_3,Game:game_7205,SuperHot,-8.045204162597656
+User:user_3,Game:game_1991,Fez,-8.068268775939941
+User:user_3,Game:game_119171,Baldur's Gate III,-8.091394424438477
+User:user_3,Game:game_135400,Minecraft,-8.10567569732666
+User:user_30,Game:game_28540,Assassin's Creed Origins,-7.839825630187988
+User:user_30,Game:game_17000,Stardew Valley,-7.951816082000732
+User:user_30,Game:game_26845,Fire Emblem: Three Houses,-8.036935806274414
+User:user_30,Game:game_135400,Minecraft,-8.042283058166504
+User:user_30,Game:game_305152,Clair Obscur: Expedition 33,-8.084047317504883
+User:user_30,Game:game_3221,Rogue Legacy,-8.181865692138672
+User:user_30,Game:game_111469,Among Us,-8.230011940002441
+User:user_30,Game:game_3025,Middle-earth: Shadow of Mordor,-8.237844467163086
+User:user_30,Game:game_5025,To the Moon,-8.283681869506836
+User:user_30,Game:game_1557,Pokémon Ruby Version,-8.35594367980957
+User:user_30,Game:game_11737,Outer Wilds,-8.404390335083008
+User:user_30,Game:game_40477,Slay the Spire,-8.407968521118164
+User:user_30,Game:game_7327,Valiant Hearts: The Great War,-8.416248321533203
+User:user_30,Game:game_1991,Fez,-8.421076774597168
+User:user_30,Game:game_1081,The Elder Scrolls Online,-8.443547248840332
+User:user_30,Game:game_910,Tom Clancy's Splinter Cell,-8.4985933303833
+User:user_30,Game:game_26226,Celeste,-8.50091552734375
+User:user_30,Game:game_1802,Chrono Trigger,-8.54008960723877
+User:user_30,Game:game_558,Just Cause 2,-8.57204818725586
+User:user_30,Game:game_7205,SuperHot,-8.579876899719238
+User:user_31,Game:game_2853,Braid,-7.7756171226501465
+User:user_31,Game:game_9643,Return of the Obra Dinn,-7.8560638427734375
+User:user_31,Game:game_3221,Rogue Legacy,-7.969347953796387
+User:user_31,Game:game_136625,Hogwarts Legacy,-7.9971513748168945
+User:user_31,Game:game_2437,Prince of Persia: The Two Thrones,-8.002384185791016
+User:user_31,Game:game_3225,No Man's Sky,-8.00518798828125
+User:user_31,Game:game_289,Age of Empires,-8.017553329467773
+User:user_31,Game:game_1983,Bastion,-8.034863471984863
+User:user_31,Game:game_118,Star Wars: Knights of the Old Republic II - The Sith Lords,-8.038015365600586
+User:user_31,Game:game_139090,Inscryption,-8.173637390136719
+User:user_31,Game:game_1715,Mega Man 2,-8.213372230529785
+User:user_31,Game:game_1911,Path of Exile,-8.238541603088379
+User:user_31,Game:game_7789,The Binding of Isaac: Rebirth,-8.269664764404297
+User:user_31,Game:game_112916,Mortal Kombat 11,-8.291020393371582
+User:user_31,Game:game_8173,Overwatch,-8.315922737121582
+User:user_31,Game:game_295,Command & Conquer: Red Alert,-8.331415176391602
+User:user_31,Game:game_251833,Balatro,-8.344593048095703
+User:user_31,Game:game_1906,Gone Home,-8.397260665893555
+User:user_31,Game:game_27421,Middle-earth: Shadow of War,-8.399552345275879
+User:user_31,Game:game_1512,Pokémon Yellow Version: Special Pikachu Edition,-8.405008316040039
+User:user_32,Game:game_5025,To the Moon,-7.627410411834717
+User:user_32,Game:game_3221,Rogue Legacy,-7.758815765380859
+User:user_32,Game:game_7706,This War of Mine,-7.883666515350342
+User:user_32,Game:game_3225,No Man's Sky,-7.8915300369262695
+User:user_32,Game:game_251833,Balatro,-7.906811237335205
+User:user_32,Game:game_9498,Deus Ex: Mankind Divided,-7.938228130340576
+User:user_32,Game:game_8965,Darkest Dungeon,-8.000065803527832
+User:user_32,Game:game_826,Saints Row 2,-8.114294052124023
+User:user_32,Game:game_3025,Middle-earth: Shadow of Mordor,-8.142095565795898
+User:user_32,Game:game_1871,The Walking Dead,-8.198846817016602
+User:user_32,Game:game_1879,Terraria,-8.24567699432373
+User:user_32,Game:game_1918,Injustice: Gods Among Us,-8.260693550109863
+User:user_32,Game:game_2114,Tom Clancy's The Division,-8.356453895568848
+User:user_32,Game:game_320,S.T.A.L.K.E.R.: Shadow of Chernobyl,-8.40038776397705
+User:user_32,Game:game_26196,Crash Bandicoot N. Sane Trilogy,-8.432157516479492
+User:user_32,Game:game_1517,Pokémon Emerald Version,-8.444128036499023
+User:user_32,Game:game_14746,Batman: The Telltale Series,-8.47079849243164
+User:user_32,Game:game_112,Devil May Cry 4,-8.471498489379883
+User:user_32,Game:game_731,Grand Theft Auto IV,-8.47900390625
+User:user_32,Game:game_2993,The Wolf Among Us,-8.480090141296387
+User:user_33,Game:game_139090,Inscryption,-7.035979270935059
+User:user_33,Game:game_11737,Outer Wilds,-7.587738037109375
+User:user_33,Game:game_1067,Super Mario Bros. 2,-7.601670742034912
+User:user_33,Game:game_1879,Terraria,-7.633297920227051
+User:user_33,Game:game_17269,Roblox,-7.718986511230469
+User:user_33,Game:game_2990,Machinarium,-7.726082801818848
+User:user_33,Game:game_8965,Darkest Dungeon,-7.7725419998168945
+User:user_33,Game:game_2437,Prince of Persia: The Two Thrones,-7.7726826667785645
+User:user_33,Game:game_181,Grim Fandango,-7.807791233062744
+User:user_33,Game:game_327,Age of Empires II: The Age of Kings,-7.842280387878418
+User:user_33,Game:game_135243,It Takes Two,-7.878851413726807
+User:user_33,Game:game_1941,Infamous: Second Son,-8.04980754852295
+User:user_33,Game:game_251833,Balatro,-8.075235366821289
+User:user_33,Game:game_1339,Psychonauts,-8.087010383605957
+User:user_33,Game:game_14587,Oxenfree,-8.139021873474121
+User:user_33,Game:game_2207,Shadow of the Colossus,-8.173393249511719
+User:user_33,Game:game_8187,Just Cause 3,-8.198812484741211
+User:user_33,Game:game_133,Warcraft III: The Frozen Throne,-8.216387748718262
+User:user_33,Game:game_17000,Stardew Valley,-8.243247985839844
+User:user_33,Game:game_111469,Among Us,-8.256672859191895
+User:user_34,Game:game_1942,The Witcher 3: Wild Hunt,-7.387510776519775
+User:user_34,Game:game_1078,Super Mario Galaxy 2,-7.72400426864624
+User:user_34,Game:game_7444,Shovel Knight,-7.852806091308594
+User:user_34,Game:game_3022,Transistor,-7.885159969329834
+User:user_34,Game:game_1514,Pokémon Crystal Version,-7.912449836730957
+User:user_34,Game:game_305152,Clair Obscur: Expedition 33,-7.91852331161499
+User:user_34,Game:game_1048,Hitman: Blood Money,-7.925572872161865
+User:user_34,Game:game_119171,Baldur's Gate III,-7.935190200805664
+User:user_34,Game:game_7706,This War of Mine,-7.967460632324219
+User:user_34,Game:game_111469,Among Us,-7.999475479125977
+User:user_34,Game:game_19130,Sid Meier's Civilization VI,-8.051006317138672
+User:user_34,Game:game_8965,Darkest Dungeon,-8.084138870239258
+User:user_34,Game:game_20150,Katana Zero,-8.102822303771973
+User:user_34,Game:game_364,Heroes of Might and Magic III: The Restoration of Erathia,-8.108083724975586
+User:user_34,Game:game_118,Star Wars: Knights of the Old Republic II - The Sith Lords,-8.14051628112793
+User:user_34,Game:game_1070,Super Mario World,-8.196979522705078
+User:user_34,Game:game_110248,Stray,-8.208647727966309
+User:user_34,Game:game_948,Worms Armageddon,-8.2686185836792
+User:user_34,Game:game_139090,Inscryption,-8.272576332092285
+User:user_34,Game:game_135400,Minecraft,-8.278674125671387
+User:user_35,Game:game_5025,To the Moon,-7.755668640136719
+User:user_35,Game:game_17000,Stardew Valley,-7.808401107788086
+User:user_35,Game:game_364,Heroes of Might and Magic III: The Restoration of Erathia,-8.030084609985352
+User:user_35,Game:game_980,Grand Theft Auto,-8.062018394470215
+User:user_35,Game:game_9174,Little Nightmares,-8.103347778320312
+User:user_35,Game:game_2155,Dark Souls,-8.16815185546875
+User:user_35,Game:game_5606,Assassin's Creed Unity,-8.193946838378906
+User:user_35,Game:game_6739,Black Mesa,-8.210742950439453
+User:user_35,Game:game_378,Metal Gear Rising: Revengeance,-8.246994972229004
+User:user_35,Game:game_427,Final Fantasy VII,-8.269486427307129
+User:user_35,Game:game_1985,Metal Gear Solid V: The Phantom Pain,-8.26960277557373
+User:user_35,Game:game_7349,Mass Effect: Andromeda,-8.288917541503906
+User:user_35,Game:game_1020,Grand Theft Auto V,-8.28903579711914
+User:user_35,Game:game_7352,Abzu,-8.299161911010742
+User:user_35,Game:game_7444,Shovel Knight,-8.299586296081543
+User:user_35,Game:game_986,Halo 2,-8.30063533782959
+User:user_35,Game:game_11133,Dark Souls III,-8.302383422851562
+User:user_35,Game:game_1876,Spore,-8.310369491577148
+User:user_35,Game:game_1067,Super Mario Bros. 2,-8.344027519226074
+User:user_35,Game:game_1976,Call of Juarez: Gunslinger,-8.391037940979004
+User:user_36,Game:game_135400,Minecraft,-7.1651082038879395
+User:user_36,Game:game_7603,Hellblade: Senua's Sacrifice,-7.526315212249756
+User:user_36,Game:game_135243,It Takes Two,-7.653645992279053
+User:user_36,Game:game_72,Portal 2,-7.74190092086792
+User:user_36,Game:game_1871,The Walking Dead,-7.767063617706299
+User:user_36,Game:game_11233,What Remains of Edith Finch,-7.803400993347168
+User:user_36,Game:game_118,Star Wars: Knights of the Old Republic II - The Sith Lords,-7.8465094566345215
+User:user_36,Game:game_184,Indiana Jones and the Fate of Atlantis,-7.901363849639893
+User:user_36,Game:game_223,The Sims,-7.9049201011657715
+User:user_36,Game:game_7706,This War of Mine,-7.922507286071777
+User:user_36,Game:game_7504,The Forest,-8.003103256225586
+User:user_36,Game:game_134597,Astro's Playroom,-8.121503829956055
+User:user_36,Game:game_17000,Stardew Valley,-8.202516555786133
+User:user_36,Game:game_71,Portal,-8.216906547546387
+User:user_36,Game:game_26196,Crash Bandicoot N. Sane Trilogy,-8.293042182922363
+User:user_36,Game:game_1339,Psychonauts,-8.306851387023926
+User:user_36,Game:game_1334,Brothers: A Tale of Two Sons,-8.306941032409668
+User:user_36,Game:game_1906,Gone Home,-8.314401626586914
+User:user_36,Game:game_246,Diablo II: Lord of Destruction,-8.324901580810547
+User:user_36,Game:game_251833,Balatro,-8.329381942749023
+User:user_37,Game:game_2990,Machinarium,-6.676812648773193
+User:user_37,Game:game_1879,Terraria,-7.1236348152160645
+User:user_37,Game:game_8965,Darkest Dungeon,-7.217337131500244
+User:user_37,Game:game_3075,FTL: Faster Than Light,-7.344249248504639
+User:user_37,Game:game_17000,Stardew Valley,-7.596454620361328
+User:user_37,Game:game_1991,Fez,-7.686034679412842
+User:user_37,Game:game_7444,Shovel Knight,-7.705750942230225
+User:user_37,Game:game_2025,Mount & Blade: Warband,-7.749492645263672
+User:user_37,Game:game_139090,Inscryption,-7.77296257019043
+User:user_37,Game:game_7603,Hellblade: Senua's Sacrifice,-7.8373003005981445
+User:user_37,Game:game_19441,Watch Dogs 2,-7.9238715171813965
+User:user_37,Game:game_133004,Assassin's Creed Valhalla,-7.953598499298096
+User:user_37,Game:game_7205,SuperHot,-7.967806339263916
+User:user_37,Game:game_76,Dragon Age: Origins,-7.978961944580078
+User:user_37,Game:game_251833,Balatro,-7.987077236175537
+User:user_37,Game:game_2262,Gothic II,-8.009160995483398
+User:user_37,Game:game_1556,Pokémon HeartGold Version,-8.072344779968262
+User:user_37,Game:game_9498,Deus Ex: Mankind Divided,-8.09295654296875
+User:user_37,Game:game_20150,Katana Zero,-8.101479530334473
+User:user_37,Game:game_140839,Mass Effect Legendary Edition,-8.117671012878418
+User:user_38,Game:game_8965,Darkest Dungeon,-6.662335395812988
+User:user_38,Game:game_5025,To the Moon,-7.489354610443115
+User:user_38,Game:game_90101,Super Smash Bros. Ultimate,-7.802818298339844
+User:user_38,Game:game_1879,Terraria,-7.815608024597168
+User:user_38,Game:game_121,Minecraft: Java Edition,-7.8629889488220215
+User:user_38,Game:game_17269,Roblox,-8.019059181213379
+User:user_38,Game:game_295,Command & Conquer: Red Alert,-8.030245780944824
+User:user_38,Game:game_980,Grand Theft Auto,-8.071516036987305
+User:user_38,Game:game_40477,Slay the Spire,-8.09068489074707
+User:user_38,Game:game_1339,Psychonauts,-8.139077186584473
+User:user_38,Game:game_1991,Fez,-8.146710395812988
+User:user_38,Game:game_13182,Far Cry: Primal,-8.157424926757812
+User:user_38,Game:game_26226,Celeste,-8.191651344299316
+User:user_38,Game:game_22917,Gris,-8.223749160766602
+User:user_38,Game:game_2899,EarthBound,-8.306180000305176
+User:user_38,Game:game_120,Diablo III,-8.337539672851562
+User:user_38,Game:game_530,Hitman: Absolution,-8.352316856384277
+User:user_38,Game:game_974,Resident Evil 4,-8.355889320373535
+User:user_38,Game:game_1876,Spore,-8.365900993347168
+User:user_38,Game:game_1331,Limbo,-8.367999076843262
+User:user_39,Game:game_26845,Fire Emblem: Three Houses,-7.514649391174316
+User:user_39,Game:game_12517,Undertale,-7.929895401000977
+User:user_39,Game:game_1026,The Legend of Zelda: A Link to the Past,-7.988858699798584
+User:user_39,Game:game_4756,Child of Light,-8.001416206359863
+User:user_39,Game:game_364,Heroes of Might and Magic III: The Restoration of Erathia,-8.021402359008789
+User:user_39,Game:game_836,Prince of Persia: The Sands of Time,-8.07497787475586
+User:user_39,Game:game_11397,Yakuza 0,-8.089315414428711
+User:user_39,Game:game_193,Day of the Tentacle,-8.132322311401367
+User:user_39,Game:game_10148,Night in the Woods,-8.161133766174316
+User:user_39,Game:game_111469,Among Us,-8.192985534667969
+User:user_39,Game:game_119177,Call of Duty: Modern Warfare,-8.209354400634766
+User:user_39,Game:game_13166,The Witcher 3: Wild Hunt - Blood and Wine,-8.211947441101074
+User:user_39,Game:game_14587,Oxenfree,-8.226388931274414
+User:user_39,Game:game_10919,XCOM 2,-8.239431381225586
+User:user_39,Game:game_2853,Braid,-8.253037452697754
+User:user_39,Game:game_885,Super Meat Boy,-8.282535552978516
+User:user_39,Game:game_9254,Subnautica,-8.301493644714355
+User:user_39,Game:game_136625,Hogwarts Legacy,-8.304387092590332
+User:user_39,Game:game_5025,To the Moon,-8.340363502502441
+User:user_39,Game:game_910,Tom Clancy's Splinter Cell,-8.387578010559082
+User:user_4,Game:game_2990,Machinarium,-7.158233642578125
+User:user_4,Game:game_1277,Plants vs. Zombies,-7.575595378875732
+User:user_4,Game:game_26820,Blasphemous,-7.890848636627197
+User:user_4,Game:game_6801,Far Cry 4,-7.954946517944336
+User:user_4,Game:game_2058,Payday 2,-8.020503044128418
+User:user_4,Game:game_7444,Shovel Knight,-8.06090259552002
+User:user_4,Game:game_1186,Crash Bandicoot 2: Cortex Strikes Back,-8.06320571899414
+User:user_4,Game:game_509,Rage,-8.11302661895752
+User:user_4,Game:game_3212,The Sims 4,-8.115344047546387
+User:user_4,Game:game_14587,Oxenfree,-8.137754440307617
+User:user_4,Game:game_3221,Rogue Legacy,-8.158112525939941
+User:user_4,Game:game_9254,Subnautica,-8.205660820007324
+User:user_4,Game:game_2025,Mount & Blade: Warband,-8.209490776062012
+User:user_4,Game:game_730,Grand Theft Auto III,-8.255502700805664
+User:user_4,Game:game_910,Tom Clancy's Splinter Cell,-8.265637397766113
+User:user_4,Game:game_378,Metal Gear Rising: Revengeance,-8.279212951660156
+User:user_4,Game:game_139090,Inscryption,-8.282500267028809
+User:user_4,Game:game_1983,Bastion,-8.282530784606934
+User:user_4,Game:game_125,Diablo,-8.297323226928711
+User:user_4,Game:game_8965,Darkest Dungeon,-8.304184913635254
+User:user_40,Game:game_7444,Shovel Knight,-6.927491664886475
+User:user_40,Game:game_1879,Terraria,-7.348747730255127
+User:user_40,Game:game_26226,Celeste,-7.496680736541748
+User:user_40,Game:game_7603,Hellblade: Senua's Sacrifice,-7.771315574645996
+User:user_40,Game:game_17000,Stardew Valley,-7.919382572174072
+User:user_40,Game:game_2935,"Papers, Please",-8.035331726074219
+User:user_40,Game:game_7789,The Binding of Isaac: Rebirth,-8.084356307983398
+User:user_40,Game:game_7504,The Forest,-8.088170051574707
+User:user_40,Game:game_1156,Tomb Raider II,-8.100713729858398
+User:user_40,Game:game_1983,Bastion,-8.12226676940918
+User:user_40,Game:game_1991,Fez,-8.133843421936035
+User:user_40,Game:game_2350,Mario Kart 8,-8.15205192565918
+User:user_40,Game:game_1512,Pokémon Yellow Version: Special Pikachu Edition,-8.167855262756348
+User:user_40,Game:game_1029,The Legend of Zelda: Ocarina of Time,-8.206502914428711
+User:user_40,Game:game_1334,Brothers: A Tale of Two Sons,-8.212669372558594
+User:user_40,Game:game_111469,Among Us,-8.217373847961426
+User:user_40,Game:game_18866,Dead by Daylight,-8.23115348815918
+User:user_40,Game:game_1905,Fortnite,-8.241031646728516
+User:user_40,Game:game_2112,Mirror's Edge Catalyst,-8.273810386657715
+User:user_40,Game:game_26845,Fire Emblem: Three Houses,-8.328859329223633
+User:user_5,Game:game_7706,This War of Mine,-7.9992876052856445
+User:user_5,Game:game_7205,SuperHot,-8.017766952514648
+User:user_5,Game:game_948,Worms Armageddon,-8.020757675170898
+User:user_5,Game:game_866,Sid Meier's Civilization V,-8.073222160339355
+User:user_5,Game:game_26845,Fire Emblem: Three Houses,-8.178369522094727
+User:user_5,Game:game_7789,The Binding of Isaac: Rebirth,-8.181163787841797
+User:user_5,Game:game_378,Metal Gear Rising: Revengeance,-8.239405632019043
+User:user_5,Game:game_2129,Mark of the Ninja,-8.31882095336914
+User:user_5,Game:game_565,Uncharted 2: Among Thieves,-8.323979377746582
+User:user_5,Game:game_111469,Among Us,-8.330781936645508
+User:user_5,Game:game_14593,Hollow Knight,-8.415853500366211
+User:user_5,Game:game_251833,Balatro,-8.467358589172363
+User:user_5,Game:game_119313,Fall Guys,-8.505775451660156
+User:user_5,Game:game_1090,Donkey Kong Country,-8.508638381958008
+User:user_5,Game:game_37777,Shadow of the Tomb Raider,-8.522612571716309
+User:user_5,Game:game_13,Fallout: A Post Nuclear Role Playing Game,-8.52574634552002
+User:user_5,Game:game_1384,Hotline Miami,-8.582229614257812
+User:user_5,Game:game_1279,Hearthstone,-8.596307754516602
+User:user_5,Game:game_109,L.A. Noire,-8.604988098144531
+User:user_5,Game:game_7386,The Talos Principle,-8.610390663146973
+User:user_6,Game:game_1305,Tom Clancy's Splinter Cell: Blacklist,-7.904028415679932
+User:user_6,Game:game_11233,What Remains of Edith Finch,-7.925105571746826
+User:user_6,Game:game_19164,Borderlands 3,-7.94857120513916
+User:user_6,Game:game_111,Amnesia: The Dark Descent,-7.999199390411377
+User:user_6,Game:game_139090,Inscryption,-8.021862983703613
+User:user_6,Game:game_251833,Balatro,-8.092150688171387
+User:user_6,Game:game_873,Saints Row: The Third,-8.112112998962402
+User:user_6,Game:game_5025,To the Moon,-8.133448600769043
+User:user_6,Game:game_1020,Grand Theft Auto V,-8.137262344360352
+User:user_6,Game:game_55935,Doki Doki Literature Club!,-8.166881561279297
+User:user_6,Game:game_113112,Hades,-8.168047904968262
+User:user_6,Game:game_103329,Control,-8.197030067443848
+User:user_6,Game:game_118,Star Wars: Knights of the Old Republic II - The Sith Lords,-8.199861526489258
+User:user_6,Game:game_23248,Frostpunk,-8.223636627197266
+User:user_6,Game:game_6036,The Last of Us Remastered,-8.228147506713867
+User:user_6,Game:game_3075,FTL: Faster Than Light,-8.228181838989258
+User:user_6,Game:game_121760,Little Nightmares II,-8.23483943939209
+User:user_6,Game:game_1905,Fortnite,-8.240213394165039
+User:user_6,Game:game_1277,Plants vs. Zombies,-8.251502990722656
+User:user_6,Game:game_13182,Far Cry: Primal,-8.259915351867676
+User:user_7,Game:game_942,World of Goo,-7.588481903076172
+User:user_7,Game:game_1067,Super Mario Bros. 2,-7.676133155822754
+User:user_7,Game:game_1164,Tomb Raider,-7.782680988311768
+User:user_7,Game:game_1114,Castlevania,-7.859813690185547
+User:user_7,Game:game_885,Super Meat Boy,-7.860782146453857
+User:user_7,Game:game_2342,Mario Kart 64,-7.860792636871338
+User:user_7,Game:game_135243,It Takes Two,-7.874691009521484
+User:user_7,Game:game_1991,Fez,-7.884481430053711
+User:user_7,Game:game_7789,The Binding of Isaac: Rebirth,-7.9279279708862305
+User:user_7,Game:game_119313,Fall Guys,-7.965705394744873
+User:user_7,Game:game_135400,Minecraft,-7.97808313369751
+User:user_7,Game:game_19562,Resident Evil 7: Biohazard,-7.985404968261719
+User:user_7,Game:game_732,Grand Theft Auto: San Andreas,-7.998171329498291
+User:user_7,Game:game_1619,Mortal Kombat II,-8.00438404083252
+User:user_7,Game:game_1339,Psychonauts,-8.008525848388672
+User:user_7,Game:game_139090,Inscryption,-8.025089263916016
+User:user_7,Game:game_12517,Undertale,-8.026869773864746
+User:user_7,Game:game_26820,Blasphemous,-8.034226417541504
+User:user_7,Game:game_22917,Gris,-8.04377555847168
+User:user_7,Game:game_9174,Little Nightmares,-8.04852294921875
+User:user_8,Game:game_8965,Darkest Dungeon,-7.481048107147217
+User:user_8,Game:game_7444,Shovel Knight,-8.04001522064209
+User:user_8,Game:game_2990,Machinarium,-8.073983192443848
+User:user_8,Game:game_1983,Bastion,-8.097344398498535
+User:user_8,Game:game_1067,Super Mario Bros. 2,-8.1178617477417
+User:user_8,Game:game_20150,Katana Zero,-8.234931945800781
+User:user_8,Game:game_9061,Cuphead,-8.257917404174805
+User:user_8,Game:game_135400,Minecraft,-8.283915519714355
+User:user_8,Game:game_890,Syberia,-8.295666694641113
+User:user_8,Game:game_2671,Guitar Hero III: Legends of Rock,-8.329116821289062
+User:user_8,Game:game_140839,Mass Effect Legendary Edition,-8.423364639282227
+User:user_8,Game:game_910,Tom Clancy's Splinter Cell,-8.436249732971191
+User:user_8,Game:game_1715,Mega Man 2,-8.438859939575195
+User:user_8,Game:game_17000,Stardew Valley,-8.48253345489502
+User:user_8,Game:game_966,Resident Evil 3: Nemesis,-8.503782272338867
+User:user_8,Game:game_186725,Vampire Survivors,-8.529454231262207
+User:user_8,Game:game_246,Diablo II: Lord of Destruction,-8.529903411865234
+User:user_8,Game:game_61,Monkey Island 2: LeChuck's Revenge,-8.548705101013184
+User:user_8,Game:game_9727,Soma,-8.599067687988281
+User:user_8,Game:game_1619,Mortal Kombat II,-8.620430946350098
+User:user_9,Game:game_1318,XCOM: Enemy Unknown,-7.637644290924072
+User:user_9,Game:game_1277,Plants vs. Zombies,-7.677163600921631
+User:user_9,Game:game_8965,Darkest Dungeon,-7.6923370361328125
+User:user_9,Game:game_3225,No Man's Sky,-7.757636070251465
+User:user_9,Game:game_1557,Pokémon Ruby Version,-7.770632266998291
+User:user_9,Game:game_3152,Don't Starve,-7.8181257247924805
+User:user_9,Game:game_1337,Torchlight II,-7.900749206542969
+User:user_9,Game:game_2853,Braid,-7.963076114654541
+User:user_9,Game:game_17000,Stardew Valley,-8.026114463806152
+User:user_9,Game:game_7444,Shovel Knight,-8.04831600189209
+User:user_9,Game:game_26820,Blasphemous,-8.071141242980957
+User:user_9,Game:game_1906,Gone Home,-8.123022079467773
+User:user_9,Game:game_2025,Mount & Blade: Warband,-8.1586332321167
+User:user_9,Game:game_9643,Return of the Obra Dinn,-8.168619155883789
+User:user_9,Game:game_2599,Game Dev Tycoon,-8.174860954284668
+User:user_9,Game:game_2935,"Papers, Please",-8.216968536376953
+User:user_9,Game:game_133,Warcraft III: The Frozen Throne,-8.22800064086914
+User:user_9,Game:game_7603,Hellblade: Senua's Sacrifice,-8.246110916137695
+User:user_9,Game:game_11737,Outer Wilds,-8.248738288879395
+User:user_9,Game:game_186725,Vampire Survivors,-8.250839233398438

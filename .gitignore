@@ -1,0 +1,6 @@
+__pycache__/
+.venv/
+.pystow/
+data/embeddings/train.tsv
+data/embeddings/test_likes.tsv
+.DS_Store
