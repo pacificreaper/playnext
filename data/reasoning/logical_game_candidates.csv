@@ -1,0 +1,801 @@
+user,game,game_name,embedding_rank,embedding_score,final_score,eligible,matched_platforms,matched_genres,matched_franchises,related_liked_games,reasons
+User:user_1,Game:game_111469,Among Us,1,-7.32689905166626,0.0,False,,,,,Removed: no owned platform match
+User:user_1,Game:game_5025,To the Moon,2,-7.5815277099609375,0.0,False,,Adventure,,,Removed: no owned platform match | Matches preferred genre: Adventure
+User:user_1,Game:game_14746,Batman: The Telltale Series,3,-7.699695110321045,0.0,False,,Adventure,,,Removed: no owned platform match | Matches preferred genre: Adventure
+User:user_1,Game:game_1331,Limbo,4,-7.779444217681885,0.0,False,,Adventure; Platformer,,,"Removed: no owned platform match | Matches preferred genre: Adventure, Platformer"
+User:user_1,Game:game_28540,Assassin's Creed Origins,5,-7.853279113769531,0.0,False,,Adventure,,,Removed: no owned platform match | Matches preferred genre: Adventure
+User:user_1,Game:game_885,Super Meat Boy,6,-7.8833160400390625,0.0,False,,Adventure; Platformer,,,"Removed: no owned platform match | Matches preferred genre: Adventure, Platformer"
+User:user_1,Game:game_378,Metal Gear Rising: Revengeance,7,-7.955379486083984,0.0,False,,Adventure,,,Removed: no owned platform match | Matches preferred genre: Adventure
+User:user_1,Game:game_186725,Vampire Survivors,8,-7.997192859649658,0.0,False,,Adventure,,,Removed: no owned platform match | Matches preferred genre: Adventure
+User:user_1,Game:game_11156,Horizon Zero Dawn,9,-8.056192398071289,0.0,False,,Adventure,,,Removed: no owned platform match | Matches preferred genre: Adventure
+User:user_1,Game:game_1103,Super Metroid,10,-8.166687965393066,0.0,False,,Adventure; Platformer,,,"Removed: no owned platform match | Matches preferred genre: Adventure, Platformer"
+User:user_1,Game:game_233,Half-Life 2,11,-8.217977523803711,0.0,False,,,Half-Life,,Removed: no owned platform match | Same franchise as liked game: Half-Life
+User:user_1,Game:game_110248,Stray,12,-8.227497100830078,0.0,False,,Adventure; Platformer,,,"Removed: no owned platform match | Matches preferred genre: Adventure, Platformer"
+User:user_1,Game:game_2129,Mark of the Ninja,13,-8.233793258666992,0.0,False,,Adventure; Platformer,,,"Removed: no owned platform match | Matches preferred genre: Adventure, Platformer"
+User:user_1,Game:game_26820,Blasphemous,14,-8.244956016540527,0.0,False,,Adventure; Platformer,,,"Removed: no owned platform match | Matches preferred genre: Adventure, Platformer"
+User:user_1,Game:game_1558,Pokémon Gold Version,15,-8.321758270263672,0.316667,True,Game Boy Color,Adventure,,,Available on Game Boy Color | Matches preferred genre: Adventure
+User:user_1,Game:game_135400,Minecraft,16,-8.322279930114746,0.0,False,,Adventure,,,Removed: no owned platform match | Matches preferred genre: Adventure
+User:user_1,Game:game_2437,Prince of Persia: The Two Thrones,17,-8.346711158752441,0.0,False,,Adventure; Platformer,Prince of Persia,,"Removed: no owned platform match | Matches preferred genre: Adventure, Platformer | Same franchise as liked game: Prince of Persia"
+User:user_1,Game:game_2178,New Super Mario Bros. Wii,18,-8.364562034606934,0.0,False,,Adventure; Platformer,,,"Removed: no owned platform match | Matches preferred genre: Adventure, Platformer"
+User:user_1,Game:game_2682,LEGO Star Wars: The Complete Saga,19,-8.373804092407227,0.0,False,,Adventure; Platformer,,,"Removed: no owned platform match | Matches preferred genre: Adventure, Platformer"
+User:user_1,Game:game_2935,"Papers, Please",20,-8.37449836730957,0.0,False,,,,,Removed: no owned platform match
+User:user_10,Game:game_37777,Shadow of the Tomb Raider,1,-7.699347496032715,0.0,False,,Shooter,,,Removed: no owned platform match | Matches preferred genre: Shooter
+User:user_10,Game:game_26845,Fire Emblem: Three Houses,2,-7.706617832183838,0.0,False,,,,,Removed: no owned platform match
+User:user_10,Game:game_14593,Hollow Knight,3,-7.76035737991333,0.333333,True,Nintendo Switch 2,,,,Available on Nintendo Switch 2
+User:user_10,Game:game_26192,The Last of Us Part II,4,-7.88530158996582,0.0,False,,Shooter,,,Removed: no owned platform match | Matches preferred genre: Shooter
+User:user_10,Game:game_1593,Pillars of Eternity,5,-7.930727481842041,0.0,False,,,,,Removed: no owned platform match
+User:user_10,Game:game_121,Minecraft: Java Edition,6,-7.993712425231934,0.0,False,,Simulator,,,Removed: no owned platform match | Matches preferred genre: Simulator
+User:user_10,Game:game_7789,The Binding of Isaac: Rebirth,7,-8.010743141174316,0.0,False,,Shooter,,,Removed: no owned platform match | Matches preferred genre: Shooter
+User:user_10,Game:game_26193,Uncharted: The Lost Legacy,8,-8.029088020324707,0.0,False,,Shooter,,,Removed: no owned platform match | Matches preferred genre: Shooter
+User:user_10,Game:game_7205,SuperHot,9,-8.06417465209961,0.0,False,,Shooter,,,Removed: no owned platform match | Matches preferred genre: Shooter
+User:user_10,Game:game_40477,Slay the Spire,10,-8.254256248474121,0.0,False,,,,,Removed: no owned platform match
+User:user_10,Game:game_6036,The Last of Us Remastered,11,-8.280506134033203,0.0,False,,Shooter,,,Removed: no owned platform match | Matches preferred genre: Shooter
+User:user_10,Game:game_110248,Stray,12,-8.31234359741211,0.083333,True,Nintendo Switch 2,,,,Available on Nintendo Switch 2
+User:user_10,Game:game_364,Heroes of Might and Magic III: The Restoration of Erathia,13,-8.313858032226562,0.0,False,,,,,Removed: no owned platform match
+User:user_10,Game:game_135243,It Takes Two,14,-8.316566467285156,0.0,False,,,,,Removed: no owned platform match
+User:user_10,Game:game_139090,Inscryption,15,-8.323748588562012,0.0,False,,,,,Removed: no owned platform match
+User:user_10,Game:game_127,Assassin's Creed II,16,-8.32608413696289,0.0,False,,,,,Removed: no owned platform match
+User:user_10,Game:game_26226,Celeste,17,-8.32945728302002,0.0,False,,,,,Removed: no owned platform match
+User:user_10,Game:game_1991,Fez,18,-8.335249900817871,0.0,False,,,,,Removed: no owned platform match
+User:user_10,Game:game_26855,Dead Cells,19,-8.337149620056152,0.0,False,,,,,Removed: no owned platform match
+User:user_10,Game:game_1879,Terraria,20,-8.346693992614746,0.0,False,,Simulator,,,Removed: no owned platform match | Matches preferred genre: Simulator
+User:user_11,Game:game_8965,Darkest Dungeon,1,-7.436809539794922,0.0,False,,Adventure; RPG,,,"Removed: no owned platform match | Matches preferred genre: Adventure, RPG"
+User:user_11,Game:game_246,Diablo II: Lord of Destruction,2,-7.5683159828186035,0.0,False,,RPG,,,Removed: no owned platform match | Matches preferred genre: RPG
+User:user_11,Game:game_2262,Gothic II,3,-7.64904260635376,0.0,False,,Adventure; RPG,,,"Removed: no owned platform match | Matches preferred genre: Adventure, RPG"
+User:user_11,Game:game_3750,Quantum Break,4,-7.690591812133789,0.0,False,,Adventure,,,Removed: no owned platform match | Matches preferred genre: Adventure
+User:user_11,Game:game_1560,Pokémon Diamond Version,5,-7.957794666290283,0.0,False,,Adventure; RPG,Pokémon,,"Removed: no owned platform match | Matches preferred genre: Adventure, RPG | Same franchise as liked game: Pokémon"
+User:user_11,Game:game_139090,Inscryption,6,-8.016777992248535,0.0,False,,Adventure; Card & Board Game,,,"Removed: no owned platform match | Matches preferred genre: Adventure, Card & Board Game"
+User:user_11,Game:game_99,Need for Speed: Carbon,7,-8.101781845092773,0.0,False,,,,,Removed: no owned platform match
+User:user_11,Game:game_6739,Black Mesa,8,-8.171883583068848,0.0,False,,Adventure; Platformer,,,"Removed: no owned platform match | Matches preferred genre: Adventure, Platformer"
+User:user_11,Game:game_1906,Gone Home,9,-8.189726829528809,0.0,False,,Adventure,,,Removed: no owned platform match | Matches preferred genre: Adventure
+User:user_11,Game:game_135400,Minecraft,10,-8.20941162109375,0.0,False,,Adventure,,,Removed: no owned platform match | Matches preferred genre: Adventure
+User:user_11,Game:game_7789,The Binding of Isaac: Rebirth,11,-8.227703094482422,0.0,False,,Adventure; RPG,,,"Removed: no owned platform match | Matches preferred genre: Adventure, RPG"
+User:user_11,Game:game_25657,Destiny 2,12,-8.281692504882812,0.0,False,,Adventure; RPG,,,"Removed: no owned platform match | Matches preferred genre: Adventure, RPG"
+User:user_11,Game:game_2025,Mount & Blade: Warband,13,-8.303077697753906,0.0,False,,Adventure; RPG,,,"Removed: no owned platform match | Matches preferred genre: Adventure, RPG"
+User:user_11,Game:game_11156,Horizon Zero Dawn,14,-8.359443664550781,0.0,False,,Adventure; RPG,,,"Removed: no owned platform match | Matches preferred genre: Adventure, RPG"
+User:user_11,Game:game_37001,Ori and the Will of the Wisps,15,-8.368352890014648,0.0,False,,Adventure; Platformer,,,"Removed: no owned platform match | Matches preferred genre: Adventure, Platformer"
+User:user_11,Game:game_1991,Fez,16,-8.3757963180542,0.0,False,,Adventure; Platformer,,,"Removed: no owned platform match | Matches preferred genre: Adventure, Platformer"
+User:user_11,Game:game_1339,Psychonauts,17,-8.378493309020996,0.0,False,,Adventure; Platformer,,,"Removed: no owned platform match | Matches preferred genre: Adventure, Platformer"
+User:user_11,Game:game_3225,No Man's Sky,18,-8.379857063293457,0.0,False,,Adventure,,,Removed: no owned platform match | Matches preferred genre: Adventure
+User:user_11,Game:game_242408,Counter-Strike 2,19,-8.400080680847168,0.0,False,,,,,Removed: no owned platform match
+User:user_11,Game:game_421,Final Fantasy IX,20,-8.406109809875488,0.0,False,,Adventure; RPG,Final Fantasy,,"Removed: no owned platform match | Matches preferred genre: Adventure, RPG | Same franchise as liked game: Final Fantasy"
+User:user_12,Game:game_1941,Infamous: Second Son,1,-8.103365898132324,0.0,False,,,,,Removed: no owned platform match
+User:user_12,Game:game_7205,SuperHot,2,-8.17841625213623,0.0,False,,Tactical,,,Removed: no owned platform match | Matches preferred genre: Tactical
+User:user_12,Game:game_3225,No Man's Sky,3,-8.261798858642578,0.0,False,,,,,Removed: no owned platform match
+User:user_12,Game:game_2437,Prince of Persia: The Two Thrones,4,-8.385804176330566,0.0,False,,,,,Removed: no owned platform match
+User:user_12,Game:game_559,Call of Duty: Modern Warfare 2,5,-8.442583084106445,0.4,True,PlayStation 3,,Call of Duty,,Available on PlayStation 3 | Same franchise as liked game: Call of Duty
+User:user_12,Game:game_19562,Resident Evil 7: Biohazard,6,-8.467348098754883,0.0,False,,,,,Removed: no owned platform match
+User:user_12,Game:game_55935,Doki Doki Literature Club!,7,-8.504814147949219,0.0,False,,Visual Novel,,,Removed: no owned platform match | Matches preferred genre: Visual Novel
+User:user_12,Game:game_1517,Pokémon Emerald Version,8,-8.529214859008789,0.0,False,,,,,Removed: no owned platform match
+User:user_12,Game:game_2129,Mark of the Ninja,9,-8.551695823669434,0.0,False,,,,,Removed: no owned platform match
+User:user_12,Game:game_7349,Mass Effect: Andromeda,10,-8.552301406860352,0.0,False,,,,,Removed: no owned platform match
+User:user_12,Game:game_3221,Rogue Legacy,11,-8.570701599121094,0.090909,True,PlayStation 3,,,,Available on PlayStation 3
+User:user_12,Game:game_472,The Elder Scrolls V: Skyrim,12,-8.57553482055664,0.083333,True,PlayStation 3,,,,Available on PlayStation 3
+User:user_12,Game:game_986,Halo 2,13,-8.610735893249512,0.0,False,,,,,Removed: no owned platform match
+User:user_12,Game:game_117,The Last Guardian,14,-8.641517639160156,0.0,False,,,,,Removed: no owned platform match
+User:user_12,Game:game_1879,Terraria,15,-8.679329872131348,0.066667,True,PlayStation 3,,,,Available on PlayStation 3
+User:user_12,Game:game_499,God of War III,16,-8.686752319335938,0.0625,True,PlayStation 3,,,,Available on PlayStation 3
+User:user_12,Game:game_3025,Middle-earth: Shadow of Mordor,17,-8.700745582580566,0.058824,True,PlayStation 3,,,,Available on PlayStation 3
+User:user_12,Game:game_2148,Banjo-Kazooie,18,-8.710783004760742,0.0,False,,,,,Removed: no owned platform match
+User:user_12,Game:game_438,Rome: Total War,19,-8.716273307800293,0.0,False,,Tactical,,,Removed: no owned platform match | Matches preferred genre: Tactical
+User:user_12,Game:game_7352,Abzu,20,-8.717206954956055,0.0,False,,,,,Removed: no owned platform match
+User:user_13,Game:game_2148,Banjo-Kazooie,1,-7.376736640930176,0.0,False,,Adventure; Platformer,,,"Removed: no owned platform match | Matches preferred genre: Adventure, Platformer"
+User:user_13,Game:game_26855,Dead Cells,2,-7.411696910858154,0.0,False,,Adventure; Indie; Platformer,,,"Removed: no owned platform match | Matches preferred genre: Adventure, Indie, Platformer"
+User:user_13,Game:game_14587,Oxenfree,3,-7.927270889282227,0.0,False,,Adventure; Indie,,,"Removed: no owned platform match | Matches preferred genre: Adventure, Indie"
+User:user_13,Game:game_7504,The Forest,4,-7.959553241729736,0.0,False,,Adventure; Indie,,,"Removed: no owned platform match | Matches preferred genre: Adventure, Indie"
+User:user_13,Game:game_1906,Gone Home,5,-7.961602687835693,0.0,False,,Adventure; Indie,,,"Removed: no owned platform match | Matches preferred genre: Adventure, Indie"
+User:user_13,Game:game_885,Super Meat Boy,6,-8.026759147644043,0.0,False,,Adventure; Indie; Platformer,,,"Removed: no owned platform match | Matches preferred genre: Adventure, Indie, Platformer"
+User:user_13,Game:game_14593,Hollow Knight,7,-8.07067584991455,0.0,False,,Adventure; Indie; Platformer,,,"Removed: no owned platform match | Matches preferred genre: Adventure, Indie, Platformer"
+User:user_13,Game:game_111469,Among Us,8,-8.179430961608887,0.0,False,,Indie,,,Removed: no owned platform match | Matches preferred genre: Indie
+User:user_13,Game:game_19562,Resident Evil 7: Biohazard,9,-8.203563690185547,0.0,False,,Adventure; Shooter,,,"Removed: no owned platform match | Matches preferred genre: Adventure, Shooter"
+User:user_13,Game:game_126459,Valorant,10,-8.232015609741211,0.0,False,,Shooter,,,Removed: no owned platform match | Matches preferred genre: Shooter
+User:user_13,Game:game_136625,Hogwarts Legacy,11,-8.237848281860352,0.0,False,,Adventure,,,Removed: no owned platform match | Matches preferred genre: Adventure
+User:user_13,Game:game_17269,Roblox,12,-8.238301277160645,0.0,False,,Adventure; Platformer,,,"Removed: no owned platform match | Matches preferred genre: Adventure, Platformer"
+User:user_13,Game:game_55935,Doki Doki Literature Club!,13,-8.242238998413086,0.0,False,,Adventure; Indie,,,"Removed: no owned platform match | Matches preferred genre: Adventure, Indie"
+User:user_13,Game:game_1715,Mega Man 2,14,-8.276931762695312,0.0,False,,Adventure; Platformer,,,"Removed: no owned platform match | Matches preferred genre: Adventure, Platformer"
+User:user_13,Game:game_113112,Hades,15,-8.29538631439209,0.0,False,,Adventure; Hack and slash/Beat 'em up; Indie,,,"Removed: no owned platform match | Matches preferred genre: Adventure, Hack and slash/Beat 'em up, Indie"
+User:user_13,Game:game_246,Diablo II: Lord of Destruction,16,-8.308095932006836,0.0,False,,Hack and slash/Beat 'em up,,,Removed: no owned platform match | Matches preferred genre: Hack and slash/Beat 'em up
+User:user_13,Game:game_5025,To the Moon,17,-8.32601547241211,0.0,False,,Adventure; Indie,,,"Removed: no owned platform match | Matches preferred genre: Adventure, Indie"
+User:user_13,Game:game_19164,Borderlands 3,18,-8.337695121765137,0.0,False,,Adventure; Shooter,,,"Removed: no owned platform match | Matches preferred genre: Adventure, Shooter"
+User:user_13,Game:game_5606,Assassin's Creed Unity,19,-8.351580619812012,0.0,False,,Adventure,,,Removed: no owned platform match | Matches preferred genre: Adventure
+User:user_13,Game:game_2899,EarthBound,20,-8.414756774902344,0.0,False,,Adventure,,,Removed: no owned platform match | Matches preferred genre: Adventure
+User:user_14,Game:game_20150,Katana Zero,1,-7.284988880157471,1.25,True,Xbox One,Indie,,,Available on Xbox One | Matches preferred genre: Indie
+User:user_14,Game:game_7194,Steins;Gate,2,-7.390369415283203,0.5,True,PlayStation Portable; Xbox 360,,,,"Available on PlayStation Portable, Xbox 360"
+User:user_14,Game:game_7444,Shovel Knight,3,-7.482850551605225,0.583333,True,Xbox One,Indie,,,Available on Xbox One | Matches preferred genre: Indie
+User:user_14,Game:game_9061,Cuphead,4,-7.503898620605469,0.5,True,Xbox One,Indie,,,Available on Xbox One | Matches preferred genre: Indie
+User:user_14,Game:game_2025,Mount & Blade: Warband,5,-7.50502347946167,0.45,True,Xbox One,Simulator,,,Available on Xbox One | Matches preferred genre: Simulator
+User:user_14,Game:game_14746,Batman: The Telltale Series,6,-7.587000846862793,0.166667,True,Xbox 360; Xbox One,,,,"Available on Xbox 360, Xbox One"
+User:user_14,Game:game_7349,Mass Effect: Andromeda,7,-7.656367301940918,0.142857,True,Xbox One,,,,Available on Xbox One
+User:user_14,Game:game_8965,Darkest Dungeon,8,-7.7003936767578125,0.375,True,Xbox One,Indie,,,Available on Xbox One | Matches preferred genre: Indie
+User:user_14,Game:game_8173,Overwatch,9,-7.739444255828857,0.111111,True,Xbox One,,,,Available on Xbox One
+User:user_14,Game:game_3097,The Walking Dead: Season Two,10,-7.7984089851379395,0.1,True,Xbox 360; Xbox One,,,,"Available on Xbox 360, Xbox One"
+User:user_14,Game:game_152249,Marvel's Guardians of the Galaxy,11,-7.852695941925049,0.090909,True,Xbox One,,,,Available on Xbox One
+User:user_14,Game:game_19531,Prey,12,-7.860408306121826,0.083333,True,Xbox One,,,,Available on Xbox One
+User:user_14,Game:game_3221,Rogue Legacy,13,-7.863116264343262,0.326923,True,Xbox One,Indie,,,Available on Xbox One | Matches preferred genre: Indie
+User:user_14,Game:game_112,Devil May Cry 4,14,-7.903868675231934,0.071429,True,Xbox 360,,,,Available on Xbox 360
+User:user_14,Game:game_111,Amnesia: The Dark Descent,15,-7.905018329620361,0.316667,True,Xbox One,Indie,,,Available on Xbox One | Matches preferred genre: Indie
+User:user_14,Game:game_623,Call of Duty 4: Modern Warfare,16,-7.91386079788208,0.3125,True,Xbox 360,Simulator,,,Available on Xbox 360 | Matches preferred genre: Simulator
+User:user_14,Game:game_9643,Return of the Obra Dinn,17,-7.916543960571289,0.308824,True,Xbox One,Indie,,,Available on Xbox One | Matches preferred genre: Indie
+User:user_14,Game:game_1011,Borderlands 2,18,-7.929548740386963,0.255556,True,Xbox 360; Xbox One,,Borderlands,,"Available on Xbox 360, Xbox One | Same franchise as liked game: Borderlands"
+User:user_14,Game:game_8254,Resident Evil,19,-7.932051658630371,0.052632,True,Xbox 360; Xbox One,,,,"Available on Xbox 360, Xbox One"
+User:user_14,Game:game_1067,Super Mario Bros. 2,20,-7.934849739074707,0.0,False,,,,,Removed: no owned platform match
+User:user_15,Game:game_1879,Terraria,1,-7.592741966247559,1.0,True,PlayStation Vita,,,,Available on PlayStation Vita
+User:user_15,Game:game_3221,Rogue Legacy,2,-7.7113237380981445,0.5,True,PlayStation Vita,,,,Available on PlayStation Vita
+User:user_15,Game:game_1715,Mega Man 2,3,-7.854365348815918,0.0,False,,,,,Removed: no owned platform match
+User:user_15,Game:game_1517,Pokémon Emerald Version,4,-7.8820271492004395,0.25,True,Game Boy Advance,,,,Available on Game Boy Advance
+User:user_15,Game:game_11198,Rocket League,5,-7.900152206420898,0.0,False,,Racing,,,Removed: no owned platform match | Matches preferred genre: Racing
+User:user_15,Game:game_2990,Machinarium,6,-7.93878698348999,0.166667,True,PlayStation Vita,,,,Available on PlayStation Vita
+User:user_15,Game:game_1556,Pokémon HeartGold Version,7,-8.077624320983887,0.0,False,,,,,Removed: no owned platform match
+User:user_15,Game:game_20150,Katana Zero,8,-8.085662841796875,0.0,False,,Arcade,,,Removed: no owned platform match | Matches preferred genre: Arcade
+User:user_15,Game:game_3097,The Walking Dead: Season Two,9,-8.10112476348877,0.111111,True,PlayStation Vita,,,,Available on PlayStation Vita
+User:user_15,Game:game_2262,Gothic II,10,-8.133475303649902,0.0,False,,,,,Removed: no owned platform match
+User:user_15,Game:game_2025,Mount & Blade: Warband,11,-8.16457748413086,0.0,False,,,,,Removed: no owned platform match
+User:user_15,Game:game_558,Just Cause 2,12,-8.191177368164062,0.0,False,,Racing,,,Removed: no owned platform match | Matches preferred genre: Racing
+User:user_15,Game:game_327,Age of Empires II: The Age of Kings,13,-8.238890647888184,0.0,False,,,,,Removed: no owned platform match
+User:user_15,Game:game_948,Worms Armageddon,14,-8.243484497070312,0.0,False,,,,,Removed: no owned platform match
+User:user_15,Game:game_438,Rome: Total War,15,-8.260289192199707,0.0,False,,Tactical,,,Removed: no owned platform match | Matches preferred genre: Tactical
+User:user_15,Game:game_7327,Valiant Hearts: The Great War,16,-8.260682106018066,0.0,False,,,,,Removed: no owned platform match
+User:user_15,Game:game_1983,Bastion,17,-8.262520790100098,0.058824,True,PlayStation Vita,,,,Available on PlayStation Vita
+User:user_15,Game:game_289,Age of Empires,18,-8.276324272155762,0.0,False,,,,,Removed: no owned platform match
+User:user_15,Game:game_40477,Slay the Spire,19,-8.276525497436523,0.0,False,,,,,Removed: no owned platform match
+User:user_15,Game:game_7603,Hellblade: Senua's Sacrifice,20,-8.306727409362793,0.0,False,,,,,Removed: no owned platform match
+User:user_16,Game:game_647,Command & Conquer,1,-7.396561622619629,1.0,True,DOS; Sega Saturn,,,,"Available on DOS, Sega Saturn"
+User:user_16,Game:game_11119,Fallout Shelter,2,-7.799684047698975,0.0,False,,Simulator,,,Removed: no owned platform match | Matches preferred genre: Simulator
+User:user_16,Game:game_299,Age of Empires III,3,-7.872363090515137,0.0,False,,Simulator,,,Removed: no owned platform match | Matches preferred genre: Simulator
+User:user_16,Game:game_251833,Balatro,4,-7.950503349304199,0.0,False,,,,,Removed: no owned platform match
+User:user_16,Game:game_8965,Darkest Dungeon,5,-8.063119888305664,0.45,True,Linux,Tactical,,,Available on Linux | Matches preferred genre: Tactical
+User:user_16,Game:game_5025,To the Moon,6,-8.085785865783691,0.416667,True,Linux,Puzzle,,,Available on Linux | Matches preferred genre: Puzzle
+User:user_16,Game:game_2899,EarthBound,7,-8.12584400177002,0.0,False,,,,,Removed: no owned platform match
+User:user_16,Game:game_111469,Among Us,8,-8.189390182495117,0.0,False,,,,,Removed: no owned platform match
+User:user_16,Game:game_40477,Slay the Spire,9,-8.22932243347168,0.111111,True,Linux,,,,Available on Linux
+User:user_16,Game:game_558,Just Cause 2,10,-8.31949234008789,0.1,True,Linux,,,,Available on Linux
+User:user_16,Game:game_2148,Banjo-Kazooie,11,-8.320425033569336,0.0,False,,,,,Removed: no owned platform match
+User:user_16,Game:game_11182,Enter the Gungeon,12,-8.355091094970703,0.083333,True,Linux,,,,Available on Linux
+User:user_16,Game:game_14587,Oxenfree,13,-8.365401268005371,0.076923,True,Linux,,,,Available on Linux
+User:user_16,Game:game_11198,Rocket League,14,-8.36587142944336,0.071429,True,Linux,,,,Available on Linux
+User:user_16,Game:game_139090,Inscryption,15,-8.36770248413086,0.316667,True,Linux,Puzzle,,,Available on Linux | Matches preferred genre: Puzzle
+User:user_16,Game:game_2549,Half-Life: Blue Shift,16,-8.392416954040527,0.6625,True,Linux,Puzzle,Half-Life,Half-Life: Opposing Force,Available on Linux | Matches preferred genre: Puzzle | Same franchise as liked game: Half-Life | Related to liked game: Half-Life: Opposing Force
+User:user_16,Game:game_26820,Blasphemous,17,-8.407047271728516,0.058824,True,Linux,,,,Available on Linux
+User:user_16,Game:game_6739,Black Mesa,18,-8.485549926757812,0.405556,True,Linux,,Half-Life,Half-Life: Opposing Force,Available on Linux | Same franchise as liked game: Half-Life | Related to liked game: Half-Life: Opposing Force
+User:user_16,Game:game_7342,Inside,19,-8.491920471191406,0.0,False,,Puzzle,,,Removed: no owned platform match | Matches preferred genre: Puzzle
+User:user_16,Game:game_295,Command & Conquer: Red Alert,20,-8.505990982055664,0.05,True,DOS,,,,Available on DOS
+User:user_17,Game:game_1942,The Witcher 3: Wild Hunt,1,-7.140205383300781,0.0,False,,,,,Removed: no owned platform match
+User:user_17,Game:game_2437,Prince of Persia: The Two Thrones,2,-7.957343578338623,0.5,True,Xbox,,,,Available on Xbox
+User:user_17,Game:game_1277,Plants vs. Zombies,3,-8.000414848327637,0.333333,True,PlayStation Vita,,,,Available on PlayStation Vita
+User:user_17,Game:game_2853,Braid,4,-8.01144790649414,0.0,False,,,,,Removed: no owned platform match
+User:user_17,Game:game_11233,What Remains of Edith Finch,5,-8.068964958190918,0.0,False,,,,,Removed: no owned platform match
+User:user_17,Game:game_13166,The Witcher 3: Wild Hunt - Blood and Wine,6,-8.100723266601562,0.0,False,,,,,Removed: no owned platform match
+User:user_17,Game:game_538,BioShock Infinite,7,-8.15817928314209,0.0,False,,,,,Removed: no owned platform match
+User:user_17,Game:game_111469,Among Us,8,-8.158754348754883,0.0,False,,,,,Removed: no owned platform match
+User:user_17,Game:game_14746,Batman: The Telltale Series,9,-8.197530746459961,0.0,False,,,,,Removed: no owned platform match
+User:user_17,Game:game_2148,Banjo-Kazooie,10,-8.236259460449219,0.0,False,,Quiz/Trivia,,,Removed: no owned platform match | Matches preferred genre: Quiz/Trivia
+User:user_17,Game:game_112916,Mortal Kombat 11,11,-8.243412017822266,0.0,False,,,,,Removed: no owned platform match
+User:user_17,Game:game_5025,To the Moon,12,-8.273680686950684,0.0,False,,,,,Removed: no owned platform match
+User:user_17,Game:game_136625,Hogwarts Legacy,13,-8.274177551269531,0.076923,True,Nintendo Switch 2,,,,Available on Nintendo Switch 2
+User:user_17,Game:game_82090,Forza Horizon 4,14,-8.281343460083008,0.0,False,,,,,Removed: no owned platform match
+User:user_17,Game:game_327,Age of Empires II: The Age of Kings,15,-8.381608009338379,0.0,False,,,,,Removed: no owned platform match
+User:user_17,Game:game_36952,Wolfenstein II: The New Colossus,16,-8.41848087310791,0.0,False,,,,,Removed: no owned platform match
+User:user_17,Game:game_948,Worms Armageddon,17,-8.452314376831055,0.0,False,,,,,Removed: no owned platform match
+User:user_17,Game:game_1078,Super Mario Galaxy 2,18,-8.456721305847168,0.0,False,,,,,Removed: no owned platform match
+User:user_17,Game:game_1339,Psychonauts,19,-8.46909236907959,0.052632,True,Xbox,,,,Available on Xbox
+User:user_17,Game:game_6801,Far Cry 4,20,-8.470193862915039,0.0,False,,,,,Removed: no owned platform match
+User:user_18,Game:game_7444,Shovel Knight,1,-7.0768961906433105,0.0,False,,Indie,,,Removed: no owned platform match | Matches preferred genre: Indie
+User:user_18,Game:game_18866,Dead by Daylight,2,-7.158599853515625,0.5,True,Cloud Gaming,,,,Available on Cloud Gaming
+User:user_18,Game:game_9254,Subnautica,3,-7.222008228302002,0.0,False,,Indie,,,Removed: no owned platform match | Matches preferred genre: Indie
+User:user_18,Game:game_55935,Doki Doki Literature Club!,4,-7.41200590133667,0.0,False,,Indie,,,Removed: no owned platform match | Matches preferred genre: Indie
+User:user_18,Game:game_2599,Game Dev Tycoon,5,-7.4776835441589355,0.0,False,,Indie,,,Removed: no owned platform match | Matches preferred genre: Indie
+User:user_18,Game:game_2058,Payday 2,6,-7.617124557495117,0.0,False,,,,,Removed: no owned platform match
+User:user_18,Game:game_647,Command & Conquer,7,-7.649560928344727,0.0,False,,,,,Removed: no owned platform match
+User:user_18,Game:game_8965,Darkest Dungeon,8,-7.718928813934326,0.0,False,,Indie,,,Removed: no owned platform match | Matches preferred genre: Indie
+User:user_18,Game:game_7789,The Binding of Isaac: Rebirth,9,-7.776830673217773,0.0,False,,Indie,,,Removed: no owned platform match | Matches preferred genre: Indie
+User:user_18,Game:game_3278,Garry's Mod,10,-7.809586524963379,0.0,False,,Indie,,,Removed: no owned platform match | Matches preferred genre: Indie
+User:user_18,Game:game_1244,Tekken 3,11,-7.842956066131592,0.0,False,,,,,Removed: no owned platform match
+User:user_18,Game:game_251833,Balatro,12,-7.883551120758057,0.0,False,,Indie,,,Removed: no owned platform match | Matches preferred genre: Indie
+User:user_18,Game:game_1067,Super Mario Bros. 2,13,-7.895301818847656,0.276923,True,Nintendo,,Mario Bros.,,Available on Nintendo | Same franchise as liked game: Mario Bros.
+User:user_18,Game:game_36952,Wolfenstein II: The New Colossus,14,-7.963904857635498,0.0,False,,,,,Removed: no owned platform match
+User:user_18,Game:game_8197,Tetris,15,-7.990055561065674,0.066667,True,Nintendo,,,,Available on Nintendo
+User:user_18,Game:game_3221,Rogue Legacy,16,-7.992239475250244,0.0,False,,Indie,,,Removed: no owned platform match | Matches preferred genre: Indie
+User:user_18,Game:game_2990,Machinarium,17,-8.016547203063965,0.0,False,,Indie,,,Removed: no owned platform match | Matches preferred genre: Indie
+User:user_18,Game:game_1991,Fez,18,-8.020824432373047,0.0,False,,Indie,,,Removed: no owned platform match | Matches preferred genre: Indie
+User:user_18,Game:game_558,Just Cause 2,19,-8.033656120300293,0.0,False,,Racing,,,Removed: no owned platform match | Matches preferred genre: Racing
+User:user_18,Game:game_133,Warcraft III: The Frozen Throne,20,-8.03640079498291,0.0,False,,,,,Removed: no owned platform match
+User:user_19,Game:game_1991,Fez,1,-7.195259094238281,0.0,False,,Indie,,,Removed: no owned platform match | Matches preferred genre: Indie
+User:user_19,Game:game_570,Prototype,2,-7.427022457122803,0.0,False,,,,,Removed: no owned platform match
+User:user_19,Game:game_14587,Oxenfree,3,-7.576913833618164,0.0,False,,Indie,,,Removed: no owned platform match | Matches preferred genre: Indie
+User:user_19,Game:game_3212,The Sims 4,4,-7.599222660064697,0.0,False,,,,,Removed: no owned platform match
+User:user_19,Game:game_1593,Pillars of Eternity,5,-7.602077484130859,0.0,False,,Indie,,,Removed: no owned platform match | Matches preferred genre: Indie
+User:user_19,Game:game_26820,Blasphemous,6,-7.631788730621338,0.0,False,,Indie,,,Removed: no owned platform match | Matches preferred genre: Indie
+User:user_19,Game:game_7789,The Binding of Isaac: Rebirth,7,-7.649258613586426,0.0,False,,Indie,,,Removed: no owned platform match | Matches preferred genre: Indie
+User:user_19,Game:game_1512,Pokémon Yellow Version: Special Pikachu Edition,8,-7.657904148101807,0.0,False,,,Pokémon,,Removed: no owned platform match | Same franchise as liked game: Pokémon
+User:user_19,Game:game_26226,Celeste,9,-7.691554546356201,0.0,False,,Indie,,,Removed: no owned platform match | Matches preferred genre: Indie
+User:user_19,Game:game_7352,Abzu,10,-7.736955165863037,0.0,False,,Indie,,,Removed: no owned platform match | Matches preferred genre: Indie
+User:user_19,Game:game_40477,Slay the Spire,11,-7.739149570465088,0.0,False,,Indie,,,Removed: no owned platform match | Matches preferred genre: Indie
+User:user_19,Game:game_3075,FTL: Faster Than Light,12,-7.758585453033447,0.0,False,,Indie,,,Removed: no owned platform match | Matches preferred genre: Indie
+User:user_19,Game:game_1318,XCOM: Enemy Unknown,13,-7.762844562530518,0.0,False,,,,,Removed: no owned platform match
+User:user_19,Game:game_3035,The Stanley Parable,14,-7.809989929199219,0.0,False,,Indie,,,Removed: no owned platform match | Matches preferred genre: Indie
+User:user_19,Game:game_7444,Shovel Knight,15,-7.818035125732422,0.0,False,,Indie,,,Removed: no owned platform match | Matches preferred genre: Indie
+User:user_19,Game:game_730,Grand Theft Auto III,16,-7.835690021514893,0.0,False,,,,,Removed: no owned platform match
+User:user_19,Game:game_885,Super Meat Boy,17,-7.859944820404053,0.0,False,,Indie,,,Removed: no owned platform match | Matches preferred genre: Indie
+User:user_19,Game:game_10962,Uncharted: The Nathan Drake Collection,18,-7.909913063049316,0.0,False,,,,,Removed: no owned platform match
+User:user_19,Game:game_22917,Gris,19,-7.9310503005981445,0.0,False,,Indie,,,Removed: no owned platform match | Matches preferred genre: Indie
+User:user_19,Game:game_71,Portal,20,-7.96640157699585,0.0,False,,,,,Removed: no owned platform match
+User:user_2,Game:game_136625,Hogwarts Legacy,1,-6.639549255371094,1.0,True,PlayStation 5,,,,Available on PlayStation 5
+User:user_2,Game:game_28540,Assassin's Creed Origins,2,-7.1368608474731445,0.5,True,PlayStation 5,,,,Available on PlayStation 5
+User:user_2,Game:game_119177,Call of Duty: Modern Warfare,3,-7.224210739135742,0.583333,True,PlayStation 5,Shooter,,,Available on PlayStation 5 | Matches preferred genre: Shooter
+User:user_2,Game:game_135243,It Takes Two,4,-7.534980773925781,0.25,True,PlayStation 5,,,,Available on PlayStation 5
+User:user_2,Game:game_2114,Tom Clancy's The Division,5,-7.568819522857666,0.45,True,PlayStation 5,Shooter,,,Available on PlayStation 5 | Matches preferred genre: Shooter
+User:user_2,Game:game_1268,Crysis 3,6,-7.625959873199463,0.0,False,,Shooter,,,Removed: no owned platform match | Matches preferred genre: Shooter
+User:user_2,Game:game_1339,Psychonauts,7,-7.674948215484619,0.0,False,,,,,Removed: no owned platform match
+User:user_2,Game:game_1879,Terraria,8,-7.679259300231934,0.0,False,,,,,Removed: no owned platform match
+User:user_2,Game:game_139090,Inscryption,9,-7.690992832183838,0.111111,True,PlayStation 5,,,,Available on PlayStation 5
+User:user_2,Game:game_826,Saints Row 2,10,-7.754511833190918,0.0,False,,Shooter,,,Removed: no owned platform match | Matches preferred genre: Shooter
+User:user_2,Game:game_10962,Uncharted: The Nathan Drake Collection,11,-7.758059978485107,0.0,False,,Shooter,,,Removed: no owned platform match | Matches preferred genre: Shooter
+User:user_2,Game:game_990,Halo: Reach,12,-7.822568893432617,0.0,False,,Shooter,,,Removed: no owned platform match | Matches preferred genre: Shooter
+User:user_2,Game:game_134582,Ratchet & Clank: Rift Apart,13,-7.914822578430176,0.526923,True,PlayStation 5,Shooter,Ratchet & Clank,,Available on PlayStation 5 | Matches preferred genre: Shooter | Same franchise as liked game: Ratchet & Clank
+User:user_2,Game:game_1941,Infamous: Second Son,14,-7.91679048538208,0.0,False,,Shooter,,,Removed: no owned platform match | Matches preferred genre: Shooter
+User:user_2,Game:game_76882,Sekiro: Shadows Die Twice,15,-7.925856113433838,0.0,False,,,,,Removed: no owned platform match
+User:user_2,Game:game_12503,The Witcher 3: Wild Hunt - Hearts of Stone,16,-7.929652214050293,0.0625,True,PlayStation 5,,,,Available on PlayStation 5
+User:user_2,Game:game_36952,Wolfenstein II: The New Colossus,17,-7.932513236999512,0.0,False,,Shooter,,,Removed: no owned platform match | Matches preferred genre: Shooter
+User:user_2,Game:game_111469,Among Us,18,-7.936967849731445,0.055556,True,PlayStation 5,,,,Available on PlayStation 5
+User:user_2,Game:game_3042,Dying Light,19,-7.968600749969482,0.302632,True,PlayStation 5,Shooter,,,Available on PlayStation 5 | Matches preferred genre: Shooter
+User:user_2,Game:game_2287,Pokémon Y,20,-7.9888153076171875,0.0,False,,Turn-Based Strategy,,,Removed: no owned platform match | Matches preferred genre: Turn-Based Strategy
+User:user_20,Game:game_17000,Stardew Valley,1,-6.737741947174072,0.0,False,,,,,Removed: no owned platform match
+User:user_20,Game:game_1011,Borderlands 2,2,-7.151562690734863,0.0,False,,,,,Removed: no owned platform match
+User:user_20,Game:game_3225,No Man's Sky,3,-7.393568992614746,0.0,False,,,,,Removed: no owned platform match
+User:user_20,Game:game_7789,The Binding of Isaac: Rebirth,4,-7.587052345275879,0.0,False,,,,,Removed: no owned platform match
+User:user_20,Game:game_2332,Super Mario Kart,5,-7.8432440757751465,0.0,False,,,,,Removed: no owned platform match
+User:user_20,Game:game_186725,Vampire Survivors,6,-7.86712646484375,0.0,False,,,,,Removed: no owned platform match
+User:user_20,Game:game_7444,Shovel Knight,7,-7.8899383544921875,0.0,False,,,,,Removed: no owned platform match
+User:user_20,Game:game_2853,Braid,8,-7.932204723358154,0.0,False,,,,,Removed: no owned platform match
+User:user_20,Game:game_2345,Mario Kart DS,9,-7.954075813293457,0.0,False,,,,,Removed: no owned platform match
+User:user_20,Game:game_910,Tom Clancy's Splinter Cell,10,-8.103983879089355,0.0,False,,,,,Removed: no owned platform match
+User:user_20,Game:game_1983,Bastion,11,-8.184398651123047,0.0,False,,,,,Removed: no owned platform match
+User:user_20,Game:game_82090,Forza Horizon 4,12,-8.197746276855469,0.0,False,,,,,Removed: no owned platform match
+User:user_20,Game:game_1906,Gone Home,13,-8.204413414001465,0.0,False,,,,,Removed: no owned platform match
+User:user_20,Game:game_1384,Hotline Miami,14,-8.221833229064941,0.0,False,,,,,Removed: no owned platform match
+User:user_20,Game:game_1905,Fortnite,15,-8.23751449584961,0.0,False,,,,,Removed: no owned platform match
+User:user_20,Game:game_7603,Hellblade: Senua's Sacrifice,16,-8.247651100158691,0.0,False,,,,,Removed: no owned platform match
+User:user_20,Game:game_2350,Mario Kart 8,17,-8.255657196044922,0.0,False,,,,,Removed: no owned platform match
+User:user_20,Game:game_2671,Guitar Hero III: Legends of Rock,18,-8.324966430664062,0.0,False,,,,,Removed: no owned platform match
+User:user_20,Game:game_1879,Terraria,19,-8.329717636108398,0.0,False,,,,,Removed: no owned platform match
+User:user_20,Game:game_11233,What Remains of Edith Finch,20,-8.330707550048828,0.0,False,,,,,Removed: no owned platform match
+User:user_21,Game:game_37001,Ori and the Will of the Wisps,1,-7.571537494659424,0.0,False,,,,,Removed: no owned platform match
+User:user_21,Game:game_3221,Rogue Legacy,2,-7.857377052307129,0.0,False,,Puzzle,,,Removed: no owned platform match | Matches preferred genre: Puzzle
+User:user_21,Game:game_13182,Far Cry: Primal,3,-7.920770168304443,0.0,False,,,,,Removed: no owned platform match
+User:user_21,Game:game_5025,To the Moon,4,-7.943543434143066,0.0,False,,Puzzle,,,Removed: no owned platform match | Matches preferred genre: Puzzle
+User:user_21,Game:game_1879,Terraria,5,-8.25584888458252,0.0,False,,Strategy,,,Removed: no owned platform match | Matches preferred genre: Strategy
+User:user_21,Game:game_885,Super Meat Boy,6,-8.265277862548828,0.0,False,,,,,Removed: no owned platform match
+User:user_21,Game:game_2935,"Papers, Please",7,-8.275693893432617,0.0,False,,Puzzle,,,Removed: no owned platform match | Matches preferred genre: Puzzle
+User:user_21,Game:game_17000,Stardew Valley,8,-8.336483001708984,0.0,False,,Strategy,,,Removed: no owned platform match | Matches preferred genre: Strategy
+User:user_21,Game:game_60,The Secret of Monkey Island,9,-8.392436027526855,0.0,False,,Puzzle,,,Removed: no owned platform match | Matches preferred genre: Puzzle
+User:user_21,Game:game_135400,Minecraft,10,-8.398253440856934,0.0,False,,,,,Removed: no owned platform match
+User:user_21,Game:game_7789,The Binding of Isaac: Rebirth,11,-8.403630256652832,0.0,False,,Puzzle,,,Removed: no owned platform match | Matches preferred genre: Puzzle
+User:user_21,Game:game_986,Halo 2,12,-8.472990036010742,0.0,False,,,,,Removed: no owned platform match
+User:user_21,Game:game_134070,Mafia: Definitive Edition,13,-8.478151321411133,0.0,False,,,,,Removed: no owned platform match
+User:user_21,Game:game_2990,Machinarium,14,-8.48386001586914,0.0,False,,Puzzle,,,Removed: no owned platform match | Matches preferred genre: Puzzle
+User:user_21,Game:game_2682,LEGO Star Wars: The Complete Saga,15,-8.48437786102295,0.0,False,,,,,Removed: no owned platform match
+User:user_21,Game:game_1558,Pokémon Gold Version,16,-8.490484237670898,0.0,False,,Turn-Based Strategy,,,Removed: no owned platform match | Matches preferred genre: Turn-Based Strategy
+User:user_21,Game:game_530,Hitman: Absolution,17,-8.51024055480957,0.0,False,,,,,Removed: no owned platform match
+User:user_21,Game:game_132,Warcraft III: Reign of Chaos,18,-8.51443099975586,0.0,False,,Strategy,Warcraft,,Removed: no owned platform match | Matches preferred genre: Strategy | Same franchise as liked game: Warcraft
+User:user_21,Game:game_1876,Spore,19,-8.519737243652344,0.0,False,,Strategy,,,Removed: no owned platform match | Matches preferred genre: Strategy
+User:user_21,Game:game_110248,Stray,20,-8.540542602539062,0.0,False,,,,,Removed: no owned platform match
+User:user_22,Game:game_17269,Roblox,1,-7.482039928436279,1.25,True,Android,Simulator,,,Available on Android | Matches preferred genre: Simulator
+User:user_22,Game:game_135243,It Takes Two,2,-7.64095401763916,0.5,True,Nintendo Switch,,,,Available on Nintendo Switch
+User:user_22,Game:game_11397,Yakuza 0,3,-7.716988563537598,0.0,False,,Simulator,,,Removed: no owned platform match | Matches preferred genre: Simulator
+User:user_22,Game:game_2935,"Papers, Please",4,-7.877598762512207,0.5,True,Android,Simulator,,,Available on Android | Matches preferred genre: Simulator
+User:user_22,Game:game_8187,Just Cause 3,5,-7.928098678588867,0.0,False,,,,,Removed: no owned platform match
+User:user_22,Game:game_23248,Frostpunk,6,-7.987000942230225,0.0,False,,Simulator; Strategy,,,"Removed: no owned platform match | Matches preferred genre: Simulator, Strategy"
+User:user_22,Game:game_14746,Batman: The Telltale Series,7,-8.074485778808594,0.142857,True,Android; Nintendo Switch,,,,"Available on Android, Nintendo Switch"
+User:user_22,Game:game_3075,FTL: Faster Than Light,8,-8.129594802856445,0.0,False,,Simulator; Strategy,,,"Removed: no owned platform match | Matches preferred genre: Simulator, Strategy"
+User:user_22,Game:game_885,Super Meat Boy,9,-8.1411771774292,0.111111,True,Nintendo Switch,,,,Available on Nintendo Switch
+User:user_22,Game:game_1876,Spore,10,-8.178678512573242,0.0,False,,Simulator; Strategy,,,"Removed: no owned platform match | Matches preferred genre: Simulator, Strategy"
+User:user_22,Game:game_1279,Hearthstone,11,-8.179487228393555,0.340909,True,Android,Strategy,,,Available on Android | Matches preferred genre: Strategy
+User:user_22,Game:game_1991,Fez,12,-8.181549072265625,0.083333,True,Nintendo Switch,,,,Available on Nintendo Switch
+User:user_22,Game:game_2332,Super Mario Kart,13,-8.18244457244873,0.0,False,,Racing,Mario Bros.,,Removed: no owned platform match | Matches preferred genre: Racing | Same franchise as liked game: Mario Bros.
+User:user_22,Game:game_5973,Broforce,14,-8.184676170349121,0.071429,True,Nintendo Switch,,,,Available on Nintendo Switch
+User:user_22,Game:game_8965,Darkest Dungeon,15,-8.192988395690918,0.316667,True,Nintendo Switch,Strategy,,,Available on Nintendo Switch | Matches preferred genre: Strategy
+User:user_22,Game:game_948,Worms Armageddon,16,-8.223273277282715,0.0,False,,Strategy,,,Removed: no owned platform match | Matches preferred genre: Strategy
+User:user_22,Game:game_512,Uncharted 3: Drake's Deception,17,-8.231307983398438,0.0,False,,,,,Removed: no owned platform match
+User:user_22,Game:game_647,Command & Conquer,18,-8.231941223144531,0.0,False,,Strategy,,,Removed: no owned platform match | Matches preferred genre: Strategy
+User:user_22,Game:game_1020,Grand Theft Auto V,19,-8.290336608886719,0.0,False,,Racing,Grand Theft Auto,,Removed: no owned platform match | Matches preferred genre: Racing | Same franchise as liked game: Grand Theft Auto
+User:user_22,Game:game_7194,Steins;Gate,20,-8.298724174499512,0.05,True,Android,,,,Available on Android
+User:user_23,Game:game_110248,Stray,1,-7.440020561218262,0.0,False,,,,,Removed: no owned platform match
+User:user_23,Game:game_11182,Enter the Gungeon,2,-7.580020427703857,0.0,False,,Shooter,,,Removed: no owned platform match | Matches preferred genre: Shooter
+User:user_23,Game:game_910,Tom Clancy's Splinter Cell,3,-7.68184232711792,0.0,False,,Shooter,,,Removed: no owned platform match | Matches preferred genre: Shooter
+User:user_23,Game:game_142,Star Wars: Battlefront II,4,-7.7958149909973145,0.0,False,,Shooter,,,Removed: no owned platform match | Matches preferred genre: Shooter
+User:user_23,Game:game_434,Red Dead Redemption,5,-7.901645660400391,0.0,False,,Shooter,,,Removed: no owned platform match | Matches preferred genre: Shooter
+User:user_23,Game:game_3225,No Man's Sky,6,-7.950217247009277,0.0,False,,Shooter,,,Removed: no owned platform match | Matches preferred genre: Shooter
+User:user_23,Game:game_2262,Gothic II,7,-8.036924362182617,0.0,False,,,,,Removed: no owned platform match
+User:user_23,Game:game_378,Metal Gear Rising: Revengeance,8,-8.056034088134766,0.0,False,,Shooter,Metal Gear,,Removed: no owned platform match | Matches preferred genre: Shooter | Same franchise as liked game: Metal Gear
+User:user_23,Game:game_1384,Hotline Miami,9,-8.088424682617188,0.0,False,,Shooter,,,Removed: no owned platform match | Matches preferred genre: Shooter
+User:user_23,Game:game_5328,Metal Gear Solid V: Ground Zeroes,10,-8.150619506835938,0.0,False,,Shooter,,,Removed: no owned platform match | Matches preferred genre: Shooter
+User:user_23,Game:game_1267,Sleeping Dogs,11,-8.170873641967773,0.0,False,,Shooter,,,Removed: no owned platform match | Matches preferred genre: Shooter
+User:user_23,Game:game_139090,Inscryption,12,-8.18011474609375,0.0,False,,,,,Removed: no owned platform match
+User:user_23,Game:game_7603,Hellblade: Senua's Sacrifice,13,-8.189876556396484,0.0,False,,,,,Removed: no owned platform match
+User:user_23,Game:game_7504,The Forest,14,-8.195962905883789,0.0,False,,,,,Removed: no owned platform match
+User:user_23,Game:game_1081,The Elder Scrolls Online,15,-8.203587532043457,0.0,False,,,,,Removed: no owned platform match
+User:user_23,Game:game_60,The Secret of Monkey Island,16,-8.216386795043945,0.0,False,,,,,Removed: no owned platform match
+User:user_23,Game:game_623,Call of Duty 4: Modern Warfare,17,-8.226912498474121,0.0,False,,Shooter,Call of Duty,,Removed: no owned platform match | Matches preferred genre: Shooter | Same franchise as liked game: Call of Duty
+User:user_23,Game:game_911,Tom Clancy's Splinter Cell: Chaos Theory,18,-8.24209213256836,0.0,False,,Shooter,,,Removed: no owned platform match | Matches preferred genre: Shooter
+User:user_23,Game:game_732,Grand Theft Auto: San Andreas,19,-8.247615814208984,0.0,False,,Shooter,,,Removed: no owned platform match | Matches preferred genre: Shooter
+User:user_23,Game:game_19456,Ori and the Blind Forest: Definitive Edition,20,-8.252593040466309,0.0,False,,,,,Removed: no owned platform match
+User:user_24,Game:game_3221,Rogue Legacy,1,-7.326951026916504,1.25,True,Xbox One,Adventure; Indie,,,"Available on Xbox One | Matches preferred genre: Adventure, Indie"
+User:user_24,Game:game_2935,"Papers, Please",2,-7.382795333862305,0.0,False,,Indie,,,Removed: no owned platform match | Matches preferred genre: Indie
+User:user_24,Game:game_1991,Fez,3,-7.58116340637207,0.0,False,,Adventure; Indie,,,"Removed: no owned platform match | Matches preferred genre: Adventure, Indie"
+User:user_24,Game:game_2025,Mount & Blade: Warband,4,-7.682509422302246,0.5,True,Xbox One,Adventure,,,Available on Xbox One | Matches preferred genre: Adventure
+User:user_24,Game:game_8965,Darkest Dungeon,5,-7.730307579040527,0.45,True,Xbox One,Adventure; Indie,,,"Available on Xbox One | Matches preferred genre: Adventure, Indie"
+User:user_24,Game:game_438,Rome: Total War,6,-7.730985164642334,0.0,False,,,,,Removed: no owned platform match
+User:user_24,Game:game_1879,Terraria,7,-7.733120441436768,0.392857,True,Xbox One,Adventure; Indie,,,"Available on Xbox One | Matches preferred genre: Adventure, Indie"
+User:user_24,Game:game_2112,Mirror's Edge Catalyst,8,-7.885481834411621,0.375,True,Xbox One,Adventure,,,Available on Xbox One | Matches preferred genre: Adventure
+User:user_24,Game:game_20150,Katana Zero,9,-8.038981437683105,0.361111,True,Xbox One,Adventure; Indie,,,"Available on Xbox One | Matches preferred genre: Adventure, Indie"
+User:user_24,Game:game_3025,Middle-earth: Shadow of Mordor,10,-8.090389251708984,0.35,True,Xbox One,Adventure,,,Available on Xbox One | Matches preferred genre: Adventure
+User:user_24,Game:game_2993,The Wolf Among Us,11,-8.115039825439453,0.340909,True,Xbox One,Adventure,,,Available on Xbox One | Matches preferred genre: Adventure
+User:user_24,Game:game_117,The Last Guardian,12,-8.119051933288574,0.0,False,,Adventure,,,Removed: no owned platform match | Matches preferred genre: Adventure
+User:user_24,Game:game_987,Halo 3,13,-8.168625831604004,0.076923,True,Xbox One,,,,Available on Xbox One
+User:user_24,Game:game_7444,Shovel Knight,14,-8.181553840637207,0.321429,True,Xbox One,Adventure; Indie,,,"Available on Xbox One | Matches preferred genre: Adventure, Indie"
+User:user_24,Game:game_7504,The Forest,15,-8.185166358947754,0.0,False,,Adventure; Indie,,,"Removed: no owned platform match | Matches preferred genre: Adventure, Indie"
+User:user_24,Game:game_7706,This War of Mine,16,-8.186890602111816,0.3125,True,Xbox One,Adventure; Indie,,,"Available on Xbox One | Matches preferred genre: Adventure, Indie"
+User:user_24,Game:game_72,Portal 2,17,-8.206119537353516,0.0,False,,Adventure,,,Removed: no owned platform match | Matches preferred genre: Adventure
+User:user_24,Game:game_1067,Super Mario Bros. 2,18,-8.20808219909668,0.0,False,,Adventure,,,Removed: no owned platform match | Matches preferred genre: Adventure
+User:user_24,Game:game_7205,SuperHot,19,-8.216100692749023,0.302632,True,Xbox One,Indie,,,Available on Xbox One | Matches preferred genre: Indie
+User:user_24,Game:game_121,Minecraft: Java Edition,20,-8.225728988647461,0.0,False,,Adventure,,,Removed: no owned platform match | Matches preferred genre: Adventure
+User:user_25,Game:game_1876,Spore,1,-7.448248863220215,0.0,False,,Strategy,,,Removed: no owned platform match | Matches preferred genre: Strategy
+User:user_25,Game:game_26855,Dead Cells,2,-7.607186317443848,0.0,False,,Platformer,,,Removed: no owned platform match | Matches preferred genre: Platformer
+User:user_25,Game:game_7706,This War of Mine,3,-7.6402268409729,0.0,False,,Strategy,,,Removed: no owned platform match | Matches preferred genre: Strategy
+User:user_25,Game:game_8965,Darkest Dungeon,4,-7.75574254989624,0.0,False,,Strategy,,,Removed: no owned platform match | Matches preferred genre: Strategy
+User:user_25,Game:game_885,Super Meat Boy,5,-7.78550386428833,0.0,False,,Platformer,,,Removed: no owned platform match | Matches preferred genre: Platformer
+User:user_25,Game:game_7444,Shovel Knight,6,-7.910127639770508,0.0,False,,Platformer,,,Removed: no owned platform match | Matches preferred genre: Platformer
+User:user_25,Game:game_17269,Roblox,7,-7.970627307891846,0.0,False,,Platformer,,,Removed: no owned platform match | Matches preferred genre: Platformer
+User:user_25,Game:game_2599,Game Dev Tycoon,8,-8.036959648132324,0.0,False,,Strategy,,,Removed: no owned platform match | Matches preferred genre: Strategy
+User:user_25,Game:game_7789,The Binding of Isaac: Rebirth,9,-8.048684120178223,0.0,False,,Arcade,,,Removed: no owned platform match | Matches preferred genre: Arcade
+User:user_25,Game:game_121760,Little Nightmares II,10,-8.139762878417969,0.35,True,Xbox Series X|S,Platformer,,,Available on Xbox Series X|S | Matches preferred genre: Platformer
+User:user_25,Game:game_1517,Pokémon Emerald Version,11,-8.159029006958008,0.0,False,,,,,Removed: no owned platform match
+User:user_25,Game:game_60,The Secret of Monkey Island,12,-8.204608917236328,0.0,False,,,,,Removed: no owned platform match
+User:user_25,Game:game_26226,Celeste,13,-8.213395118713379,0.0,False,,Platformer,,,Removed: no owned platform match | Matches preferred genre: Platformer
+User:user_25,Game:game_12517,Undertale,14,-8.23149585723877,0.0,False,,,,,Removed: no owned platform match
+User:user_25,Game:game_3022,Transistor,15,-8.258170127868652,0.0,False,,Strategy,,,Removed: no owned platform match | Matches preferred genre: Strategy
+User:user_25,Game:game_9254,Subnautica,16,-8.27843952178955,0.0625,True,Xbox Series X|S,,,,Available on Xbox Series X|S
+User:user_25,Game:game_186725,Vampire Survivors,17,-8.285646438598633,0.308824,True,Xbox Series X|S,Arcade,,,Available on Xbox Series X|S | Matches preferred genre: Arcade
+User:user_25,Game:game_1983,Bastion,18,-8.294591903686523,0.0,False,,,,,Removed: no owned platform match
+User:user_25,Game:game_2990,Machinarium,19,-8.299581527709961,0.0,False,,,,,Removed: no owned platform match
+User:user_25,Game:game_910,Tom Clancy's Splinter Cell,20,-8.315497398376465,0.0,False,,,,,Removed: no owned platform match
+User:user_26,Game:game_40477,Slay the Spire,1,-6.665401935577393,0.0,False,,,,,Removed: no owned platform match
+User:user_26,Game:game_826,Saints Row 2,2,-7.1369524002075195,0.0,False,,Racing,,,Removed: no owned platform match | Matches preferred genre: Racing
+User:user_26,Game:game_1334,Brothers: A Tale of Two Sons,3,-7.295647144317627,0.0,False,,,,,Removed: no owned platform match
+User:user_26,Game:game_7444,Shovel Knight,4,-7.403467178344727,0.0,False,,,,,Removed: no owned platform match
+User:user_26,Game:game_140839,Mass Effect Legendary Edition,5,-7.45112943649292,0.0,False,,,,,Removed: no owned platform match
+User:user_26,Game:game_3221,Rogue Legacy,6,-7.513145446777344,0.0,False,,,,,Removed: no owned platform match
+User:user_26,Game:game_184,Indiana Jones and the Fate of Atlantis,7,-7.537673473358154,0.0,False,,,,,Removed: no owned platform match
+User:user_26,Game:game_26820,Blasphemous,8,-7.568440914154053,0.0,False,,Hack and slash/Beat 'em up,,,Removed: no owned platform match | Matches preferred genre: Hack and slash/Beat 'em up
+User:user_26,Game:game_8965,Darkest Dungeon,9,-7.5694193840026855,0.0,False,,,,,Removed: no owned platform match
+User:user_26,Game:game_2853,Braid,10,-7.653218746185303,0.0,False,,,,,Removed: no owned platform match
+User:user_26,Game:game_2437,Prince of Persia: The Two Thrones,11,-7.743055820465088,0.0,False,,Hack and slash/Beat 'em up,Prince of Persia,,Removed: no owned platform match | Matches preferred genre: Hack and slash/Beat 'em up | Same franchise as liked game: Prince of Persia
+User:user_26,Game:game_558,Just Cause 2,12,-7.761868953704834,0.0,False,,Racing,,,Removed: no owned platform match | Matches preferred genre: Racing
+User:user_26,Game:game_2129,Mark of the Ninja,13,-7.779203414916992,0.0,False,,,,,Removed: no owned platform match
+User:user_26,Game:game_20150,Katana Zero,14,-7.8625664710998535,0.0,False,,,,,Removed: no owned platform match
+User:user_26,Game:game_1910,Outlast,15,-7.86353874206543,0.0,False,,,,,Removed: no owned platform match
+User:user_26,Game:game_530,Hitman: Absolution,16,-7.867137908935547,0.0,False,,,,,Removed: no owned platform match
+User:user_26,Game:game_1968,Rayman Legends,17,-7.921718120574951,0.0,False,,,,,Removed: no owned platform match
+User:user_26,Game:game_5025,To the Moon,18,-7.966878414154053,0.0,False,,,,,Removed: no owned platform match
+User:user_26,Game:game_18866,Dead by Daylight,19,-7.982058048248291,0.0,False,,,,,Removed: no owned platform match
+User:user_26,Game:game_2935,"Papers, Please",20,-7.984776020050049,0.0,False,,,,,Removed: no owned platform match
+User:user_27,Game:game_1991,Fez,1,-7.615879058837891,1.25,True,Nintendo Switch; PlayStation 3,Adventure; Indie,,,"Available on Nintendo Switch, PlayStation 3 | Matches preferred genre: Adventure, Indie"
+User:user_27,Game:game_558,Just Cause 2,2,-7.654862403869629,0.75,True,PlayStation 3,Adventure,,,Available on PlayStation 3 | Matches preferred genre: Adventure
+User:user_27,Game:game_885,Super Meat Boy,3,-7.71328067779541,0.583333,True,Nintendo Switch,Adventure; Indie,,,"Available on Nintendo Switch | Matches preferred genre: Adventure, Indie"
+User:user_27,Game:game_980,Grand Theft Auto,4,-7.861109256744385,0.5,True,PlayStation 3,Adventure,,,Available on PlayStation 3 | Matches preferred genre: Adventure
+User:user_27,Game:game_1076,New Super Mario Bros.,5,-7.872772693634033,0.0,False,,Adventure,,,Removed: no owned platform match | Matches preferred genre: Adventure
+User:user_27,Game:game_7205,SuperHot,6,-7.898653030395508,0.416667,True,Nintendo Switch,Indie; Tactical,,,"Available on Nintendo Switch | Matches preferred genre: Indie, Tactical"
+User:user_27,Game:game_5328,Metal Gear Solid V: Ground Zeroes,7,-7.904698371887207,0.392857,True,PlayStation 3,Adventure; Tactical,,,"Available on PlayStation 3 | Matches preferred genre: Adventure, Tactical"
+User:user_27,Game:game_14746,Batman: The Telltale Series,8,-7.976059913635254,0.375,True,Nintendo Switch; PlayStation 3,Adventure,,,"Available on Nintendo Switch, PlayStation 3 | Matches preferred genre: Adventure"
+User:user_27,Game:game_5335,Goat Simulator,9,-8.016023635864258,0.361111,True,PlayStation 3,Adventure; Indie,,,"Available on PlayStation 3 | Matches preferred genre: Adventure, Indie"
+User:user_27,Game:game_118,Star Wars: Knights of the Old Republic II - The Sith Lords,10,-8.016410827636719,0.35,True,Nintendo Switch,Adventure; RPG,,,"Available on Nintendo Switch | Matches preferred genre: Adventure, RPG"
+User:user_27,Game:game_99,Need for Speed: Carbon,11,-8.029481887817383,0.090909,True,PlayStation 3,,,,Available on PlayStation 3
+User:user_27,Game:game_7352,Abzu,12,-8.031502723693848,0.333333,True,Nintendo Switch,Adventure; Indie,,,"Available on Nintendo Switch | Matches preferred genre: Adventure, Indie"
+User:user_27,Game:game_11182,Enter the Gungeon,13,-8.042824745178223,0.326923,True,Nintendo Switch,Adventure; Indie,,,"Available on Nintendo Switch | Matches preferred genre: Adventure, Indie"
+User:user_27,Game:game_1638,GoldenEye 007,14,-8.045595169067383,0.0,False,,,,,Removed: no owned platform match
+User:user_27,Game:game_75235,Ghost of Tsushima,15,-8.075923919677734,0.0,False,,Adventure; RPG,,,"Removed: no owned platform match | Matches preferred genre: Adventure, RPG"
+User:user_27,Game:game_251833,Balatro,16,-8.100720405578613,0.3125,True,Nintendo Switch,Indie,,,Available on Nintendo Switch | Matches preferred genre: Indie
+User:user_27,Game:game_61,Monkey Island 2: LeChuck's Revenge,17,-8.12883472442627,0.0,False,,Adventure,,,Removed: no owned platform match | Matches preferred genre: Adventure
+User:user_27,Game:game_295,Command & Conquer: Red Alert,18,-8.147911071777344,0.305556,True,PlayStation 3,Real Time Strategy,,,Available on PlayStation 3 | Matches preferred genre: Real Time Strategy
+User:user_27,Game:game_11198,Rocket League,19,-8.172015190124512,0.302632,True,Nintendo Switch,Indie,,,Available on Nintendo Switch | Matches preferred genre: Indie
+User:user_27,Game:game_26226,Celeste,20,-8.196809768676758,0.3,True,Nintendo Switch,Adventure; Indie,,,"Available on Nintendo Switch | Matches preferred genre: Adventure, Indie"
+User:user_28,Game:game_136625,Hogwarts Legacy,1,-6.711407661437988,1.25,True,PlayStation 5,RPG,,,Available on PlayStation 5 | Matches preferred genre: RPG
+User:user_28,Game:game_118,Star Wars: Knights of the Old Republic II - The Sith Lords,2,-7.605240821838379,0.0,False,,RPG,,,Removed: no owned platform match | Matches preferred genre: RPG
+User:user_28,Game:game_5025,To the Moon,3,-7.774387836456299,0.583333,True,PlayStation 5,RPG,,,Available on PlayStation 5 | Matches preferred genre: RPG
+User:user_28,Game:game_3042,Dying Light,4,-7.800302505493164,0.5,True,PlayStation 5,RPG,,,Available on PlayStation 5 | Matches preferred genre: RPG
+User:user_28,Game:game_8187,Just Cause 3,5,-7.869356155395508,0.0,False,,,,,Removed: no owned platform match
+User:user_28,Game:game_8965,Darkest Dungeon,6,-7.882559776306152,0.0,False,,RPG,,,Removed: no owned platform match | Matches preferred genre: RPG
+User:user_28,Game:game_19562,Resident Evil 7: Biohazard,7,-7.897923946380615,0.142857,True,PlayStation 5,,,,Available on PlayStation 5
+User:user_28,Game:game_37001,Ori and the Will of the Wisps,8,-7.968461036682129,0.0,False,,,,,Removed: no owned platform match
+User:user_28,Game:game_140839,Mass Effect Legendary Edition,9,-8.068992614746094,0.361111,True,PlayStation 5,RPG,,,Available on PlayStation 5 | Matches preferred genre: RPG
+User:user_28,Game:game_22917,Gris,10,-8.11286449432373,0.1,True,PlayStation 5,,,,Available on PlayStation 5
+User:user_28,Game:game_2181,Wii Sports,11,-8.115755081176758,0.0,False,,,,,Removed: no owned platform match
+User:user_28,Game:game_2025,Mount & Blade: Warband,12,-8.138952255249023,0.0,False,,RPG,,,Removed: no owned platform match | Matches preferred genre: RPG
+User:user_28,Game:game_133004,Assassin's Creed Valhalla,13,-8.151761054992676,0.526923,True,PlayStation 5,RPG,Assassin's Creed,,Available on PlayStation 5 | Matches preferred genre: RPG | Same franchise as liked game: Assassin's Creed
+User:user_28,Game:game_347668,Resident Evil Requiem,14,-8.162026405334473,0.071429,True,PlayStation 5,,,,Available on PlayStation 5
+User:user_28,Game:game_3152,Don't Starve,15,-8.169242858886719,0.0,False,,,,,Removed: no owned platform match
+User:user_28,Game:game_2262,Gothic II,16,-8.1758394241333,0.0,False,,RPG,,,Removed: no owned platform match | Matches preferred genre: RPG
+User:user_28,Game:game_1879,Terraria,17,-8.186180114746094,0.0,False,,RPG,,,Removed: no owned platform match | Matches preferred genre: RPG
+User:user_28,Game:game_5335,Goat Simulator,18,-8.206067085266113,0.0,False,,Arcade,,,Removed: no owned platform match | Matches preferred genre: Arcade
+User:user_28,Game:game_115289,Hollow Knight: Silksong,19,-8.212708473205566,0.052632,True,PlayStation 5,,,,Available on PlayStation 5
+User:user_28,Game:game_10919,XCOM 2,20,-8.228713035583496,0.0,False,,RPG,,,Removed: no owned platform match | Matches preferred genre: RPG
+User:user_29,Game:game_1513,Pokémon Silver Version,1,-7.370509624481201,0.0,False,,RPG,Pokémon,,Removed: no owned platform match | Matches preferred genre: RPG | Same franchise as liked game: Pokémon
+User:user_29,Game:game_1026,The Legend of Zelda: A Link to the Past,2,-7.412644863128662,0.5,True,Nintendo,,,,Available on Nintendo
+User:user_29,Game:game_364,Heroes of Might and Magic III: The Restoration of Erathia,3,-7.536154270172119,0.0,False,,RPG,,,Removed: no owned platform match | Matches preferred genre: RPG
+User:user_29,Game:game_1979,Battlefield 4,4,-7.540002346038818,0.0,False,,Simulator,,,Removed: no owned platform match | Matches preferred genre: Simulator
+User:user_29,Game:game_1517,Pokémon Emerald Version,5,-7.55736780166626,0.0,False,,RPG,Pokémon,,Removed: no owned platform match | Matches preferred genre: RPG | Same franchise as liked game: Pokémon
+User:user_29,Game:game_5601,The Witness,6,-7.799182415008545,0.0,False,,,,,Removed: no owned platform match
+User:user_29,Game:game_99,Need for Speed: Carbon,7,-7.807729244232178,0.0,False,,Simulator,,,Removed: no owned platform match | Matches preferred genre: Simulator
+User:user_29,Game:game_1905,Fortnite,8,-7.859309196472168,0.0,False,,Simulator,,,Removed: no owned platform match | Matches preferred genre: Simulator
+User:user_29,Game:game_1528,Jak and Daxter: The Precursor Legacy,9,-7.8848066329956055,0.0,False,,,,,Removed: no owned platform match
+User:user_29,Game:game_3152,Don't Starve,10,-7.8880391120910645,0.0,False,,Simulator,,,Removed: no owned platform match | Matches preferred genre: Simulator
+User:user_29,Game:game_29004,Life is Strange: Before the Storm,11,-7.898895263671875,0.0,False,,,,,Removed: no owned platform match
+User:user_29,Game:game_7349,Mass Effect: Andromeda,12,-7.971568584442139,0.0,False,,RPG,,,Removed: no owned platform match | Matches preferred genre: RPG
+User:user_29,Game:game_1279,Hearthstone,13,-7.977517127990723,0.0,False,,,,,Removed: no owned platform match
+User:user_29,Game:game_9927,Persona 5,14,-7.981025695800781,0.0,False,,RPG,,,Removed: no owned platform match | Matches preferred genre: RPG
+User:user_29,Game:game_23248,Frostpunk,15,-7.982396602630615,0.0,False,,Simulator,,,Removed: no owned platform match | Matches preferred genre: Simulator
+User:user_29,Game:game_40477,Slay the Spire,16,-7.993380069732666,0.0,False,,RPG,,,Removed: no owned platform match | Matches preferred genre: RPG
+User:user_29,Game:game_7706,This War of Mine,17,-8.021029472351074,0.0,False,,Simulator,,,Removed: no owned platform match | Matches preferred genre: Simulator
+User:user_29,Game:game_942,World of Goo,18,-8.043410301208496,0.0,False,,Simulator,,,Removed: no owned platform match | Matches preferred genre: Simulator
+User:user_29,Game:game_19130,Sid Meier's Civilization VI,19,-8.052371978759766,0.0,False,,Simulator,,,Removed: no owned platform match | Matches preferred genre: Simulator
+User:user_29,Game:game_7334,Bloodborne,20,-8.066566467285156,0.0,False,,RPG,,,Removed: no owned platform match | Matches preferred genre: RPG
+User:user_3,Game:game_438,Rome: Total War,1,-6.833904266357422,0.0,False,,Strategy,,,Removed: no owned platform match | Matches preferred genre: Strategy
+User:user_3,Game:game_866,Sid Meier's Civilization V,2,-7.349091053009033,0.0,False,,Strategy,Sid Meier,,Removed: no owned platform match | Matches preferred genre: Strategy | Same franchise as liked game: Sid Meier
+User:user_3,Game:game_17000,Stardew Valley,3,-7.443914413452148,0.0,False,,Strategy,,,Removed: no owned platform match | Matches preferred genre: Strategy
+User:user_3,Game:game_251833,Balatro,4,-7.4775848388671875,0.0,False,,Strategy,,,Removed: no owned platform match | Matches preferred genre: Strategy
+User:user_3,Game:game_1558,Pokémon Gold Version,5,-7.701674938201904,0.4,True,Nintendo 3DS,,Pokémon,,Available on Nintendo 3DS | Same franchise as liked game: Pokémon
+User:user_3,Game:game_111469,Among Us,6,-7.828037738800049,0.0,False,,Strategy,,,Removed: no owned platform match | Matches preferred genre: Strategy
+User:user_3,Game:game_1876,Spore,7,-7.8769211769104,0.0,False,,Strategy,,,Removed: no owned platform match | Matches preferred genre: Strategy
+User:user_3,Game:game_1983,Bastion,8,-7.882452011108398,0.0,False,,,,,Removed: no owned platform match
+User:user_3,Game:game_730,Grand Theft Auto III,9,-7.942056655883789,0.0,False,,,,,Removed: no owned platform match
+User:user_3,Game:game_1626,Super Smash Bros.,10,-7.952803134918213,0.0,False,,,Mario Bros.,,Removed: no owned platform match | Same franchise as liked game: Mario Bros.
+User:user_3,Game:game_2350,Mario Kart 8,11,-7.960997581481934,0.0,False,,,Mario Bros.,,Removed: no owned platform match | Same franchise as liked game: Mario Bros.
+User:user_3,Game:game_425,Final Fantasy VIII,12,-7.965109825134277,0.0,False,,,,,Removed: no owned platform match
+User:user_3,Game:game_136625,Hogwarts Legacy,13,-7.9836578369140625,0.0,False,,,,,Removed: no owned platform match
+User:user_3,Game:game_134581,Marvel's Spider-Man: Miles Morales,14,-7.987802505493164,0.0,False,,,,,Removed: no owned platform match
+User:user_3,Game:game_1092,Donkey Kong Country 2: Diddy's Kong Quest,15,-8.013708114624023,0.0,False,,,,,Removed: no owned platform match
+User:user_3,Game:game_1556,Pokémon HeartGold Version,16,-8.014613151550293,0.0,False,,,Pokémon,,Removed: no owned platform match | Same franchise as liked game: Pokémon
+User:user_3,Game:game_7205,SuperHot,17,-8.045204162597656,0.0,False,,,,,Removed: no owned platform match
+User:user_3,Game:game_1991,Fez,18,-8.068268775939941,0.0,False,,,,,Removed: no owned platform match
+User:user_3,Game:game_119171,Baldur's Gate III,19,-8.091394424438477,0.0,False,,Strategy,,,Removed: no owned platform match | Matches preferred genre: Strategy
+User:user_3,Game:game_135400,Minecraft,20,-8.10567569732666,0.0,False,,,,,Removed: no owned platform match
+User:user_30,Game:game_28540,Assassin's Creed Origins,1,-7.839825630187988,0.0,False,,RPG,,,Removed: no owned platform match | Matches preferred genre: RPG
+User:user_30,Game:game_17000,Stardew Valley,2,-7.951816082000732,0.0,False,,RPG; Strategy,,,"Removed: no owned platform match | Matches preferred genre: RPG, Strategy"
+User:user_30,Game:game_26845,Fire Emblem: Three Houses,3,-8.036935806274414,0.0,False,,RPG; Strategy,,,"Removed: no owned platform match | Matches preferred genre: RPG, Strategy"
+User:user_30,Game:game_135400,Minecraft,4,-8.042283058166504,0.25,True,Amazon Fire TV,,,,Available on Amazon Fire TV
+User:user_30,Game:game_305152,Clair Obscur: Expedition 33,5,-8.084047317504883,0.0,False,,RPG,,,Removed: no owned platform match | Matches preferred genre: RPG
+User:user_30,Game:game_3221,Rogue Legacy,6,-8.181865692138672,0.0,False,,RPG,,,Removed: no owned platform match | Matches preferred genre: RPG
+User:user_30,Game:game_111469,Among Us,7,-8.230011940002441,0.0,False,,Strategy,,,Removed: no owned platform match | Matches preferred genre: Strategy
+User:user_30,Game:game_3025,Middle-earth: Shadow of Mordor,8,-8.237844467163086,0.0,False,,RPG,,,Removed: no owned platform match | Matches preferred genre: RPG
+User:user_30,Game:game_5025,To the Moon,9,-8.283681869506836,0.0,False,,RPG,,,Removed: no owned platform match | Matches preferred genre: RPG
+User:user_30,Game:game_1557,Pokémon Ruby Version,10,-8.35594367980957,0.7,True,Game Boy Advance,RPG,Pokémon,Pokémon Emerald Version,Available on Game Boy Advance | Matches preferred genre: RPG | Same franchise as liked game: Pokémon | Related to liked game: Pokémon Emerald Version
+User:user_30,Game:game_11737,Outer Wilds,11,-8.404390335083008,0.0,False,,,,,Removed: no owned platform match
+User:user_30,Game:game_40477,Slay the Spire,12,-8.407968521118164,0.0,False,,RPG; Strategy,,,"Removed: no owned platform match | Matches preferred genre: RPG, Strategy"
+User:user_30,Game:game_7327,Valiant Hearts: The Great War,13,-8.416248321533203,0.0,False,,,,,Removed: no owned platform match
+User:user_30,Game:game_1991,Fez,14,-8.421076774597168,0.0,False,,,,,Removed: no owned platform match
+User:user_30,Game:game_1081,The Elder Scrolls Online,15,-8.443547248840332,0.0,False,,RPG,,,Removed: no owned platform match | Matches preferred genre: RPG
+User:user_30,Game:game_910,Tom Clancy's Splinter Cell,16,-8.4985933303833,0.0,False,,,,,Removed: no owned platform match
+User:user_30,Game:game_26226,Celeste,17,-8.50091552734375,0.0,False,,,,,Removed: no owned platform match
+User:user_30,Game:game_1802,Chrono Trigger,18,-8.54008960723877,0.0,False,,RPG,,,Removed: no owned platform match | Matches preferred genre: RPG
+User:user_30,Game:game_558,Just Cause 2,19,-8.57204818725586,0.0,False,,,,,Removed: no owned platform match
+User:user_30,Game:game_7205,SuperHot,20,-8.579876899719238,0.0,False,,,,,Removed: no owned platform match
+User:user_31,Game:game_2853,Braid,1,-7.7756171226501465,0.0,False,,,,,Removed: no owned platform match
+User:user_31,Game:game_9643,Return of the Obra Dinn,2,-7.8560638427734375,0.0,False,,,,,Removed: no owned platform match
+User:user_31,Game:game_3221,Rogue Legacy,3,-7.969347953796387,0.0,False,,,,,Removed: no owned platform match
+User:user_31,Game:game_136625,Hogwarts Legacy,4,-7.9971513748168945,0.0,False,,,,,Removed: no owned platform match
+User:user_31,Game:game_2437,Prince of Persia: The Two Thrones,5,-8.002384185791016,0.0,False,,,,,Removed: no owned platform match
+User:user_31,Game:game_3225,No Man's Sky,6,-8.00518798828125,0.0,False,,,,,Removed: no owned platform match
+User:user_31,Game:game_289,Age of Empires,7,-8.017553329467773,0.0,False,,,,,Removed: no owned platform match
+User:user_31,Game:game_1983,Bastion,8,-8.034863471984863,0.0,False,,,,,Removed: no owned platform match
+User:user_31,Game:game_118,Star Wars: Knights of the Old Republic II - The Sith Lords,9,-8.038015365600586,0.0,False,,Turn-Based Strategy,,,Removed: no owned platform match | Matches preferred genre: Turn-Based Strategy
+User:user_31,Game:game_139090,Inscryption,10,-8.173637390136719,0.0,False,,,,,Removed: no owned platform match
+User:user_31,Game:game_1715,Mega Man 2,11,-8.213372230529785,0.0,False,,,,,Removed: no owned platform match
+User:user_31,Game:game_1911,Path of Exile,12,-8.238541603088379,0.0,False,,,,,Removed: no owned platform match
+User:user_31,Game:game_7789,The Binding of Isaac: Rebirth,13,-8.269664764404297,0.0,False,,,,,Removed: no owned platform match
+User:user_31,Game:game_112916,Mortal Kombat 11,14,-8.291020393371582,0.0,False,,,,,Removed: no owned platform match
+User:user_31,Game:game_8173,Overwatch,15,-8.315922737121582,0.0,False,,,,,Removed: no owned platform match
+User:user_31,Game:game_295,Command & Conquer: Red Alert,16,-8.331415176391602,0.0,False,,Real Time Strategy,Command & Conquer,,Removed: no owned platform match | Matches preferred genre: Real Time Strategy | Same franchise as liked game: Command & Conquer
+User:user_31,Game:game_251833,Balatro,17,-8.344593048095703,0.0,False,,Turn-Based Strategy,,,Removed: no owned platform match | Matches preferred genre: Turn-Based Strategy
+User:user_31,Game:game_1906,Gone Home,18,-8.397260665893555,0.0,False,,,,,Removed: no owned platform match
+User:user_31,Game:game_27421,Middle-earth: Shadow of War,19,-8.399552345275879,0.0,False,,,,,Removed: no owned platform match
+User:user_31,Game:game_1512,Pokémon Yellow Version: Special Pikachu Edition,20,-8.405008316040039,0.0,False,,Turn-Based Strategy,Pokémon,,Removed: no owned platform match | Matches preferred genre: Turn-Based Strategy | Same franchise as liked game: Pokémon
+User:user_32,Game:game_5025,To the Moon,1,-7.627410411834717,1.25,True,Xbox One,Adventure,,,Available on Xbox One | Matches preferred genre: Adventure
+User:user_32,Game:game_3221,Rogue Legacy,2,-7.758815765380859,0.75,True,Xbox One,Adventure,,,Available on Xbox One | Matches preferred genre: Adventure
+User:user_32,Game:game_7706,This War of Mine,3,-7.883666515350342,0.583333,True,Xbox One,Adventure,,,Available on Xbox One | Matches preferred genre: Adventure
+User:user_32,Game:game_3225,No Man's Sky,4,-7.8915300369262695,0.5,True,Xbox One,Adventure,,,Available on Xbox One | Matches preferred genre: Adventure
+User:user_32,Game:game_251833,Balatro,5,-7.906811237335205,0.45,True,Xbox One,Card & Board Game,,,Available on Xbox One | Matches preferred genre: Card & Board Game
+User:user_32,Game:game_9498,Deus Ex: Mankind Divided,6,-7.938228130340576,0.416667,True,Xbox One,Adventure,,,Available on Xbox One | Matches preferred genre: Adventure
+User:user_32,Game:game_8965,Darkest Dungeon,7,-8.000065803527832,0.392857,True,Xbox One,Adventure,,,Available on Xbox One | Matches preferred genre: Adventure
+User:user_32,Game:game_826,Saints Row 2,8,-8.114294052124023,0.0,False,,Adventure,,,Removed: no owned platform match | Matches preferred genre: Adventure
+User:user_32,Game:game_3025,Middle-earth: Shadow of Mordor,9,-8.142095565795898,0.561111,True,Xbox One,Adventure,The Lord of the Rings,,Available on Xbox One | Matches preferred genre: Adventure | Same franchise as liked game: The Lord of the Rings
+User:user_32,Game:game_1871,The Walking Dead,10,-8.198846817016602,0.35,True,Xbox One,Adventure,,,Available on Xbox One | Matches preferred genre: Adventure
+User:user_32,Game:game_1879,Terraria,11,-8.24567699432373,0.340909,True,Xbox One,Adventure,,,Available on Xbox One | Matches preferred genre: Adventure
+User:user_32,Game:game_1918,Injustice: Gods Among Us,12,-8.260693550109863,0.0,False,,Adventure,,,Removed: no owned platform match | Matches preferred genre: Adventure
+User:user_32,Game:game_2114,Tom Clancy's The Division,13,-8.356453895568848,0.326923,True,Xbox One,Adventure,,,Available on Xbox One | Matches preferred genre: Adventure
+User:user_32,Game:game_320,S.T.A.L.K.E.R.: Shadow of Chernobyl,14,-8.40038776397705,0.071429,True,Xbox One,,,,Available on Xbox One
+User:user_32,Game:game_26196,Crash Bandicoot N. Sane Trilogy,15,-8.432157516479492,0.316667,True,Xbox One,Adventure,,,Available on Xbox One | Matches preferred genre: Adventure
+User:user_32,Game:game_1517,Pokémon Emerald Version,16,-8.444128036499023,0.0,False,,Adventure,,,Removed: no owned platform match | Matches preferred genre: Adventure
+User:user_32,Game:game_14746,Batman: The Telltale Series,17,-8.47079849243164,0.308824,True,Xbox One,Adventure,,,Available on Xbox One | Matches preferred genre: Adventure
+User:user_32,Game:game_112,Devil May Cry 4,18,-8.471498489379883,0.0,False,,Adventure,,,Removed: no owned platform match | Matches preferred genre: Adventure
+User:user_32,Game:game_731,Grand Theft Auto IV,19,-8.47900390625,0.0,False,,Adventure,Grand Theft Auto,,Removed: no owned platform match | Matches preferred genre: Adventure | Same franchise as liked game: Grand Theft Auto
+User:user_32,Game:game_2993,The Wolf Among Us,20,-8.480090141296387,0.3,True,Xbox One,Adventure,,,Available on Xbox One | Matches preferred genre: Adventure
+User:user_33,Game:game_139090,Inscryption,1,-7.035979270935059,1.0,True,Xbox Series X|S,,,,Available on Xbox Series X|S
+User:user_33,Game:game_11737,Outer Wilds,2,-7.587738037109375,0.5,True,Xbox Series X|S,,,,Available on Xbox Series X|S
+User:user_33,Game:game_1067,Super Mario Bros. 2,3,-7.601670742034912,0.533333,True,Wii U,,Mario Bros.,,Available on Wii U | Same franchise as liked game: Mario Bros.
+User:user_33,Game:game_1879,Terraria,4,-7.633297920227051,0.25,True,Wii U,,,,Available on Wii U
+User:user_33,Game:game_17269,Roblox,5,-7.718986511230469,0.0,False,,,,,Removed: no owned platform match
+User:user_33,Game:game_2990,Machinarium,6,-7.726082801818848,0.0,False,,Point-and-click,,,Removed: no owned platform match | Matches preferred genre: Point-and-click
+User:user_33,Game:game_8965,Darkest Dungeon,7,-7.7725419998168945,0.0,False,,,,,Removed: no owned platform match
+User:user_33,Game:game_2437,Prince of Persia: The Two Thrones,8,-7.7726826667785645,0.125,True,Nintendo GameCube,,,,Available on Nintendo GameCube
+User:user_33,Game:game_181,Grim Fandango,9,-7.807791233062744,0.0,False,,Point-and-click,,,Removed: no owned platform match | Matches preferred genre: Point-and-click
+User:user_33,Game:game_327,Age of Empires II: The Age of Kings,10,-7.842280387878418,0.1,True,Dreamcast,,,,Available on Dreamcast
+User:user_33,Game:game_135243,It Takes Two,11,-7.878851413726807,0.090909,True,Xbox Series X|S,,,,Available on Xbox Series X|S
+User:user_33,Game:game_1941,Infamous: Second Son,12,-8.04980754852295,0.0,False,,,,,Removed: no owned platform match
+User:user_33,Game:game_251833,Balatro,13,-8.075235366821289,0.076923,True,Xbox Series X|S,,,,Available on Xbox Series X|S
+User:user_33,Game:game_1339,Psychonauts,14,-8.087010383605957,0.0,False,,,,,Removed: no owned platform match
+User:user_33,Game:game_14587,Oxenfree,15,-8.139021873474121,0.0,False,,,,,Removed: no owned platform match
+User:user_33,Game:game_2207,Shadow of the Colossus,16,-8.173393249511719,0.0,False,,,,,Removed: no owned platform match
+User:user_33,Game:game_8187,Just Cause 3,17,-8.198812484741211,0.0,False,,,,,Removed: no owned platform match
+User:user_33,Game:game_133,Warcraft III: The Frozen Throne,18,-8.216387748718262,0.0,False,,,,,Removed: no owned platform match
+User:user_33,Game:game_17000,Stardew Valley,19,-8.243247985839844,0.052632,True,Wii U,,,,Available on Wii U
+User:user_33,Game:game_111469,Among Us,20,-8.256672859191895,0.05,True,Xbox Series X|S,,,,Available on Xbox Series X|S
+User:user_34,Game:game_1942,The Witcher 3: Wild Hunt,1,-7.387510776519775,0.0,False,,Adventure,,,Removed: no owned platform match | Matches preferred genre: Adventure
+User:user_34,Game:game_1078,Super Mario Galaxy 2,2,-7.72400426864624,0.0,False,,Adventure; Platformer,Mario Bros.,,"Removed: no owned platform match | Matches preferred genre: Adventure, Platformer | Same franchise as liked game: Mario Bros."
+User:user_34,Game:game_7444,Shovel Knight,3,-7.852806091308594,0.0,False,,Adventure; Platformer,,,"Removed: no owned platform match | Matches preferred genre: Adventure, Platformer"
+User:user_34,Game:game_3022,Transistor,4,-7.885159969329834,0.0,False,,Adventure; Turn-Based Strategy,,,"Removed: no owned platform match | Matches preferred genre: Adventure, Turn-Based Strategy"
+User:user_34,Game:game_1514,Pokémon Crystal Version,5,-7.912449836730957,0.0,False,,Adventure,Pokémon,,Removed: no owned platform match | Matches preferred genre: Adventure | Same franchise as liked game: Pokémon
+User:user_34,Game:game_305152,Clair Obscur: Expedition 33,6,-7.91852331161499,0.0,False,,Adventure; Turn-Based Strategy,,,"Removed: no owned platform match | Matches preferred genre: Adventure, Turn-Based Strategy"
+User:user_34,Game:game_1048,Hitman: Blood Money,7,-7.925572872161865,0.0,False,,,,,Removed: no owned platform match
+User:user_34,Game:game_119171,Baldur's Gate III,8,-7.935190200805664,0.0,False,,Turn-Based Strategy,,,Removed: no owned platform match | Matches preferred genre: Turn-Based Strategy
+User:user_34,Game:game_7706,This War of Mine,9,-7.967460632324219,0.0,False,,Adventure,,,Removed: no owned platform match | Matches preferred genre: Adventure
+User:user_34,Game:game_111469,Among Us,10,-7.999475479125977,0.0,False,,,,,Removed: no owned platform match
+User:user_34,Game:game_19130,Sid Meier's Civilization VI,11,-8.051006317138672,0.0,False,,Turn-Based Strategy,,,Removed: no owned platform match | Matches preferred genre: Turn-Based Strategy
+User:user_34,Game:game_8965,Darkest Dungeon,12,-8.084138870239258,0.0,False,,Adventure; Turn-Based Strategy,,,"Removed: no owned platform match | Matches preferred genre: Adventure, Turn-Based Strategy"
+User:user_34,Game:game_20150,Katana Zero,13,-8.102822303771973,0.0,False,,Adventure; Platformer,,,"Removed: no owned platform match | Matches preferred genre: Adventure, Platformer"
+User:user_34,Game:game_364,Heroes of Might and Magic III: The Restoration of Erathia,14,-8.108083724975586,0.0,False,,Turn-Based Strategy,,,Removed: no owned platform match | Matches preferred genre: Turn-Based Strategy
+User:user_34,Game:game_118,Star Wars: Knights of the Old Republic II - The Sith Lords,15,-8.14051628112793,0.0,False,,Adventure; Turn-Based Strategy,,,"Removed: no owned platform match | Matches preferred genre: Adventure, Turn-Based Strategy"
+User:user_34,Game:game_1070,Super Mario World,16,-8.196979522705078,0.0,False,,Adventure; Platformer,Mario Bros.,,"Removed: no owned platform match | Matches preferred genre: Adventure, Platformer | Same franchise as liked game: Mario Bros."
+User:user_34,Game:game_110248,Stray,17,-8.208647727966309,0.0,False,,Adventure; Platformer,,,"Removed: no owned platform match | Matches preferred genre: Adventure, Platformer"
+User:user_34,Game:game_948,Worms Armageddon,18,-8.2686185836792,0.0,False,,Platformer,,,Removed: no owned platform match | Matches preferred genre: Platformer
+User:user_34,Game:game_139090,Inscryption,19,-8.272576332092285,0.0,False,,Adventure,,,Removed: no owned platform match | Matches preferred genre: Adventure
+User:user_34,Game:game_135400,Minecraft,20,-8.278674125671387,0.0,False,,Adventure,,,Removed: no owned platform match | Matches preferred genre: Adventure
+User:user_35,Game:game_5025,To the Moon,1,-7.755668640136719,1.0,True,Nintendo Switch,,,,Available on Nintendo Switch
+User:user_35,Game:game_17000,Stardew Valley,2,-7.808401107788086,0.5,True,Nintendo Switch,,,,Available on Nintendo Switch
+User:user_35,Game:game_364,Heroes of Might and Magic III: The Restoration of Erathia,3,-8.030084609985352,0.0,False,,,,,Removed: no owned platform match
+User:user_35,Game:game_980,Grand Theft Auto,4,-8.062018394470215,0.25,True,PlayStation,,,,Available on PlayStation
+User:user_35,Game:game_9174,Little Nightmares,5,-8.103347778320312,0.2,True,Nintendo Switch,,,,Available on Nintendo Switch
+User:user_35,Game:game_2155,Dark Souls,6,-8.16815185546875,0.166667,True,Nintendo Switch,,,,Available on Nintendo Switch
+User:user_35,Game:game_5606,Assassin's Creed Unity,7,-8.193946838378906,0.0,False,,,,,Removed: no owned platform match
+User:user_35,Game:game_6739,Black Mesa,8,-8.210742950439453,0.0,False,,,,,Removed: no owned platform match
+User:user_35,Game:game_378,Metal Gear Rising: Revengeance,9,-8.246994972229004,0.0,False,,,,,Removed: no owned platform match
+User:user_35,Game:game_427,Final Fantasy VII,10,-8.269486427307129,0.1,True,PlayStation,,,,Available on PlayStation
+User:user_35,Game:game_1985,Metal Gear Solid V: The Phantom Pain,11,-8.26960277557373,0.0,False,,Tactical,,,Removed: no owned platform match | Matches preferred genre: Tactical
+User:user_35,Game:game_7349,Mass Effect: Andromeda,12,-8.288917541503906,0.0,False,,,,,Removed: no owned platform match
+User:user_35,Game:game_1020,Grand Theft Auto V,13,-8.28903579711914,0.0,False,,,,,Removed: no owned platform match
+User:user_35,Game:game_7352,Abzu,14,-8.299161911010742,0.071429,True,Nintendo Switch,,,,Available on Nintendo Switch
+User:user_35,Game:game_7444,Shovel Knight,15,-8.299586296081543,0.066667,True,Nintendo Switch,,,,Available on Nintendo Switch
+User:user_35,Game:game_986,Halo 2,16,-8.30063533782959,0.0,False,,,,,Removed: no owned platform match
+User:user_35,Game:game_11133,Dark Souls III,17,-8.302383422851562,0.0,False,,,,,Removed: no owned platform match
+User:user_35,Game:game_1876,Spore,18,-8.310369491577148,0.0,False,,Real Time Strategy,,,Removed: no owned platform match | Matches preferred genre: Real Time Strategy
+User:user_35,Game:game_1067,Super Mario Bros. 2,19,-8.344027519226074,0.052632,True,Arcade,,,,Available on Arcade
+User:user_35,Game:game_1976,Call of Juarez: Gunslinger,20,-8.391037940979004,0.05,True,Nintendo Switch,,,,Available on Nintendo Switch
+User:user_36,Game:game_135400,Minecraft,1,-7.1651082038879395,1.0,True,Nintendo Switch,,,,Available on Nintendo Switch
+User:user_36,Game:game_7603,Hellblade: Senua's Sacrifice,2,-7.526315212249756,0.75,True,Nintendo Switch,Indie,,,Available on Nintendo Switch | Matches preferred genre: Indie
+User:user_36,Game:game_135243,It Takes Two,3,-7.653645992279053,0.583333,True,Nintendo Switch,Platformer,,,Available on Nintendo Switch | Matches preferred genre: Platformer
+User:user_36,Game:game_72,Portal 2,4,-7.74190092086792,0.5,True,Nintendo Switch,Platformer,,,Available on Nintendo Switch | Matches preferred genre: Platformer
+User:user_36,Game:game_1871,The Walking Dead,5,-7.767063617706299,0.45,True,Nintendo Switch,Point-and-click,,,Available on Nintendo Switch | Matches preferred genre: Point-and-click
+User:user_36,Game:game_11233,What Remains of Edith Finch,6,-7.803400993347168,0.416667,True,Nintendo Switch,Indie,,,Available on Nintendo Switch | Matches preferred genre: Indie
+User:user_36,Game:game_118,Star Wars: Knights of the Old Republic II - The Sith Lords,7,-7.8465094566345215,0.142857,True,Nintendo Switch,,,,Available on Nintendo Switch
+User:user_36,Game:game_184,Indiana Jones and the Fate of Atlantis,8,-7.901363849639893,0.0,False,,Point-and-click,,,Removed: no owned platform match | Matches preferred genre: Point-and-click
+User:user_36,Game:game_223,The Sims,9,-7.9049201011657715,0.0,False,,,,,Removed: no owned platform match
+User:user_36,Game:game_7706,This War of Mine,10,-7.922507286071777,0.0,False,,Indie,,,Removed: no owned platform match | Matches preferred genre: Indie
+User:user_36,Game:game_7504,The Forest,11,-8.003103256225586,0.340909,True,VR,Indie,,,Available on VR | Matches preferred genre: Indie
+User:user_36,Game:game_134597,Astro's Playroom,12,-8.121503829956055,0.0,False,,Platformer,,,Removed: no owned platform match | Matches preferred genre: Platformer
+User:user_36,Game:game_17000,Stardew Valley,13,-8.202516555786133,0.326923,True,Nintendo Switch,Indie,,,Available on Nintendo Switch | Matches preferred genre: Indie
+User:user_36,Game:game_71,Portal,14,-8.216906547546387,0.321429,True,Nintendo Switch,Platformer,,,Available on Nintendo Switch | Matches preferred genre: Platformer
+User:user_36,Game:game_26196,Crash Bandicoot N. Sane Trilogy,15,-8.293042182922363,0.316667,True,Nintendo Switch,Platformer,,,Available on Nintendo Switch | Matches preferred genre: Platformer
+User:user_36,Game:game_1339,Psychonauts,16,-8.306851387023926,0.0,False,,Platformer,,,Removed: no owned platform match | Matches preferred genre: Platformer
+User:user_36,Game:game_1334,Brothers: A Tale of Two Sons,17,-8.306941032409668,0.308824,True,Nintendo Switch,Indie,,,Available on Nintendo Switch | Matches preferred genre: Indie
+User:user_36,Game:game_1906,Gone Home,18,-8.314401626586914,0.305556,True,Nintendo Switch,Indie,,,Available on Nintendo Switch | Matches preferred genre: Indie
+User:user_36,Game:game_246,Diablo II: Lord of Destruction,19,-8.324901580810547,0.0,False,,,,,Removed: no owned platform match
+User:user_36,Game:game_251833,Balatro,20,-8.329381942749023,0.3,True,Nintendo Switch,Indie,,,Available on Nintendo Switch | Matches preferred genre: Indie
+User:user_37,Game:game_2990,Machinarium,1,-6.676812648773193,0.0,False,,,,,Removed: no owned platform match
+User:user_37,Game:game_1879,Terraria,2,-7.1236348152160645,0.0,False,,,,,Removed: no owned platform match
+User:user_37,Game:game_8965,Darkest Dungeon,3,-7.217337131500244,0.0,False,,,,,Removed: no owned platform match
+User:user_37,Game:game_3075,FTL: Faster Than Light,4,-7.344249248504639,0.0,False,,,,,Removed: no owned platform match
+User:user_37,Game:game_17000,Stardew Valley,5,-7.596454620361328,0.0,False,,,,,Removed: no owned platform match
+User:user_37,Game:game_1991,Fez,6,-7.686034679412842,0.0,False,,,,,Removed: no owned platform match
+User:user_37,Game:game_7444,Shovel Knight,7,-7.705750942230225,0.0,False,,,,,Removed: no owned platform match
+User:user_37,Game:game_2025,Mount & Blade: Warband,8,-7.749492645263672,0.0,False,,,,,Removed: no owned platform match
+User:user_37,Game:game_139090,Inscryption,9,-7.77296257019043,0.0,False,,Card & Board Game,,,Removed: no owned platform match | Matches preferred genre: Card & Board Game
+User:user_37,Game:game_7603,Hellblade: Senua's Sacrifice,10,-7.8373003005981445,0.0,False,,,,,Removed: no owned platform match
+User:user_37,Game:game_19441,Watch Dogs 2,11,-7.9238715171813965,0.0,False,,,,,Removed: no owned platform match
+User:user_37,Game:game_133004,Assassin's Creed Valhalla,12,-7.953598499298096,0.0,False,,,,,Removed: no owned platform match
+User:user_37,Game:game_7205,SuperHot,13,-7.967806339263916,0.0,False,,,,,Removed: no owned platform match
+User:user_37,Game:game_76,Dragon Age: Origins,14,-7.978961944580078,0.0,False,,,,,Removed: no owned platform match
+User:user_37,Game:game_251833,Balatro,15,-7.987077236175537,0.0,False,,Card & Board Game,,,Removed: no owned platform match | Matches preferred genre: Card & Board Game
+User:user_37,Game:game_2262,Gothic II,16,-8.009160995483398,0.0,False,,,,,Removed: no owned platform match
+User:user_37,Game:game_1556,Pokémon HeartGold Version,17,-8.072344779968262,0.0,False,,,,,Removed: no owned platform match
+User:user_37,Game:game_9498,Deus Ex: Mankind Divided,18,-8.09295654296875,0.0,False,,,,,Removed: no owned platform match
+User:user_37,Game:game_20150,Katana Zero,19,-8.101479530334473,0.0,False,,Arcade,,,Removed: no owned platform match | Matches preferred genre: Arcade
+User:user_37,Game:game_140839,Mass Effect Legendary Edition,20,-8.117671012878418,0.0,False,,,,,Removed: no owned platform match
+User:user_38,Game:game_8965,Darkest Dungeon,1,-6.662335395812988,0.0,False,,Strategy,,,Removed: no owned platform match | Matches preferred genre: Strategy
+User:user_38,Game:game_5025,To the Moon,2,-7.489354610443115,0.0,False,,,,,Removed: no owned platform match
+User:user_38,Game:game_90101,Super Smash Bros. Ultimate,3,-7.802818298339844,0.0,False,,Fighting,Metroid,,Removed: no owned platform match | Matches preferred genre: Fighting | Same franchise as liked game: Metroid
+User:user_38,Game:game_1879,Terraria,4,-7.815608024597168,0.0,False,,Strategy,,,Removed: no owned platform match | Matches preferred genre: Strategy
+User:user_38,Game:game_121,Minecraft: Java Edition,5,-7.8629889488220215,0.0,False,,,,,Removed: no owned platform match
+User:user_38,Game:game_17269,Roblox,6,-8.019059181213379,0.0,False,,,,,Removed: no owned platform match
+User:user_38,Game:game_295,Command & Conquer: Red Alert,7,-8.030245780944824,0.0,False,,Strategy,,,Removed: no owned platform match | Matches preferred genre: Strategy
+User:user_38,Game:game_980,Grand Theft Auto,8,-8.071516036987305,0.0,False,,,,,Removed: no owned platform match
+User:user_38,Game:game_40477,Slay the Spire,9,-8.09068489074707,0.0,False,,Strategy,,,Removed: no owned platform match | Matches preferred genre: Strategy
+User:user_38,Game:game_1339,Psychonauts,10,-8.139077186584473,0.0,False,,,,,Removed: no owned platform match
+User:user_38,Game:game_1991,Fez,11,-8.146710395812988,0.0,False,,,,,Removed: no owned platform match
+User:user_38,Game:game_13182,Far Cry: Primal,12,-8.157424926757812,0.0,False,,,,,Removed: no owned platform match
+User:user_38,Game:game_26226,Celeste,13,-8.191651344299316,0.0,False,,,,,Removed: no owned platform match
+User:user_38,Game:game_22917,Gris,14,-8.223749160766602,0.0,False,,,,,Removed: no owned platform match
+User:user_38,Game:game_2899,EarthBound,15,-8.306180000305176,0.0,False,,,,,Removed: no owned platform match
+User:user_38,Game:game_120,Diablo III,16,-8.337539672851562,0.0,False,,Hack and slash/Beat 'em up,Diablo,,Removed: no owned platform match | Matches preferred genre: Hack and slash/Beat 'em up | Same franchise as liked game: Diablo
+User:user_38,Game:game_530,Hitman: Absolution,17,-8.352316856384277,0.0,False,,,,,Removed: no owned platform match
+User:user_38,Game:game_974,Resident Evil 4,18,-8.355889320373535,0.0,False,,,,,Removed: no owned platform match
+User:user_38,Game:game_1876,Spore,19,-8.365900993347168,0.0,False,,Strategy,,,Removed: no owned platform match | Matches preferred genre: Strategy
+User:user_38,Game:game_1331,Limbo,20,-8.367999076843262,0.0,False,,,,,Removed: no owned platform match
+User:user_39,Game:game_26845,Fire Emblem: Three Houses,1,-7.514649391174316,0.0,False,,RPG,,,Removed: no owned platform match | Matches preferred genre: RPG
+User:user_39,Game:game_12517,Undertale,2,-7.929895401000977,0.0,False,,RPG,,,Removed: no owned platform match | Matches preferred genre: RPG
+User:user_39,Game:game_1026,The Legend of Zelda: A Link to the Past,3,-7.988858699798584,0.333333,True,Wii,,,,Available on Wii
+User:user_39,Game:game_4756,Child of Light,4,-8.001416206359863,0.0,False,,RPG,,,Removed: no owned platform match | Matches preferred genre: RPG
+User:user_39,Game:game_364,Heroes of Might and Magic III: The Restoration of Erathia,5,-8.021402359008789,0.0,False,,RPG,,,Removed: no owned platform match | Matches preferred genre: RPG
+User:user_39,Game:game_836,Prince of Persia: The Sands of Time,6,-8.07497787475586,0.0,False,,,,,Removed: no owned platform match
+User:user_39,Game:game_11397,Yakuza 0,7,-8.089315414428711,0.0,False,,RPG,,,Removed: no owned platform match | Matches preferred genre: RPG
+User:user_39,Game:game_193,Day of the Tentacle,8,-8.132322311401367,0.0,False,,,,,Removed: no owned platform match
+User:user_39,Game:game_10148,Night in the Woods,9,-8.161133766174316,0.111111,True,PlayStation 5,,,,Available on PlayStation 5
+User:user_39,Game:game_111469,Among Us,10,-8.192985534667969,0.1,True,PlayStation 5,,,,Available on PlayStation 5
+User:user_39,Game:game_119177,Call of Duty: Modern Warfare,11,-8.209354400634766,0.090909,True,PlayStation 5,,,,Available on PlayStation 5
+User:user_39,Game:game_13166,The Witcher 3: Wild Hunt - Blood and Wine,12,-8.211947441101074,0.683333,True,PlayStation 5,RPG,The Witcher,The Witcher 3: Wild Hunt,Available on PlayStation 5 | Matches preferred genre: RPG | Same franchise as liked game: The Witcher | Related to liked game: The Witcher 3: Wild Hunt
+User:user_39,Game:game_14587,Oxenfree,13,-8.226388931274414,0.0,False,,RPG,,,Removed: no owned platform match | Matches preferred genre: RPG
+User:user_39,Game:game_10919,XCOM 2,14,-8.239431381225586,0.0,False,,RPG,,,Removed: no owned platform match | Matches preferred genre: RPG
+User:user_39,Game:game_2853,Braid,15,-8.253037452697754,0.0,False,,,,,Removed: no owned platform match
+User:user_39,Game:game_885,Super Meat Boy,16,-8.282535552978516,0.0625,True,Wii,,,,Available on Wii
+User:user_39,Game:game_9254,Subnautica,17,-8.301493644714355,0.058824,True,PlayStation 5,,,,Available on PlayStation 5
+User:user_39,Game:game_136625,Hogwarts Legacy,18,-8.304387092590332,0.305556,True,PlayStation 5,RPG,,,Available on PlayStation 5 | Matches preferred genre: RPG
+User:user_39,Game:game_5025,To the Moon,19,-8.340363502502441,0.302632,True,PlayStation 5,RPG,,,Available on PlayStation 5 | Matches preferred genre: RPG
+User:user_39,Game:game_910,Tom Clancy's Splinter Cell,20,-8.387578010559082,0.0,False,,,,,Removed: no owned platform match
+User:user_4,Game:game_2990,Machinarium,1,-7.158233642578125,0.0,False,,,,,Removed: no owned platform match
+User:user_4,Game:game_1277,Plants vs. Zombies,2,-7.575595378875732,0.5,True,Windows Phone,,,,Available on Windows Phone
+User:user_4,Game:game_26820,Blasphemous,3,-7.890848636627197,0.0,False,,,,,Removed: no owned platform match
+User:user_4,Game:game_6801,Far Cry 4,4,-7.954946517944336,0.0,False,,Shooter,,,Removed: no owned platform match | Matches preferred genre: Shooter
+User:user_4,Game:game_2058,Payday 2,5,-8.020503044128418,0.0,False,,Shooter,,,Removed: no owned platform match | Matches preferred genre: Shooter
+User:user_4,Game:game_7444,Shovel Knight,6,-8.06090259552002,0.0,False,,,,,Removed: no owned platform match
+User:user_4,Game:game_1186,Crash Bandicoot 2: Cortex Strikes Back,7,-8.06320571899414,0.0,False,,,,,Removed: no owned platform match
+User:user_4,Game:game_509,Rage,8,-8.11302661895752,0.0,False,,Shooter,,,Removed: no owned platform match | Matches preferred genre: Shooter
+User:user_4,Game:game_3212,The Sims 4,9,-8.115344047546387,0.0,False,,,,,Removed: no owned platform match
+User:user_4,Game:game_14587,Oxenfree,10,-8.137754440307617,0.0,False,,,,,Removed: no owned platform match
+User:user_4,Game:game_3221,Rogue Legacy,11,-8.158112525939941,0.0,False,,,,,Removed: no owned platform match
+User:user_4,Game:game_9254,Subnautica,12,-8.205660820007324,0.0,False,,,,,Removed: no owned platform match
+User:user_4,Game:game_2025,Mount & Blade: Warband,13,-8.209490776062012,0.0,False,,Shooter,,,Removed: no owned platform match | Matches preferred genre: Shooter
+User:user_4,Game:game_730,Grand Theft Auto III,14,-8.255502700805664,0.0,False,,Shooter,,,Removed: no owned platform match | Matches preferred genre: Shooter
+User:user_4,Game:game_910,Tom Clancy's Splinter Cell,15,-8.265637397766113,0.0,False,,Shooter,Tom Clancy’s,,Removed: no owned platform match | Matches preferred genre: Shooter | Same franchise as liked game: Tom Clancy’s
+User:user_4,Game:game_378,Metal Gear Rising: Revengeance,16,-8.279212951660156,0.0,False,,Shooter,,,Removed: no owned platform match | Matches preferred genre: Shooter
+User:user_4,Game:game_139090,Inscryption,17,-8.282500267028809,0.0,False,,,,,Removed: no owned platform match
+User:user_4,Game:game_1983,Bastion,18,-8.282530784606934,0.0,False,,,,,Removed: no owned platform match
+User:user_4,Game:game_125,Diablo,19,-8.297323226928711,0.0,False,,,,,Removed: no owned platform match
+User:user_4,Game:game_8965,Darkest Dungeon,20,-8.304184913635254,0.0,False,,,,,Removed: no owned platform match
+User:user_40,Game:game_7444,Shovel Knight,1,-6.927491664886475,0.0,False,,Platformer,,,Removed: no owned platform match | Matches preferred genre: Platformer
+User:user_40,Game:game_1879,Terraria,2,-7.348747730255127,0.0,False,,Platformer,,,Removed: no owned platform match | Matches preferred genre: Platformer
+User:user_40,Game:game_26226,Celeste,3,-7.496680736541748,0.0,False,,Platformer,,,Removed: no owned platform match | Matches preferred genre: Platformer
+User:user_40,Game:game_7603,Hellblade: Senua's Sacrifice,4,-7.771315574645996,0.25,True,PlayStation 5,,,,Available on PlayStation 5
+User:user_40,Game:game_17000,Stardew Valley,5,-7.919382572174072,0.0,False,,,,,Removed: no owned platform match
+User:user_40,Game:game_2935,"Papers, Please",6,-8.035331726074219,0.0,False,,,,,Removed: no owned platform match
+User:user_40,Game:game_7789,The Binding of Isaac: Rebirth,7,-8.084356307983398,0.0,False,,Arcade,,,Removed: no owned platform match | Matches preferred genre: Arcade
+User:user_40,Game:game_7504,The Forest,8,-8.088170051574707,0.0,False,,,,,Removed: no owned platform match
+User:user_40,Game:game_1156,Tomb Raider II,9,-8.100713729858398,0.0,False,,Platformer,,,Removed: no owned platform match | Matches preferred genre: Platformer
+User:user_40,Game:game_1983,Bastion,10,-8.12226676940918,0.0,False,,,,,Removed: no owned platform match
+User:user_40,Game:game_1991,Fez,11,-8.133843421936035,0.0,False,,Platformer,,,Removed: no owned platform match | Matches preferred genre: Platformer
+User:user_40,Game:game_2350,Mario Kart 8,12,-8.15205192565918,0.0,False,,Arcade,Mario Bros.,,Removed: no owned platform match | Matches preferred genre: Arcade | Same franchise as liked game: Mario Bros.
+User:user_40,Game:game_1512,Pokémon Yellow Version: Special Pikachu Edition,13,-8.167855262756348,0.0,False,,,,,Removed: no owned platform match
+User:user_40,Game:game_1029,The Legend of Zelda: Ocarina of Time,14,-8.206502914428711,0.071429,True,Wii,,,,Available on Wii
+User:user_40,Game:game_1334,Brothers: A Tale of Two Sons,15,-8.212669372558594,0.0,False,,,,,Removed: no owned platform match
+User:user_40,Game:game_111469,Among Us,16,-8.217373847961426,0.0625,True,PlayStation 5,,,,Available on PlayStation 5
+User:user_40,Game:game_18866,Dead by Daylight,17,-8.23115348815918,0.058824,True,PlayStation 5,,,,Available on PlayStation 5
+User:user_40,Game:game_1905,Fortnite,18,-8.241031646728516,0.055556,True,PlayStation 5,,,,Available on PlayStation 5
+User:user_40,Game:game_2112,Mirror's Edge Catalyst,19,-8.273810386657715,0.0,False,,Platformer,,,Removed: no owned platform match | Matches preferred genre: Platformer
+User:user_40,Game:game_26845,Fire Emblem: Three Houses,20,-8.328859329223633,0.0,False,,,,,Removed: no owned platform match
+User:user_5,Game:game_7706,This War of Mine,1,-7.9992876052856445,0.0,False,,Simulator,,,Removed: no owned platform match | Matches preferred genre: Simulator
+User:user_5,Game:game_7205,SuperHot,2,-8.017766952514648,0.0,False,,,,,Removed: no owned platform match
+User:user_5,Game:game_948,Worms Armageddon,3,-8.020757675170898,0.0,False,,,,,Removed: no owned platform match
+User:user_5,Game:game_866,Sid Meier's Civilization V,4,-8.073222160339355,0.0,False,,Simulator,Sid Meier,,Removed: no owned platform match | Matches preferred genre: Simulator | Same franchise as liked game: Sid Meier
+User:user_5,Game:game_26845,Fire Emblem: Three Houses,5,-8.178369522094727,0.0,False,,,,,Removed: no owned platform match
+User:user_5,Game:game_7789,The Binding of Isaac: Rebirth,6,-8.181163787841797,0.0,False,,,,,Removed: no owned platform match
+User:user_5,Game:game_378,Metal Gear Rising: Revengeance,7,-8.239405632019043,0.0,False,,,,,Removed: no owned platform match
+User:user_5,Game:game_2129,Mark of the Ninja,8,-8.31882095336914,0.0,False,,,,,Removed: no owned platform match
+User:user_5,Game:game_565,Uncharted 2: Among Thieves,9,-8.323979377746582,0.0,False,,,,,Removed: no owned platform match
+User:user_5,Game:game_111469,Among Us,10,-8.330781936645508,0.0,False,,,,,Removed: no owned platform match
+User:user_5,Game:game_14593,Hollow Knight,11,-8.415853500366211,0.0,False,,,,,Removed: no owned platform match
+User:user_5,Game:game_251833,Balatro,12,-8.467358589172363,0.0,False,,,,,Removed: no owned platform match
+User:user_5,Game:game_119313,Fall Guys,13,-8.505775451660156,0.0,False,,,,,Removed: no owned platform match
+User:user_5,Game:game_1090,Donkey Kong Country,14,-8.508638381958008,0.0,False,,,,,Removed: no owned platform match
+User:user_5,Game:game_37777,Shadow of the Tomb Raider,15,-8.522612571716309,0.0,False,,,,,Removed: no owned platform match
+User:user_5,Game:game_13,Fallout: A Post Nuclear Role Playing Game,16,-8.52574634552002,0.0,False,,,,,Removed: no owned platform match
+User:user_5,Game:game_1384,Hotline Miami,17,-8.582229614257812,0.0,False,,,,,Removed: no owned platform match
+User:user_5,Game:game_1279,Hearthstone,18,-8.596307754516602,0.0,False,,,Warcraft,,Removed: no owned platform match | Same franchise as liked game: Warcraft
+User:user_5,Game:game_109,L.A. Noire,19,-8.604988098144531,0.0,False,,,,,Removed: no owned platform match
+User:user_5,Game:game_7386,The Talos Principle,20,-8.610390663146973,0.0,False,,,,,Removed: no owned platform match
+User:user_6,Game:game_1305,Tom Clancy's Splinter Cell: Blacklist,1,-7.904028415679932,0.0,False,,Adventure,,,Removed: no owned platform match | Matches preferred genre: Adventure
+User:user_6,Game:game_11233,What Remains of Edith Finch,2,-7.925105571746826,0.75,True,PlayStation 4,Adventure,,,Available on PlayStation 4 | Matches preferred genre: Adventure
+User:user_6,Game:game_19164,Borderlands 3,3,-7.94857120513916,0.583333,True,PlayStation 4,Adventure,,,Available on PlayStation 4 | Matches preferred genre: Adventure
+User:user_6,Game:game_111,Amnesia: The Dark Descent,4,-7.999199390411377,0.5,True,PlayStation 4,Adventure,,,Available on PlayStation 4 | Matches preferred genre: Adventure
+User:user_6,Game:game_139090,Inscryption,5,-8.021862983703613,0.45,True,PlayStation 4,Adventure,,,Available on PlayStation 4 | Matches preferred genre: Adventure
+User:user_6,Game:game_251833,Balatro,6,-8.092150688171387,0.166667,True,PlayStation 4,,,,Available on PlayStation 4
+User:user_6,Game:game_873,Saints Row: The Third,7,-8.112112998962402,0.0,False,,Adventure,,,Removed: no owned platform match | Matches preferred genre: Adventure
+User:user_6,Game:game_5025,To the Moon,8,-8.133448600769043,0.0,False,,Adventure,,,Removed: no owned platform match | Matches preferred genre: Adventure
+User:user_6,Game:game_1020,Grand Theft Auto V,9,-8.137262344360352,0.561111,True,PlayStation 4,Adventure,Grand Theft Auto,,Available on PlayStation 4 | Matches preferred genre: Adventure | Same franchise as liked game: Grand Theft Auto
+User:user_6,Game:game_55935,Doki Doki Literature Club!,10,-8.166881561279297,0.0,False,,Adventure,,,Removed: no owned platform match | Matches preferred genre: Adventure
+User:user_6,Game:game_113112,Hades,11,-8.168047904968262,0.340909,True,PlayStation 4,Adventure,,,Available on PlayStation 4 | Matches preferred genre: Adventure
+User:user_6,Game:game_103329,Control,12,-8.197030067443848,0.333333,True,PlayStation 4,Adventure,,,Available on PlayStation 4 | Matches preferred genre: Adventure
+User:user_6,Game:game_118,Star Wars: Knights of the Old Republic II - The Sith Lords,13,-8.199861526489258,0.0,False,,Adventure,Star Wars,,Removed: no owned platform match | Matches preferred genre: Adventure | Same franchise as liked game: Star Wars
+User:user_6,Game:game_23248,Frostpunk,14,-8.223636627197266,0.321429,True,PlayStation 4,Simulator,,,Available on PlayStation 4 | Matches preferred genre: Simulator
+User:user_6,Game:game_6036,The Last of Us Remastered,15,-8.228147506713867,0.316667,True,PlayStation 4,Adventure,,,Available on PlayStation 4 | Matches preferred genre: Adventure
+User:user_6,Game:game_3075,FTL: Faster Than Light,16,-8.228181838989258,0.0,False,,Simulator,,,Removed: no owned platform match | Matches preferred genre: Simulator
+User:user_6,Game:game_121760,Little Nightmares II,17,-8.23483943939209,0.308824,True,PlayStation 4,Adventure,,,Available on PlayStation 4 | Matches preferred genre: Adventure
+User:user_6,Game:game_1905,Fortnite,18,-8.240213394165039,0.305556,True,PlayStation 4,Simulator,,,Available on PlayStation 4 | Matches preferred genre: Simulator
+User:user_6,Game:game_1277,Plants vs. Zombies,19,-8.251502990722656,0.052632,True,PlayStation Vita,,,,Available on PlayStation Vita
+User:user_6,Game:game_13182,Far Cry: Primal,20,-8.259915351867676,0.3,True,PlayStation 4,Adventure,,,Available on PlayStation 4 | Matches preferred genre: Adventure
+User:user_7,Game:game_942,World of Goo,1,-7.588481903076172,0.0,False,,Simulator,,,Removed: no owned platform match | Matches preferred genre: Simulator
+User:user_7,Game:game_1067,Super Mario Bros. 2,2,-7.676133155822754,0.75,True,Wii U,Adventure,,,Available on Wii U | Matches preferred genre: Adventure
+User:user_7,Game:game_1164,Tomb Raider,3,-7.782680988311768,0.0,False,,Adventure,,,Removed: no owned platform match | Matches preferred genre: Adventure
+User:user_7,Game:game_1114,Castlevania,4,-7.859813690185547,0.45,True,Wii U,,Castlevania,,Available on Wii U | Same franchise as liked game: Castlevania
+User:user_7,Game:game_885,Super Meat Boy,5,-7.860782146453857,0.45,True,Wii U,Adventure,,,Available on Wii U | Matches preferred genre: Adventure
+User:user_7,Game:game_2342,Mario Kart 64,6,-7.860792636871338,0.166667,True,Wii U,,,,Available on Wii U
+User:user_7,Game:game_135243,It Takes Two,7,-7.874691009521484,0.0,False,,Adventure,,,Removed: no owned platform match | Matches preferred genre: Adventure
+User:user_7,Game:game_1991,Fez,8,-7.884481430053711,0.0,False,,Adventure,,,Removed: no owned platform match | Matches preferred genre: Adventure
+User:user_7,Game:game_7789,The Binding of Isaac: Rebirth,9,-7.9279279708862305,0.361111,True,Wii U,Adventure,,,Available on Wii U | Matches preferred genre: Adventure
+User:user_7,Game:game_119313,Fall Guys,10,-7.965705394744873,0.0,False,,,,,Removed: no owned platform match
+User:user_7,Game:game_135400,Minecraft,11,-7.97808313369751,0.0,False,,Adventure; Simulator,Minecraft,Minecraft: Java Edition,"Removed: no owned platform match | Matches preferred genre: Adventure, Simulator | Same franchise as liked game: Minecraft | Related to liked game: Minecraft: Java Edition"
+User:user_7,Game:game_19562,Resident Evil 7: Biohazard,12,-7.985404968261719,0.0,False,,Adventure,Resident Evil,,Removed: no owned platform match | Matches preferred genre: Adventure | Same franchise as liked game: Resident Evil
+User:user_7,Game:game_732,Grand Theft Auto: San Andreas,13,-7.998171329498291,0.0,False,,Adventure,,,Removed: no owned platform match | Matches preferred genre: Adventure
+User:user_7,Game:game_1619,Mortal Kombat II,14,-8.00438404083252,0.071429,True,PlayStation,,,,Available on PlayStation
+User:user_7,Game:game_1339,Psychonauts,15,-8.008525848388672,0.0,False,,Adventure,,,Removed: no owned platform match | Matches preferred genre: Adventure
+User:user_7,Game:game_139090,Inscryption,16,-8.025089263916016,0.0,False,,Adventure,,,Removed: no owned platform match | Matches preferred genre: Adventure
+User:user_7,Game:game_12517,Undertale,17,-8.026869773864746,0.0,False,,Adventure,,,Removed: no owned platform match | Matches preferred genre: Adventure
+User:user_7,Game:game_26820,Blasphemous,18,-8.034226417541504,0.0,False,,Adventure,,,Removed: no owned platform match | Matches preferred genre: Adventure
+User:user_7,Game:game_22917,Gris,19,-8.04377555847168,0.0,False,,Adventure,,,Removed: no owned platform match | Matches preferred genre: Adventure
+User:user_7,Game:game_9174,Little Nightmares,20,-8.04852294921875,0.0,False,,Adventure,,,Removed: no owned platform match | Matches preferred genre: Adventure
+User:user_8,Game:game_8965,Darkest Dungeon,1,-7.481048107147217,0.0,False,,,,,Removed: no owned platform match
+User:user_8,Game:game_7444,Shovel Knight,2,-8.04001522064209,0.0,False,,,,,Removed: no owned platform match
+User:user_8,Game:game_2990,Machinarium,3,-8.073983192443848,0.0,False,,Point-and-click,,,Removed: no owned platform match | Matches preferred genre: Point-and-click
+User:user_8,Game:game_1983,Bastion,4,-8.097344398498535,0.0,False,,,,,Removed: no owned platform match
+User:user_8,Game:game_1067,Super Mario Bros. 2,5,-8.1178617477417,0.0,False,,,,,Removed: no owned platform match
+User:user_8,Game:game_20150,Katana Zero,6,-8.234931945800781,0.0,False,,,,,Removed: no owned platform match
+User:user_8,Game:game_9061,Cuphead,7,-8.257917404174805,0.0,False,,,,,Removed: no owned platform match
+User:user_8,Game:game_135400,Minecraft,8,-8.283915519714355,0.0,False,,,,,Removed: no owned platform match
+User:user_8,Game:game_890,Syberia,9,-8.295666694641113,0.0,False,,Point-and-click,,,Removed: no owned platform match | Matches preferred genre: Point-and-click
+User:user_8,Game:game_2671,Guitar Hero III: Legends of Rock,10,-8.329116821289062,0.0,False,,,,,Removed: no owned platform match
+User:user_8,Game:game_140839,Mass Effect Legendary Edition,11,-8.423364639282227,0.0,False,,,,,Removed: no owned platform match
+User:user_8,Game:game_910,Tom Clancy's Splinter Cell,12,-8.436249732971191,0.0,False,,,,,Removed: no owned platform match
+User:user_8,Game:game_1715,Mega Man 2,13,-8.438859939575195,0.0,False,,,,,Removed: no owned platform match
+User:user_8,Game:game_17000,Stardew Valley,14,-8.48253345489502,0.0,False,,,,,Removed: no owned platform match
+User:user_8,Game:game_966,Resident Evil 3: Nemesis,15,-8.503782272338867,0.0,False,,,,,Removed: no owned platform match
+User:user_8,Game:game_186725,Vampire Survivors,16,-8.529454231262207,0.0,False,,,,,Removed: no owned platform match
+User:user_8,Game:game_246,Diablo II: Lord of Destruction,17,-8.529903411865234,0.0,False,,,,,Removed: no owned platform match
+User:user_8,Game:game_61,Monkey Island 2: LeChuck's Revenge,18,-8.548705101013184,0.0,False,,Point-and-click,,,Removed: no owned platform match | Matches preferred genre: Point-and-click
+User:user_8,Game:game_9727,Soma,19,-8.599067687988281,0.0,False,,,,,Removed: no owned platform match
+User:user_8,Game:game_1619,Mortal Kombat II,20,-8.620430946350098,0.0,False,,,,,Removed: no owned platform match
+User:user_9,Game:game_1318,XCOM: Enemy Unknown,1,-7.637644290924072,0.0,False,,RPG,,,Removed: no owned platform match | Matches preferred genre: RPG
+User:user_9,Game:game_1277,Plants vs. Zombies,2,-7.677163600921631,0.0,False,,Puzzle,,,Removed: no owned platform match | Matches preferred genre: Puzzle
+User:user_9,Game:game_8965,Darkest Dungeon,3,-7.6923370361328125,0.0,False,,Indie; RPG,,,"Removed: no owned platform match | Matches preferred genre: Indie, RPG"
+User:user_9,Game:game_3225,No Man's Sky,4,-7.757636070251465,0.0,False,,Indie,,,Removed: no owned platform match | Matches preferred genre: Indie
+User:user_9,Game:game_1557,Pokémon Ruby Version,5,-7.770632266998291,0.0,False,,RPG,,,Removed: no owned platform match | Matches preferred genre: RPG
+User:user_9,Game:game_3152,Don't Starve,6,-7.8181257247924805,0.0,False,,Indie,,,Removed: no owned platform match | Matches preferred genre: Indie
+User:user_9,Game:game_1337,Torchlight II,7,-7.900749206542969,0.0,False,,Indie; RPG,,,"Removed: no owned platform match | Matches preferred genre: Indie, RPG"
+User:user_9,Game:game_2853,Braid,8,-7.963076114654541,0.0,False,,Indie; Puzzle,,,"Removed: no owned platform match | Matches preferred genre: Indie, Puzzle"
+User:user_9,Game:game_17000,Stardew Valley,9,-8.026114463806152,0.0,False,,Indie; RPG,,,"Removed: no owned platform match | Matches preferred genre: Indie, RPG"
+User:user_9,Game:game_7444,Shovel Knight,10,-8.04831600189209,0.0,False,,Indie,,,Removed: no owned platform match | Matches preferred genre: Indie
+User:user_9,Game:game_26820,Blasphemous,11,-8.071141242980957,0.0,False,,Indie; RPG,,,"Removed: no owned platform match | Matches preferred genre: Indie, RPG"
+User:user_9,Game:game_1906,Gone Home,12,-8.123022079467773,0.0,False,,Indie; Puzzle,,,"Removed: no owned platform match | Matches preferred genre: Indie, Puzzle"
+User:user_9,Game:game_2025,Mount & Blade: Warband,13,-8.1586332321167,0.0,False,,RPG,,,Removed: no owned platform match | Matches preferred genre: RPG
+User:user_9,Game:game_9643,Return of the Obra Dinn,14,-8.168619155883789,0.0,False,,Indie; Puzzle,,,"Removed: no owned platform match | Matches preferred genre: Indie, Puzzle"
+User:user_9,Game:game_2599,Game Dev Tycoon,15,-8.174860954284668,0.0,False,,Indie,,,Removed: no owned platform match | Matches preferred genre: Indie
+User:user_9,Game:game_2935,"Papers, Please",16,-8.216968536376953,0.0,False,,Indie; Puzzle,,,"Removed: no owned platform match | Matches preferred genre: Indie, Puzzle"
+User:user_9,Game:game_133,Warcraft III: The Frozen Throne,17,-8.22800064086914,0.0,False,,,,,Removed: no owned platform match
+User:user_9,Game:game_7603,Hellblade: Senua's Sacrifice,18,-8.246110916137695,0.0,False,,Indie,,,Removed: no owned platform match | Matches preferred genre: Indie
+User:user_9,Game:game_11737,Outer Wilds,19,-8.248738288879395,0.0,False,,Indie; Puzzle,,,"Removed: no owned platform match | Matches preferred genre: Indie, Puzzle"
+User:user_9,Game:game_186725,Vampire Survivors,20,-8.250839233398438,0.0,False,,Indie; RPG,,,"Removed: no owned platform match | Matches preferred genre: Indie, RPG"

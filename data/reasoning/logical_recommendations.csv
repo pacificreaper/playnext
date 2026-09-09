@@ -1,0 +1,104 @@
+user,logic_rank,game,game_name,embedding_rank,embedding_score,final_score,eligible,matched_platforms,matched_genres,matched_franchises,related_liked_games,reasons
+User:user_1,1,Game:game_1558,Pokémon Gold Version,15,-8.321758270263672,0.316667,True,Game Boy Color,Adventure,,,Available on Game Boy Color | Matches preferred genre: Adventure
+User:user_10,1,Game:game_14593,Hollow Knight,3,-7.76035737991333,0.333333,True,Nintendo Switch 2,,,,Available on Nintendo Switch 2
+User:user_10,2,Game:game_110248,Stray,12,-8.31234359741211,0.083333,True,Nintendo Switch 2,,,,Available on Nintendo Switch 2
+User:user_12,1,Game:game_559,Call of Duty: Modern Warfare 2,5,-8.442583084106445,0.4,True,PlayStation 3,,Call of Duty,,Available on PlayStation 3 | Same franchise as liked game: Call of Duty
+User:user_12,2,Game:game_3221,Rogue Legacy,11,-8.570701599121094,0.090909,True,PlayStation 3,,,,Available on PlayStation 3
+User:user_12,3,Game:game_472,The Elder Scrolls V: Skyrim,12,-8.57553482055664,0.083333,True,PlayStation 3,,,,Available on PlayStation 3
+User:user_12,4,Game:game_1879,Terraria,15,-8.679329872131348,0.066667,True,PlayStation 3,,,,Available on PlayStation 3
+User:user_12,5,Game:game_499,God of War III,16,-8.686752319335938,0.0625,True,PlayStation 3,,,,Available on PlayStation 3
+User:user_14,1,Game:game_20150,Katana Zero,1,-7.284988880157471,1.25,True,Xbox One,Indie,,,Available on Xbox One | Matches preferred genre: Indie
+User:user_14,2,Game:game_7444,Shovel Knight,3,-7.482850551605225,0.583333,True,Xbox One,Indie,,,Available on Xbox One | Matches preferred genre: Indie
+User:user_14,3,Game:game_7194,Steins;Gate,2,-7.390369415283203,0.5,True,PlayStation Portable; Xbox 360,,,,"Available on PlayStation Portable, Xbox 360"
+User:user_14,4,Game:game_9061,Cuphead,4,-7.503898620605469,0.5,True,Xbox One,Indie,,,Available on Xbox One | Matches preferred genre: Indie
+User:user_14,5,Game:game_2025,Mount & Blade: Warband,5,-7.50502347946167,0.45,True,Xbox One,Simulator,,,Available on Xbox One | Matches preferred genre: Simulator
+User:user_15,1,Game:game_1879,Terraria,1,-7.592741966247559,1.0,True,PlayStation Vita,,,,Available on PlayStation Vita
+User:user_15,2,Game:game_3221,Rogue Legacy,2,-7.7113237380981445,0.5,True,PlayStation Vita,,,,Available on PlayStation Vita
+User:user_15,3,Game:game_1517,Pokémon Emerald Version,4,-7.8820271492004395,0.25,True,Game Boy Advance,,,,Available on Game Boy Advance
+User:user_15,4,Game:game_2990,Machinarium,6,-7.93878698348999,0.166667,True,PlayStation Vita,,,,Available on PlayStation Vita
+User:user_15,5,Game:game_3097,The Walking Dead: Season Two,9,-8.10112476348877,0.111111,True,PlayStation Vita,,,,Available on PlayStation Vita
+User:user_16,1,Game:game_647,Command & Conquer,1,-7.396561622619629,1.0,True,DOS; Sega Saturn,,,,"Available on DOS, Sega Saturn"
+User:user_16,2,Game:game_2549,Half-Life: Blue Shift,16,-8.392416954040527,0.6625,True,Linux,Puzzle,Half-Life,Half-Life: Opposing Force,Available on Linux | Matches preferred genre: Puzzle | Same franchise as liked game: Half-Life | Related to liked game: Half-Life: Opposing Force
+User:user_16,3,Game:game_8965,Darkest Dungeon,5,-8.063119888305664,0.45,True,Linux,Tactical,,,Available on Linux | Matches preferred genre: Tactical
+User:user_16,4,Game:game_5025,To the Moon,6,-8.085785865783691,0.416667,True,Linux,Puzzle,,,Available on Linux | Matches preferred genre: Puzzle
+User:user_16,5,Game:game_6739,Black Mesa,18,-8.485549926757812,0.405556,True,Linux,,Half-Life,Half-Life: Opposing Force,Available on Linux | Same franchise as liked game: Half-Life | Related to liked game: Half-Life: Opposing Force
+User:user_17,1,Game:game_2437,Prince of Persia: The Two Thrones,2,-7.957343578338623,0.5,True,Xbox,,,,Available on Xbox
+User:user_17,2,Game:game_1277,Plants vs. Zombies,3,-8.000414848327637,0.333333,True,PlayStation Vita,,,,Available on PlayStation Vita
+User:user_17,3,Game:game_136625,Hogwarts Legacy,13,-8.274177551269531,0.076923,True,Nintendo Switch 2,,,,Available on Nintendo Switch 2
+User:user_17,4,Game:game_1339,Psychonauts,19,-8.46909236907959,0.052632,True,Xbox,,,,Available on Xbox
+User:user_18,1,Game:game_18866,Dead by Daylight,2,-7.158599853515625,0.5,True,Cloud Gaming,,,,Available on Cloud Gaming
+User:user_18,2,Game:game_1067,Super Mario Bros. 2,13,-7.895301818847656,0.276923,True,Nintendo,,Mario Bros.,,Available on Nintendo | Same franchise as liked game: Mario Bros.
+User:user_18,3,Game:game_8197,Tetris,15,-7.990055561065674,0.066667,True,Nintendo,,,,Available on Nintendo
+User:user_2,1,Game:game_136625,Hogwarts Legacy,1,-6.639549255371094,1.0,True,PlayStation 5,,,,Available on PlayStation 5
+User:user_2,2,Game:game_119177,Call of Duty: Modern Warfare,3,-7.224210739135742,0.583333,True,PlayStation 5,Shooter,,,Available on PlayStation 5 | Matches preferred genre: Shooter
+User:user_2,3,Game:game_134582,Ratchet & Clank: Rift Apart,13,-7.914822578430176,0.526923,True,PlayStation 5,Shooter,Ratchet & Clank,,Available on PlayStation 5 | Matches preferred genre: Shooter | Same franchise as liked game: Ratchet & Clank
+User:user_2,4,Game:game_28540,Assassin's Creed Origins,2,-7.1368608474731445,0.5,True,PlayStation 5,,,,Available on PlayStation 5
+User:user_2,5,Game:game_2114,Tom Clancy's The Division,5,-7.568819522857666,0.45,True,PlayStation 5,Shooter,,,Available on PlayStation 5 | Matches preferred genre: Shooter
+User:user_22,1,Game:game_17269,Roblox,1,-7.482039928436279,1.25,True,Android,Simulator,,,Available on Android | Matches preferred genre: Simulator
+User:user_22,2,Game:game_135243,It Takes Two,2,-7.64095401763916,0.5,True,Nintendo Switch,,,,Available on Nintendo Switch
+User:user_22,3,Game:game_2935,"Papers, Please",4,-7.877598762512207,0.5,True,Android,Simulator,,,Available on Android | Matches preferred genre: Simulator
+User:user_22,4,Game:game_1279,Hearthstone,11,-8.179487228393555,0.340909,True,Android,Strategy,,,Available on Android | Matches preferred genre: Strategy
+User:user_22,5,Game:game_8965,Darkest Dungeon,15,-8.192988395690918,0.316667,True,Nintendo Switch,Strategy,,,Available on Nintendo Switch | Matches preferred genre: Strategy
+User:user_24,1,Game:game_3221,Rogue Legacy,1,-7.326951026916504,1.25,True,Xbox One,Adventure; Indie,,,"Available on Xbox One | Matches preferred genre: Adventure, Indie"
+User:user_24,2,Game:game_2025,Mount & Blade: Warband,4,-7.682509422302246,0.5,True,Xbox One,Adventure,,,Available on Xbox One | Matches preferred genre: Adventure
+User:user_24,3,Game:game_8965,Darkest Dungeon,5,-7.730307579040527,0.45,True,Xbox One,Adventure; Indie,,,"Available on Xbox One | Matches preferred genre: Adventure, Indie"
+User:user_24,4,Game:game_1879,Terraria,7,-7.733120441436768,0.392857,True,Xbox One,Adventure; Indie,,,"Available on Xbox One | Matches preferred genre: Adventure, Indie"
+User:user_24,5,Game:game_2112,Mirror's Edge Catalyst,8,-7.885481834411621,0.375,True,Xbox One,Adventure,,,Available on Xbox One | Matches preferred genre: Adventure
+User:user_25,1,Game:game_121760,Little Nightmares II,10,-8.139762878417969,0.35,True,Xbox Series X|S,Platformer,,,Available on Xbox Series X|S | Matches preferred genre: Platformer
+User:user_25,2,Game:game_186725,Vampire Survivors,17,-8.285646438598633,0.308824,True,Xbox Series X|S,Arcade,,,Available on Xbox Series X|S | Matches preferred genre: Arcade
+User:user_25,3,Game:game_9254,Subnautica,16,-8.27843952178955,0.0625,True,Xbox Series X|S,,,,Available on Xbox Series X|S
+User:user_27,1,Game:game_1991,Fez,1,-7.615879058837891,1.25,True,Nintendo Switch; PlayStation 3,Adventure; Indie,,,"Available on Nintendo Switch, PlayStation 3 | Matches preferred genre: Adventure, Indie"
+User:user_27,2,Game:game_558,Just Cause 2,2,-7.654862403869629,0.75,True,PlayStation 3,Adventure,,,Available on PlayStation 3 | Matches preferred genre: Adventure
+User:user_27,3,Game:game_885,Super Meat Boy,3,-7.71328067779541,0.583333,True,Nintendo Switch,Adventure; Indie,,,"Available on Nintendo Switch | Matches preferred genre: Adventure, Indie"
+User:user_27,4,Game:game_980,Grand Theft Auto,4,-7.861109256744385,0.5,True,PlayStation 3,Adventure,,,Available on PlayStation 3 | Matches preferred genre: Adventure
+User:user_27,5,Game:game_7205,SuperHot,6,-7.898653030395508,0.416667,True,Nintendo Switch,Indie; Tactical,,,"Available on Nintendo Switch | Matches preferred genre: Indie, Tactical"
+User:user_28,1,Game:game_136625,Hogwarts Legacy,1,-6.711407661437988,1.25,True,PlayStation 5,RPG,,,Available on PlayStation 5 | Matches preferred genre: RPG
+User:user_28,2,Game:game_5025,To the Moon,3,-7.774387836456299,0.583333,True,PlayStation 5,RPG,,,Available on PlayStation 5 | Matches preferred genre: RPG
+User:user_28,3,Game:game_133004,Assassin's Creed Valhalla,13,-8.151761054992676,0.526923,True,PlayStation 5,RPG,Assassin's Creed,,Available on PlayStation 5 | Matches preferred genre: RPG | Same franchise as liked game: Assassin's Creed
+User:user_28,4,Game:game_3042,Dying Light,4,-7.800302505493164,0.5,True,PlayStation 5,RPG,,,Available on PlayStation 5 | Matches preferred genre: RPG
+User:user_28,5,Game:game_140839,Mass Effect Legendary Edition,9,-8.068992614746094,0.361111,True,PlayStation 5,RPG,,,Available on PlayStation 5 | Matches preferred genre: RPG
+User:user_29,1,Game:game_1026,The Legend of Zelda: A Link to the Past,2,-7.412644863128662,0.5,True,Nintendo,,,,Available on Nintendo
+User:user_3,1,Game:game_1558,Pokémon Gold Version,5,-7.701674938201904,0.4,True,Nintendo 3DS,,Pokémon,,Available on Nintendo 3DS | Same franchise as liked game: Pokémon
+User:user_30,1,Game:game_1557,Pokémon Ruby Version,10,-8.35594367980957,0.7,True,Game Boy Advance,RPG,Pokémon,Pokémon Emerald Version,Available on Game Boy Advance | Matches preferred genre: RPG | Same franchise as liked game: Pokémon | Related to liked game: Pokémon Emerald Version
+User:user_30,2,Game:game_135400,Minecraft,4,-8.042283058166504,0.25,True,Amazon Fire TV,,,,Available on Amazon Fire TV
+User:user_32,1,Game:game_5025,To the Moon,1,-7.627410411834717,1.25,True,Xbox One,Adventure,,,Available on Xbox One | Matches preferred genre: Adventure
+User:user_32,2,Game:game_3221,Rogue Legacy,2,-7.758815765380859,0.75,True,Xbox One,Adventure,,,Available on Xbox One | Matches preferred genre: Adventure
+User:user_32,3,Game:game_7706,This War of Mine,3,-7.883666515350342,0.583333,True,Xbox One,Adventure,,,Available on Xbox One | Matches preferred genre: Adventure
+User:user_32,4,Game:game_3025,Middle-earth: Shadow of Mordor,9,-8.142095565795898,0.561111,True,Xbox One,Adventure,The Lord of the Rings,,Available on Xbox One | Matches preferred genre: Adventure | Same franchise as liked game: The Lord of the Rings
+User:user_32,5,Game:game_3225,No Man's Sky,4,-7.8915300369262695,0.5,True,Xbox One,Adventure,,,Available on Xbox One | Matches preferred genre: Adventure
+User:user_33,1,Game:game_139090,Inscryption,1,-7.035979270935059,1.0,True,Xbox Series X|S,,,,Available on Xbox Series X|S
+User:user_33,2,Game:game_1067,Super Mario Bros. 2,3,-7.601670742034912,0.533333,True,Wii U,,Mario Bros.,,Available on Wii U | Same franchise as liked game: Mario Bros.
+User:user_33,3,Game:game_11737,Outer Wilds,2,-7.587738037109375,0.5,True,Xbox Series X|S,,,,Available on Xbox Series X|S
+User:user_33,4,Game:game_1879,Terraria,4,-7.633297920227051,0.25,True,Wii U,,,,Available on Wii U
+User:user_33,5,Game:game_2437,Prince of Persia: The Two Thrones,8,-7.7726826667785645,0.125,True,Nintendo GameCube,,,,Available on Nintendo GameCube
+User:user_35,1,Game:game_5025,To the Moon,1,-7.755668640136719,1.0,True,Nintendo Switch,,,,Available on Nintendo Switch
+User:user_35,2,Game:game_17000,Stardew Valley,2,-7.808401107788086,0.5,True,Nintendo Switch,,,,Available on Nintendo Switch
+User:user_35,3,Game:game_980,Grand Theft Auto,4,-8.062018394470215,0.25,True,PlayStation,,,,Available on PlayStation
+User:user_35,4,Game:game_9174,Little Nightmares,5,-8.103347778320312,0.2,True,Nintendo Switch,,,,Available on Nintendo Switch
+User:user_35,5,Game:game_2155,Dark Souls,6,-8.16815185546875,0.166667,True,Nintendo Switch,,,,Available on Nintendo Switch
+User:user_36,1,Game:game_135400,Minecraft,1,-7.1651082038879395,1.0,True,Nintendo Switch,,,,Available on Nintendo Switch
+User:user_36,2,Game:game_7603,Hellblade: Senua's Sacrifice,2,-7.526315212249756,0.75,True,Nintendo Switch,Indie,,,Available on Nintendo Switch | Matches preferred genre: Indie
+User:user_36,3,Game:game_135243,It Takes Two,3,-7.653645992279053,0.583333,True,Nintendo Switch,Platformer,,,Available on Nintendo Switch | Matches preferred genre: Platformer
+User:user_36,4,Game:game_72,Portal 2,4,-7.74190092086792,0.5,True,Nintendo Switch,Platformer,,,Available on Nintendo Switch | Matches preferred genre: Platformer
+User:user_36,5,Game:game_1871,The Walking Dead,5,-7.767063617706299,0.45,True,Nintendo Switch,Point-and-click,,,Available on Nintendo Switch | Matches preferred genre: Point-and-click
+User:user_39,1,Game:game_13166,The Witcher 3: Wild Hunt - Blood and Wine,12,-8.211947441101074,0.683333,True,PlayStation 5,RPG,The Witcher,The Witcher 3: Wild Hunt,Available on PlayStation 5 | Matches preferred genre: RPG | Same franchise as liked game: The Witcher | Related to liked game: The Witcher 3: Wild Hunt
+User:user_39,2,Game:game_1026,The Legend of Zelda: A Link to the Past,3,-7.988858699798584,0.333333,True,Wii,,,,Available on Wii
+User:user_39,3,Game:game_136625,Hogwarts Legacy,18,-8.304387092590332,0.305556,True,PlayStation 5,RPG,,,Available on PlayStation 5 | Matches preferred genre: RPG
+User:user_39,4,Game:game_5025,To the Moon,19,-8.340363502502441,0.302632,True,PlayStation 5,RPG,,,Available on PlayStation 5 | Matches preferred genre: RPG
+User:user_39,5,Game:game_10148,Night in the Woods,9,-8.161133766174316,0.111111,True,PlayStation 5,,,,Available on PlayStation 5
+User:user_4,1,Game:game_1277,Plants vs. Zombies,2,-7.575595378875732,0.5,True,Windows Phone,,,,Available on Windows Phone
+User:user_40,1,Game:game_7603,Hellblade: Senua's Sacrifice,4,-7.771315574645996,0.25,True,PlayStation 5,,,,Available on PlayStation 5
+User:user_40,2,Game:game_1029,The Legend of Zelda: Ocarina of Time,14,-8.206502914428711,0.071429,True,Wii,,,,Available on Wii
+User:user_40,3,Game:game_111469,Among Us,16,-8.217373847961426,0.0625,True,PlayStation 5,,,,Available on PlayStation 5
+User:user_40,4,Game:game_18866,Dead by Daylight,17,-8.23115348815918,0.058824,True,PlayStation 5,,,,Available on PlayStation 5
+User:user_40,5,Game:game_1905,Fortnite,18,-8.241031646728516,0.055556,True,PlayStation 5,,,,Available on PlayStation 5
+User:user_6,1,Game:game_11233,What Remains of Edith Finch,2,-7.925105571746826,0.75,True,PlayStation 4,Adventure,,,Available on PlayStation 4 | Matches preferred genre: Adventure
+User:user_6,2,Game:game_19164,Borderlands 3,3,-7.94857120513916,0.583333,True,PlayStation 4,Adventure,,,Available on PlayStation 4 | Matches preferred genre: Adventure
+User:user_6,3,Game:game_1020,Grand Theft Auto V,9,-8.137262344360352,0.561111,True,PlayStation 4,Adventure,Grand Theft Auto,,Available on PlayStation 4 | Matches preferred genre: Adventure | Same franchise as liked game: Grand Theft Auto
+User:user_6,4,Game:game_111,Amnesia: The Dark Descent,4,-7.999199390411377,0.5,True,PlayStation 4,Adventure,,,Available on PlayStation 4 | Matches preferred genre: Adventure
+User:user_6,5,Game:game_139090,Inscryption,5,-8.021862983703613,0.45,True,PlayStation 4,Adventure,,,Available on PlayStation 4 | Matches preferred genre: Adventure
+User:user_7,1,Game:game_1067,Super Mario Bros. 2,2,-7.676133155822754,0.75,True,Wii U,Adventure,,,Available on Wii U | Matches preferred genre: Adventure
+User:user_7,2,Game:game_1114,Castlevania,4,-7.859813690185547,0.45,True,Wii U,,Castlevania,,Available on Wii U | Same franchise as liked game: Castlevania
+User:user_7,3,Game:game_885,Super Meat Boy,5,-7.860782146453857,0.45,True,Wii U,Adventure,,,Available on Wii U | Matches preferred genre: Adventure
+User:user_7,4,Game:game_7789,The Binding of Isaac: Rebirth,9,-7.9279279708862305,0.361111,True,Wii U,Adventure,,,Available on Wii U | Matches preferred genre: Adventure
+User:user_7,5,Game:game_2342,Mario Kart 64,6,-7.860792636871338,0.166667,True,Wii U,,,,Available on Wii U
