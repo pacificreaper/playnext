@@ -1,6 +1,6 @@
 # PlayNext
 
-PlayNext is a small video game recommender built around a knowledge graph. It uses an IGDB data snapshot, synthetic users, Neo4j for graph storage, TransE embeddings for link prediction, logical rules for filtering/reranking, and a simple Streamlit UI.
+PlayNext is a knowdledge graph-based video game recommender that uses an IGDB metadata snapshot, synthetic users, Neo4j for graph storage, TransE embeddings for link prediction, logical rules for filtering/reranking, and a simple Streamlit UI to recommend games to users.
 
 ## Setup
 
@@ -27,13 +27,7 @@ Run the commands in this order:
 make data
 ```
 
-This runs:
-
-```bash
-python3 scripts/prepare_data.py
-```
-
-It reads the raw IGDB snapshot, normalizes the data and writes:
+This step reads the raw IGDB snapshot, normalizes the data and writes:
 
 ```text
 data/nodes.csv
@@ -69,13 +63,7 @@ password: playnext
 make train
 ```
 
-This runs:
-
-```bash
-.venv/bin/python scripts/train_embeddings.py
-```
-
-It converts the KG relationships into typed triples for PyKEEN, hides one known `LIKES` edge per eligible user for testing, trains a TransE link prediction model for:
+This converts the KG relationships into triples, hides one known `LIKES` edge per eligible user for testing, trains a TransE link prediction model for:
 
 ```text
 User --LIKES--> ?
@@ -97,13 +85,7 @@ while `recommendations.csv` contains the generated game recommendations.
 make logic
 ```
 
-This runs:
-
-```bash
-python3 scripts/apply_logic.py
-```
-
-It reads the TransE recommendations and applies logical KG rules:
+This reads the TransE recommendations and applies logical KG rules:
 
 - remove games that are not available on a user's owned platform
 - remove games the user already played, liked, or disliked
@@ -125,11 +107,4 @@ data/reasoning/logical_game_candidates.csv
 ```bash
 make app
 ```
-
-This runs:
-
-```bash
-.venv/bin/python -m streamlit run scripts/app.py
-```
-
 The Streamlit UI lets you select a user, view that user's owned platforms and preferred genres, inspect final recommendations, see rejected candidates, and show a small graph for a recommended game.
